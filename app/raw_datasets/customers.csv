@@ -1,0 +1,2061 @@
+customer_id,name,email,city,state,segment,doj,annual_spend,churn
+1,Pingle-Mukherjee,sdalal@bassi.com,Rewa,GJ,SMB,2020-01-01 00:00:00,94935.42,0
+2,"Patla, Basak and Kapadia",,Rajpur Sonarpur,TN,SMB,2020-01-01 08:00:00,135403.39,0
+3,Bhalla and Sons,jratta@cheema.com,Vasai-Virar,MH,Individual,2020-01-01 16:00:00,24506.02,1
+4,"Parsa, Tandon and Bhavsar",beraradhika@mandal.net,Vellore,GJ,Startup,2020-01-02 00:00:00,83341.95,0
+5,"Nair, Pal and Dar",bimalaiyengar@kala-chanda.org,Ahmednagar,KA,Individual,2020-01-02 08:00:00,72083.29,1
+6,Dasgupta-Wason,saxenavedhika@sarraf-goda.info,Nangloi Jat,RJ,Startup,2020-01-02 16:00:00,152043.43,0
+7,Lad Ltd,abhimanyu76@kapoor.com,Serampore,MH,Startup,2020-01-03 00:00:00,201057.9,0
+8,"Hari, Chandran and Wadhwa",bhatnagaredhitha@bhalla.net,Bangalore,MH,Individual,2020-01-03 08:00:00,1039.66,1
+9,"Brahmbhatt, Wason and Kibe",dpradhan@andra.net,Bareilly,GJ,SMB,2020-01-03 16:00:00,95278.12,0
+10,"Prabhu, Mahajan and Hegde",yahvitailor@borra.com,Bulandshahr,TS,SMB,2020-01-04 00:00:00,4524.34,0
+11,Chakraborty and Sons,ranbirsengupta@sachdev.com,Morbi,KA,SMB,2020-01-04 08:00:00,67657.84,0
+12,"Prashad, Bobal and Bail",mgarde@brar.com,Thrissur,GJ,Individual,2020-01-04 16:00:00,28828.74,0
+13,Merchant-Kapur,omaja52@gala-bora.net,Dindigul,KA,Individual,2020-01-05 00:00:00,31144.25,0
+14,Hans-Manda,ahluwaliajyoti@saran-oza.biz,Bhalswa Jahangir Pur,KA,Enterprise,2020-01-05 08:00:00,37004.31,0
+15,"Gokhale, Bir and Lad",,Chandrapur,RJ,Startup,2020-01-05 16:00:00,82534.24,0
+16,Parmer PLC,anshchaudhari@apte.com,Tadipatri,MH,Individual,2020-01-06 00:00:00,34555.95,0
+17,Pillai-Basak,subramaniamijaya@natt-nazareth.net,Ahmedabad,TN,SMB,2020-01-06 08:00:00,112147.31,0
+18,"Behl, Vasa and Mahal",bina83@atwal.com,Ratlam,RJ,Startup,2020-01-06 16:00:00,44063.99,0
+19,"Barad, Goel and Murty",jeremiah09@chad-bora.com,Jalna,RJ,Individual,2020-01-07 00:00:00,6018.13,0
+20,Pillay-Dasgupta,,Jabalpur,KA,Enterprise,2020-01-07 08:00:00,130166.08,1
+21,Wali Inc,idikadayal@balasubramanian.org,Gurgaon,DL,Startup,2020-01-07 16:00:00,28605.38,0
+22,"Shanker, Mannan and Nagar",varmawaida@gokhale.com,Salem,MH,SMB,2020-01-08 00:00:00,48193.72,0
+23,"Morar, Wali and Rout",gvala@palan.com,Nellore,TS,Individual,2020-01-08 08:00:00,98310.39,1
+24,Soman Group,anadig@parmar.org,Vijayanagaram,RJ,Individual,2020-01-08 16:00:00,34352.77,0
+25,"Bhardwaj, Koshy and Dara",gautamitrivedi@pai-choudhary.info,Burhanpur,TN,Individual,2020-01-09 00:00:00,4951.22,1
+26,"Majumdar, Chana and Puri",lohitkala@dugal.com,Moradabad,DL,SMB,2020-01-09 08:00:00,39803.7,0
+27,Bakshi Inc,deshmukhyutika@jayaraman-deep.com,Bally,DL,Individual,2020-01-09 16:00:00,245687.93,0
+28,"Lal, Ratti and Kapur",zinalpuri@chad-samra.com,Nanded,TS,Individual,2020-01-10 00:00:00,87250.86,0
+29,"Dar, Deshmukh and Kulkarni",kjani@dhar.com,New Delhi,RJ,SMB,2020-01-10 08:00:00,94618.17,0
+30,Bera and Sons,daksheshkumar@bhandari-mani.com,Bikaner,TN,Individual,2020-01-10 16:00:00,85037.35,0
+31,"Sagar, Patla and Joshi",yohannansimon@bhattacharyya.com,Nangloi Jat,MH,Enterprise,2020-01-11 00:00:00,18860.18,0
+32,"Malhotra, Koshy and Srinivasan",raveltanvi@sankaran.com,Nangloi Jat,AP,Startup,2020-01-11 08:00:00,46057.98,0
+33,Sethi Ltd,chandkevin@loke.net,Kavali,TN,SMB,2020-01-11 16:00:00,,0
+34,Gara Group,gayathritripathi@seth.com,Ramgarh,TS,Enterprise,2020-01-12 00:00:00,9085.41,0
+35,Chhabra-Dara,gaurikadave@bora.org,Shivpuri,DL,Enterprise,2020-01-12 08:00:00,27669.73,0
+36,"Bobal, Parmar and Nagarajan",oscar68@hayer-mohanty.org,Surendranagar Dudhrej,MH,Startup,2020-01-12 16:00:00,27489.4,0
+37,Majumdar PLC,girishmandal@sharma.org,Malegaon,TN,SMB,2020-01-13 00:00:00,,0
+38,Gola Group,gsama@mutti.com,Guntur,AP,Startup,2020-01-13 08:00:00,,1
+39,Mukhopadhyay-Dhaliwal,ucchalshenoy@deshpande.net,Madurai,AP,Enterprise,2020-01-13 16:00:00,5940.55,0
+40,Deshpande Inc,mangalishanvi@iyengar-sibal.com,Nadiad,KA,SMB,2020-01-14 00:00:00,62157.66,1
+41,Bava LLC,harshil71@gole.com,Tiruvottiyur,KA,SMB,2020-01-14 08:00:00,,0
+42,Prashad PLC,karpechakradhar@wagle.com,Ramgarh,GJ,Startup,2020-01-14 16:00:00,299996.24,0
+43,"Char, Kakar and Chaudhary",,Kalyan-Dombivli,TS,SMB,2020-01-15 00:00:00,10221.46,0
+44,Mistry PLC,haldersanaya@ramachandran.com,Shimla,RJ,Startup,2020-01-15 08:00:00,43931.86,0
+45,"Purohit, Srinivasan and Sundaram",,Howrah,TN,Individual,2020-01-15 16:00:00,113812.61,0
+46,Malhotra-Sridhar,joshinaksh@cherian.com,Raipur,TN,Startup,2020-01-16 00:00:00,103638.01,0
+47,Bedi Inc,chaitalykashyap@pau.info,Kolkata,RJ,SMB,2020-01-16 08:00:00,46702.64,0
+48,Deep Ltd,tristan78@dora-bakshi.com,Suryapet,GJ,Enterprise,2020-01-16 16:00:00,36163.23,0
+49,Mallick Ltd,hritiksavant@dhingra-gupta.com,Nandyal,DL,Individual,2020-01-17 00:00:00,43082.6,0
+50,Parsa-Sem,,Malegaon,DL,Enterprise,2020-01-17 08:00:00,26086.55,0
+51,Thakur Inc,champakbhargava@vora-kurian.org,Malegaon,GJ,Individual,2020-01-17 16:00:00,19535.72,0
+52,Mall PLC,ijaya18@karpe-andra.biz,Jamnagar,DL,SMB,2020-01-18 00:00:00,56082.08,1
+53,Nigam Group,gaurikunda@singhal-zacharia.com,Jaipur,KA,Individual,2020-01-18 08:00:00,26579.86,0
+54,"Divan, Chahal and Walia",ekalinga43@malhotra.com,Morena,TN,Startup,2020-01-18 16:00:00,28808.33,0
+55,Sami-Chakrabarti,adass@goswami.com,Ghaziabad,GJ,Individual,2020-01-19 00:00:00,90891.68,0
+56,Gupta PLC,eta33@maharaj.biz,Pondicherry,TN,SMB,2020-01-19 08:00:00,,0
+57,Kapoor-Basak,sacharbrijesh@vig.com,Muzaffarnagar,RJ,Startup,2020-01-19 16:00:00,78661.15,0
+58,Hayer-Pandya,jtoor@rastogi.biz,Thane,AP,SMB,2020-01-20 00:00:00,6808.82,0
+59,Bhat LLC,rachana36@krish.org,Nagaon,KA,SMB,2020-01-20 08:00:00,,0
+60,Sule Group,abhiram74@mahal-dugar.com,Pali,MH,Startup,2020-01-20 16:00:00,257091.82,0
+61,"Chokshi, Kapur and Solanki",karpallavi@pingle-golla.com,Kottayam,KA,Individual,2020-01-21 00:00:00,29989.03,1
+62,Borra Inc,girindra37@krishnan.info,Kakinada,GJ,Individual,2020-01-21 08:00:00,8209.7,1
+63,"Mohanty, Sama and Basu",gourfrado@saraf.info,Chennai,MH,Startup,2020-01-21 16:00:00,77681.93,0
+64,Behl and Sons,wganesan@bajaj-ratti.com,Kharagpur,AP,SMB,2020-01-22 00:00:00,83064.76,0
+65,Desai-Nagarajan,,Burhanpur,GJ,SMB,2020-01-22 08:00:00,88872.54,0
+66,"Shetty, Bhasin and Madan",gaurangidyal@ranganathan.com,Hindupur,TS,Startup,2020-01-22 16:00:00,26448.45,0
+67,Agrawal LLC,advaithmutti@uppal.biz,Ichalkaranji,TN,SMB,2020-01-23 00:00:00,1294.21,0
+68,"Naik, Basak and Borde",david06@dalal.com,Ajmer,AP,Enterprise,2020-01-23 08:00:00,284991.95,0
+69,Dayal Inc,yagnesh21@agate-arora.biz,Jamshedpur,TN,SMB,2020-01-23 16:00:00,24554.25,1
+70,Lal-Chad,aashi11@dash-narang.com,Vellore,DL,SMB,2020-01-24 00:00:00,95802.9,0
+71,"Rau, Mallick and Misra",waida62@bali-prasad.com,Uluberia,TS,SMB,2020-01-24 08:00:00,104237.22,0
+72,Chakrabarti-Muni,periadya@rau-borde.com,Bangalore,TS,SMB,2020-01-24 16:00:00,80038.34,0
+73,"Atwal, Chahal and Wason",bhavikaramanathan@joshi.info,Tinsukia,AP,Enterprise,2020-01-25 00:00:00,31899.33,0
+74,Hegde-Hegde,kchoudhury@lal.com,Mathura,TS,Enterprise,2020-01-25 08:00:00,26878.16,0
+75,Ahuja Group,zparikh@pingle.biz,Kozhikode,MH,Individual,2020-01-25 16:00:00,77390.66,1
+76,Chandran-Rajan,patlaamara@maharaj.org,Bahraich,TS,SMB,2020-01-26 00:00:00,8545175.0,0
+77,Shenoy-Bail,vedikagola@kade.biz,Bahraich,TN,SMB,2020-01-26 08:00:00,249258.42,0
+78,Chadha LLC,badamiwarjas@iyengar-nayar.net,Malegaon,TN,Startup,2020-01-26 16:00:00,9515.25,0
+79,"Pingle, Deol and Korpal",,Bellary,GJ,SMB,2020-01-27 00:00:00,14298.35,0
+80,Goswami-Kalla,hemani77@bali.info,Ludhiana,TN,Individual,2020-01-27 08:00:00,,0
+81,Bansal-Bhakta,umangprashad@peri.net,Lucknow,GJ,Startup,2020-01-27 16:00:00,113376.03,0
+82,Ramakrishnan-Varughese,jacobsem@mand-ram.com,Saharanpur,TN,Enterprise,2020-01-28 00:00:00,182369.93,0
+83,Kunda-Bir,nitarahora@chhabra-nath.com,Kishanganj,MH,SMB,2020-01-28 08:00:00,19247.38,1
+84,"Ratta, Pillay and Cherian",ekanta55@mukhopadhyay.com,Bhiwandi,RJ,Individual,2020-01-28 16:00:00,75286.82,0
+85,"Bera, Basu and Nath",bachittarbuch@chadha-cherian.net,Korba,GJ,Individual,2020-01-29 00:00:00,102661.19,0
+86,"Kar, Shroff and Sanghvi",kraju@badal.biz,Bettiah,KA,SMB,2020-01-29 08:00:00,96881.64,0
+87,Ghose-Sridhar,uppalubika@sule-chander.net,Deoghar,DL,Startup,2020-01-29 16:00:00,44582.92,0
+88,Subramaniam Inc,viraj58@anand.com,Jehanabad,AP,SMB,2020-01-30 00:00:00,1318.74,0
+89,"Bala, Prakash and Varghese",maya69@saxena.org,Pallavaram,TN,Individual,2020-01-30 08:00:00,74331.8,0
+90,Sarkar Group,dhaliwalekaraj@dave-srivastava.com,Bhagalpur,TS,SMB,2020-01-30 16:00:00,24805.21,0
+91,Sathe Inc,parikhnisha@bava.info,Gaya,RJ,Individual,2020-01-31 00:00:00,50855.45,0
+92,Narain-Batta,thakeryashica@murthy.info,Moradabad,TN,Startup,2020-01-31 08:00:00,,0
+93,Verma Ltd,chatreshsinha@boase-parmer.com,Bahraich,TS,Startup,2020-01-31 16:00:00,43283.62,1
+94,"Sangha, Bhasin and Choudhry",,Dhule,DL,SMB,2020-02-01 00:00:00,155664.09,0
+95,"Mukhopadhyay, Morar and Brar",onirastogi@bansal.com,Bhimavaram,DL,SMB,2020-02-01 08:00:00,17758.28,0
+96,"Kakar, Mane and Suri",uramesh@bir.org,Nadiad,DL,SMB,2020-02-01 16:00:00,94872.46,0
+97,Balakrishnan LLC,shroffnidra@master.com,Imphal,TS,SMB,2020-02-02 00:00:00,320667.9,1
+98,Edwin Inc,,Dindigul,TN,SMB,2020-02-02 08:00:00,9134.62,0
+99,Sahni-Agrawal,gbala@varkey-mital.com,Naihati,DL,Startup,2020-02-02 16:00:00,710.15,0
+100,Vig-Bahri,radha60@mohan.com,Chinsurah,MH,SMB,2020-02-03 00:00:00,48316.07,0
+101,"Jain, Seth and Deo",reyanshmann@singhal.com,Tiruvottiyur,GJ,Enterprise,2020-02-03 08:00:00,413100.0,0
+102,"Balasubramanian, Verma and Sarraf",,Nagaon,TS,Individual,2020-02-03 16:00:00,117287.47,0
+103,"Shroff, Shanker and Raman",vivaanmitra@bali.net,Mira-Bhayandar,TS,Individual,2020-02-04 00:00:00,,0
+104,Dyal Ltd,pseth@mann.com,Navi Mumbai,TN,Individual,2020-02-04 08:00:00,48381.85,0
+105,Khalsa PLC,rishi07@ganesh-babu.com,Pudukkottai,TS,Individual,2020-02-04 16:00:00,25446.07,0
+106,Brahmbhatt-Nadig,triya14@bhatt.info,Ozhukarai,TS,SMB,2020-02-05 00:00:00,48439.29,0
+107,Venkatesh Inc,wishi29@bakshi.com,Chittoor,DL,SMB,2020-02-05 08:00:00,109255.24,0
+108,Rau PLC,chakradevmadan@sodhi.com,Jalgaon,TN,Startup,2020-02-05 16:00:00,773.11,0
+109,Gulati LLC,anusha55@bail-khurana.com,Tinsukia,DL,Startup,2020-02-06 00:00:00,75672.72,0
+110,Prabhu-Sant,nakul30@bir-devi.net,Jalandhar,GJ,SMB,2020-02-06 08:00:00,80757.19,1
+111,Gala Ltd,pbadami@datta.info,Tezpur,RJ,Individual,2020-02-06 16:00:00,86296.27,1
+112,Thaman Inc,nairbrijesh@yogi-hari.com,Junagadh,GJ,SMB,2020-02-07 00:00:00,23553.59,1
+113,Keer-Minhas,pallchristopher@iyer.biz,Unnao,RJ,SMB,2020-02-07 08:00:00,106415.57,0
+114,"Gandhi, Kulkarni and Cheema",psawhney@deo.info,Rajkot,DL,SMB,2020-02-07 16:00:00,8146.48,0
+115,Nagy-Kamdar,samuelparmar@doctor.com,Maheshtala,GJ,Startup,2020-02-08 00:00:00,18889.71,0
+116,Kurian LLC,dalajabhasin@oza-bumb.com,Bidar,TN,Startup,2020-02-08 08:00:00,178448.98,0
+117,Dash-Roy,binacheema@dube-khatri.com,Sirsa,AP,Enterprise,2020-02-08 16:00:00,114084.85,0
+118,Parmer-Mohanty,bhatnagaramaira@raghavan-varma.com,Gandhidham,DL,Individual,2020-02-09 00:00:00,1176.48,0
+119,"Behl, Dixit and Kari",samarth86@dixit.com,Amravati,RJ,SMB,2020-02-09 08:00:00,24269.15,0
+120,Padmanabhan-Dada,bhavika55@samra-gola.com,Jalgaon,MH,Enterprise,2020-02-09 16:00:00,20511.84,0
+121,Gill-More,eta09@dyal.org,Dehri,RJ,Individual,2020-02-10 00:00:00,26844.35,0
+122,"Vaidya, Solanki and Rout",rattivarenya@parikh.com,Chittoor,MH,Individual,2020-02-10 08:00:00,24176.87,1
+123,Garde and Sons,gavinchakrabarti@naik-munshi.com,Kolhapur,TS,Individual,2020-02-10 16:00:00,5488.16,0
+124,Taneja-Chaudhary,swamyrehaan@batra.com,Sambhal,GJ,Individual,2020-02-11 00:00:00,52209.21,0
+125,Kade-Joshi,usaha@sur-peri.com,Kamarhati,MH,Startup,2020-02-11 08:00:00,112158.26,1
+126,Shan-Gala,varmatanvi@shukla.biz,Baranagar,RJ,Startup,2020-02-11 16:00:00,79327.38,0
+127,"Rama, Nazareth and Kibe",dhardhruv@mital.org,Vadodara,TS,Enterprise,2020-02-12 00:00:00,,0
+128,Palla Ltd,samaksh50@mahal.org,Dibrugarh,AP,SMB,2020-02-12 08:00:00,7193.68,0
+129,Ramanathan-Gill,diyengar@pall.org,Vasai-Virar,TN,SMB,2020-02-12 16:00:00,257210.0,0
+130,Garde-Master,,Siwan,TN,SMB,2020-02-13 00:00:00,154971.96,1
+131,"Jaggi, Sanghvi and Iyer",divandalaja@lata.com,Kolkata,TN,Startup,2020-02-13 08:00:00,138993.61,0
+132,Krishnan-Shukla,wradhakrishnan@tank-deo.com,Tenali,MH,SMB,2020-02-13 16:00:00,147178.69,0
+133,Tata Group,yohannanwazir@gopal.com,Thrissur,AP,Enterprise,2020-02-14 00:00:00,229393.85,0
+134,Morar-Krishna,modineha@joshi.net,Bhimavaram,MH,SMB,2020-02-14 08:00:00,66794.66,0
+135,Doctor LLC,vinaya53@peri.com,Kottayam,GJ,Startup,2020-02-14 16:00:00,18997.17,1
+136,Nagy-Mohan,loganmody@sengupta-swamy.com,Pondicherry,MH,Enterprise,2020-02-15 00:00:00,81528.21,0
+137,Patla Inc,zayan84@patla.biz,Haridwar,AP,Individual,2020-02-15 08:00:00,115448.55,0
+138,"Ramachandran, Nigam and Anand",cdhawan@lad.com,Surendranagar Dudhrej,AP,SMB,2020-02-15 16:00:00,113823.12,0
+139,Karan LLC,chanchalgara@dash.com,Madanapalle,GJ,SMB,2020-02-16 00:00:00,,0
+140,Mukhopadhyay Group,ekavirbhalla@chandra.com,Asansol,AP,Startup,2020-02-16 08:00:00,6027.76,1
+141,"Arya, Tella and Chakraborty",rachita89@issac-kashyap.com,Satna,RJ,Individual,2020-02-16 16:00:00,39423.31,0
+142,Thaman Group,bkar@issac.biz,Belgaum,AP,SMB,2020-02-17 00:00:00,215505.38,0
+143,Kapur LLC,nlanka@kalla.com,Raebareli,TN,Startup,2020-02-17 08:00:00,74642.73,0
+144,"Lata, Lanka and Mane",dhawannidhi@lad.net,Ghaziabad,RJ,Startup,2020-02-17 16:00:00,65697.28,0
+145,Sarma-Sethi,wkeer@kulkarni.com,Morena,RJ,SMB,2020-02-18 00:00:00,,0
+146,Rajagopalan Group,veer99@bhasin-dave.biz,Amroha,GJ,Individual,2020-02-18 08:00:00,39064.0,1
+147,Mahajan LLC,khuranavedhika@chada.biz,Bardhaman,KA,Startup,2020-02-18 16:00:00,191853.2,0
+148,"Buch, Master and Uppal",peter48@gara.org,Munger,KA,Startup,2020-02-19 00:00:00,93330.14,1
+149,Vasa and Sons,warjas54@narula.net,Naihati,AP,Individual,2020-02-19 08:00:00,131603.95,0
+150,"Dara, Prabhu and Kaur",anikabahl@tata-tripathi.com,Sri Ganganagar,RJ,Individual,2020-02-19 16:00:00,51490.38,0
+151,Keer-Mangal,ujhaveri@mitra.info,Singrauli,KA,Startup,2020-02-20 00:00:00,84568.26,0
+152,Nayar-Thaker,,Dharmavaram,KA,Individual,2020-02-20 08:00:00,24269.98,0
+153,Raj-Khatri,,Kottayam,AP,Startup,2020-02-20 16:00:00,103899.18,1
+154,Sharma PLC,kiaan16@kothari.com,Kharagpur,KA,Startup,2020-02-21 00:00:00,47423.16,0
+155,Lad-Dhar,balhaarnanda@parikh-bahri.com,Alappuzha,MH,Startup,2020-02-21 08:00:00,49671.83,0
+156,Mani Group,dayalhemang@tak.biz,Bhopal,TS,Startup,2020-02-21 16:00:00,89070.46,0
+157,"Jain, Varma and Mand",,Indore,GJ,SMB,2020-02-22 00:00:00,234027.66,0
+158,Grover LLC,libnisankar@luthra-bora.net,Malegaon,TS,Individual,2020-02-22 08:00:00,5622.46,0
+159,Dhingra Ltd,udarsh19@tata.info,Pallavaram,AP,Individual,2020-02-22 16:00:00,148027.77,0
+160,Hari-Rattan,odikapandit@bandi.info,Nellore,TN,Enterprise,2020-02-23 00:00:00,29397.46,0
+161,Murty-Sule,sachi96@bakshi.com,Pondicherry,GJ,Individual,2020-02-23 08:00:00,49881.58,0
+162,"Khosla, Brar and Kala",daminisaxena@parmer.org,Mysore,AP,Enterprise,2020-02-23 16:00:00,1883.34,0
+163,"Andra, Dass and Parekh",narainsanaya@sundaram.com,Kollam,RJ,SMB,2020-02-24 00:00:00,30444.49,0
+164,Nadkarni PLC,rehaanchaudhary@padmanabhan.com,Chandrapur,TN,Startup,2020-02-24 08:00:00,59366.0,0
+165,Mammen PLC,bsankar@saraf.com,Bhalswa Jahangir Pur,TS,SMB,2020-02-24 16:00:00,4914.33,0
+166,Kanda-Kapur,urastogi@shetty-khosla.info,Tezpur,AP,Individual,2020-02-25 00:00:00,57417.11,1
+167,Sarraf LLC,bchadha@bir.com,Jodhpur,RJ,Individual,2020-02-25 08:00:00,222599.06,0
+168,"Arora, Zachariah and Bassi",edhithayadav@krishnamurthy.com,Tiruppur,GJ,SMB,2020-02-25 16:00:00,9466.54,0
+169,"Dube, Bhalla and Puri",ishwar00@chakrabarti.org,Ambattur,GJ,Enterprise,2020-02-26 00:00:00,,0
+170,"Vasa, Peri and More",agastya57@sarna.info,Ghaziabad,DL,SMB,2020-02-26 08:00:00,44801.41,0
+171,Naik-More,pahal76@badami-jha.com,Adoni,RJ,Startup,2020-02-26 16:00:00,90500.73,0
+172,Nagi Ltd,slanka@kota.com,Gaya,MH,Individual,2020-02-27 00:00:00,25621.11,0
+173,Bhat PLC,dinnitara@dalia.info,Dehri,KA,Startup,2020-02-27 08:00:00,14768.68,0
+174,Vig-Kara,anthony85@krish-pathak.com,Kottayam,TN,SMB,2020-02-27 16:00:00,14866.86,0
+175,"Wadhwa, Kota and Suresh",radha55@dara.com,Rampur,RJ,Startup,2020-02-28 00:00:00,6213.48,0
+176,Bhat-Mitter,jacksondubey@varughese.net,Bhopal,DL,SMB,2020-02-28 08:00:00,17455.68,1
+177,Narang-Srinivasan,,Burhanpur,KA,Startup,2020-02-28 16:00:00,92760.27,1
+178,"Kothari, Palla and Lad",,Bhind,KA,Enterprise,2020-02-29 00:00:00,181428.43,0
+179,Mahal Group,wtiwari@tara.com,Malda,AP,Startup,2020-02-29 08:00:00,143028.19,0
+180,Bajwa-Dayal,chawlapratyush@nayak.biz,Proddatur,KA,SMB,2020-02-29 16:00:00,98226.77,1
+181,Padmanabhan and Sons,sbhavsar@choudhry.net,Kishanganj,MH,Individual,2020-03-01 00:00:00,9946.63,0
+182,De-Trivedi,noahmohanty@mandal.com,Rourkela,GJ,SMB,2020-03-01 08:00:00,29014.45,1
+183,Sibal and Sons,ojaskuruvilla@sastry.com,Muzaffarpur,DL,Startup,2020-03-01 16:00:00,,0
+184,"Raval, Ben and Acharya",buchisha@balasubramanian.org,Kharagpur,KA,Individual,2020-03-02 00:00:00,,1
+185,Dhaliwal Ltd,isampath@dara.org,Haldia,AP,Enterprise,2020-03-02 08:00:00,61507.53,0
+186,Pillay and Sons,victor39@agrawal.info,Gandhidham,MH,Individual,2020-03-02 16:00:00,65187.31,1
+187,Agrawal-Kumer,raghav89@rajagopalan.biz,Allahabad,TS,Startup,2020-03-03 00:00:00,37521.83,0
+188,Sahni LLC,yug73@swaminathan-misra.com,Panchkula,GJ,Enterprise,2020-03-03 08:00:00,37113.5,0
+189,Handa-Brar,pranit77@jaggi.info,Barasat,GJ,SMB,2020-03-03 16:00:00,149897.18,1
+190,Dalal-Choudhury,vamakshi48@agate-anne.com,Raipur,DL,Startup,2020-03-04 00:00:00,132369.31,0
+191,Garg-Gara,chanchalvasa@kashyap.biz,Chandrapur,GJ,Enterprise,2020-03-04 08:00:00,31269.32,0
+192,"Krish, Borah and Kulkarni",amblesamaksh@nayak-bhalla.org,Madhyamgram,KA,Startup,2020-03-04 16:00:00,,0
+193,Sundaram Group,bavadarsh@dara-jhaveri.com,Chittoor,AP,SMB,2020-03-05 00:00:00,259562.77,0
+194,"Parsa, Borde and Bhat",noahmahajan@jha-seth.com,Munger,GJ,Startup,2020-03-05 08:00:00,33628.33,1
+195,Mody-Dhar,yashicanagarajan@gera-pradhan.com,Sultan Pur Majra,GJ,Enterprise,2020-03-05 16:00:00,,0
+196,"Balakrishnan, Bahri and Sinha",nbanerjee@morar.com,Khora ,TS,Individual,2020-03-06 00:00:00,59880.75,0
+197,Shanker-Khurana,oliver33@chana.com,Dehradun,TS,Individual,2020-03-06 08:00:00,240742.75,0
+198,Bandi LLC,choudhryaadhya@tank.com,Nadiad,TN,Individual,2020-03-06 16:00:00,177654.51,0
+199,Mukhopadhyay-Bala,,Hyderabad,MH,Startup,2020-03-07 00:00:00,9198.52,0
+200,Deol-Pant,vgoswami@sarkar.com,Cuttack,KA,Enterprise,2020-03-07 08:00:00,42396.56,0
+201,Lalla-Mistry,choudhuryzarna@bains.biz,Kurnool,GJ,Startup,2020-03-07 16:00:00,3425616.5,0
+202,"Bail, Sanghvi and Peri",kritikanarain@chad.com,Sagar,RJ,Enterprise,2020-03-08 00:00:00,59451.71,1
+203,Sarma Group,lipika82@sahota.com,Bhopal,GJ,Enterprise,2020-03-08 08:00:00,18317.64,0
+204,Bawa PLC,imaran86@mand.com,Saharsa,AP,SMB,2020-03-08 16:00:00,166404.22,0
+205,Srinivasan-Bains,kashish60@kant.com,Aizawl,TN,SMB,2020-03-09 00:00:00,96043.17,1
+206,Hari and Sons,,Asansol,MH,Startup,2020-03-09 08:00:00,154665.45,0
+207,Hora Inc,yoshitabasu@bath-ghose.com,Panvel,RJ,Startup,2020-03-09 16:00:00,166372.63,1
+208,Shan-Shukla,vidhi66@ramanathan.net,Anantapuram,TN,SMB,2020-03-10 00:00:00,117277.84,0
+209,Dugal-Rattan,,Mango,DL,SMB,2020-03-10 08:00:00,49164.84,1
+210,"Bahri, Rout and Sura",nagarajanavi@hora.com,Bharatpur,MH,Individual,2020-03-10 16:00:00,80155.97,0
+211,Pradhan-Sarma,david68@lata-acharya.com,Hyderabad,GJ,SMB,2020-03-11 00:00:00,14857.02,1
+212,"Lal, Dhingra and Narang",lkaur@gade-kannan.org,Dhanbad,GJ,SMB,2020-03-11 08:00:00,95180.52,0
+213,Bhalla Group,rpingle@kibe-trivedi.com,Sonipat,MH,SMB,2020-03-11 16:00:00,16790.96,0
+214,Ranganathan Group,spal@gola.com,Jehanabad,GJ,Startup,2020-03-12 00:00:00,100640.46,0
+215,Andra-Suresh,ikaur@pai.biz,Bardhaman,KA,Startup,2020-03-12 08:00:00,22171.66,0
+216,"Narayanan, Mishra and Kaul",daliafinn@mohanty.com,Bhimavaram,MH,SMB,2020-03-12 16:00:00,10629.64,0
+217,Kumar LLC,riadas@srinivas-nagarajan.info,Gopalpur,TN,Enterprise,2020-03-13 00:00:00,15356.47,0
+218,Savant PLC,wbath@chad-purohit.com,Serampore,MH,Startup,2020-03-13 08:00:00,169.5,0
+219,Srinivasan-Char,,Kollam,RJ,Startup,2020-03-13 16:00:00,107820.33,0
+220,Sharaf LLC,,Patiala,GJ,SMB,2020-03-14 00:00:00,112052.6,0
+221,Kapoor Inc,gaurang26@grewal-chawla.net,Eluru,KA,Individual,2020-03-14 08:00:00,61494.86,0
+222,"Prakash, Badal and Deep",kalacharvi@balay.biz,Jamalpur,KA,SMB,2020-03-14 16:00:00,14958.05,0
+223,"Varma, Dyal and Krishnamurthy",devwagle@sundaram.com,Ichalkaranji,DL,SMB,2020-03-15 00:00:00,,0
+224,"Ramaswamy, Palla and Bath",jatin34@mishra.com,Asansol,TN,Individual,2020-03-15 08:00:00,1641.71,0
+225,Thakur-Balasubramanian,haritaramaswamy@wadhwa-shukla.com,Naihati,TS,SMB,2020-03-15 16:00:00,,0
+226,Butala-Lala,rachitabarad@bhatia.com,Dharmavaram,TS,Startup,2020-03-16 00:00:00,188282.05,0
+227,"Yogi, Kumar and Kulkarni",ashan@bera.info,Udupi,MH,SMB,2020-03-16 08:00:00,23499.19,0
+228,Bandi-Mander,eoak@dada-choudhry.com,Mahbubnagar,DL,SMB,2020-03-16 16:00:00,37176.95,1
+229,Tara-Mangal,asahni@bakshi.com,Madurai,AP,Individual,2020-03-17 00:00:00,9462.0,0
+230,Mandal and Sons,loganyadav@chandran-sridhar.com,Vadodara,MH,SMB,2020-03-17 08:00:00,1068846.5,0
+231,Sathe-Gara,,Aurangabad,DL,Individual,2020-03-17 16:00:00,62250.18,0
+232,Chada-Sharma,urvikoshy@suresh.com,Avadi,TN,SMB,2020-03-18 00:00:00,79548.33,0
+233,Sood Ltd,hayremaya@dass.info,Ghaziabad,TN,SMB,2020-03-18 08:00:00,23927.86,0
+234,Devan and Sons,wakeeta42@agrawal.com,Bijapur,TN,Enterprise,2020-03-18 16:00:00,5054.59,0
+235,Rajan Group,lajita73@seshadri-varty.com,Mau,TN,Startup,2020-03-19 00:00:00,2107961.5,0
+236,"Keer, Wali and Karnik",lkrishna@shroff.info,Siliguri,TN,SMB,2020-03-19 08:00:00,22681.28,0
+237,Patil PLC,tnaidu@chaudhry.com,Dharmavaram,DL,Individual,2020-03-19 16:00:00,21070.62,0
+238,"Luthra, Bobal and Mangat",,Phusro,DL,SMB,2020-03-20 00:00:00,273313.4,0
+239,Ravi-Natarajan,cmand@pingle.com,Jalgaon,KA,Individual,2020-03-20 08:00:00,81421.12,0
+240,"Sampath, Shenoy and Magar",cpathak@bali.com,Rajpur Sonarpur,RJ,SMB,2020-03-20 16:00:00,69182.45,0
+241,Lata-Memon,chakrika32@nagar.com,Mau,TS,Individual,2020-03-21 00:00:00,,1
+242,Malhotra-Sachdev,birwazir@lanka.com,Nizamabad,GJ,Startup,2020-03-21 08:00:00,47622.83,0
+243,Goswami LLC,sennicholas@uppal.net,Bhilwara,TN,Startup,2020-03-21 16:00:00,66172.34,0
+244,Chanda and Sons,gayathrimallick@karan.biz,Mehsana,AP,Individual,2020-03-22 00:00:00,,1
+245,Ram-Nazareth,harsh74@kamdar.biz,Phagwara,GJ,Startup,2020-03-22 08:00:00,102947.93,0
+246,"Taneja, Swamy and Tiwari",hanand@vasa.com,Nadiad,DL,Startup,2020-03-22 16:00:00,16011.66,0
+247,Atwal LLC,modisaumya@bhagat.com,Naihati,AP,Enterprise,2020-03-23 00:00:00,58936.68,0
+248,"Sodhi, Aurora and Dani",hritiksachdeva@deep-chandran.com,Dehradun,AP,Enterprise,2020-03-23 08:00:00,45131.35,1
+249,Narang-Agrawal,vyasriya@buch.org,Muzaffarnagar,AP,Individual,2020-03-23 16:00:00,173764.03,0
+250,"Sagar, Luthra and Dhawan",nidra13@banerjee.com,Chapra,KA,Startup,2020-03-24 00:00:00,84838.04,0
+251,"Bhakta, Balan and Wali",qabil70@shan.net,Pali,DL,Startup,2020-03-24 08:00:00,64630.99,0
+252,"Rajagopalan, Pillai and Maharaj",egupta@ravel.com,Srinagar,AP,SMB,2020-03-24 16:00:00,10422.16,1
+253,Chokshi LLC,michaelramanathan@roy-yadav.biz,Bokaro,TN,Enterprise,2020-03-25 00:00:00,79091.29,0
+254,Kala-Rau,pbobal@sheth-rajagopalan.com,Sonipat,MH,Enterprise,2020-03-25 08:00:00,10596.19,0
+255,Gopal-Mallick,ganga32@sarin-borde.com,Tiruppur,AP,Startup,2020-03-25 16:00:00,34959.81,1
+256,"Palla, Gour and Zacharia",idikashere@bhargava-krishnamurthy.biz,Ujjain,KA,SMB,2020-03-26 00:00:00,13101.3,0
+257,Prashad-Kant,bsrinivas@nayar.com,Pune,GJ,SMB,2020-03-26 08:00:00,100121.04,0
+258,Nadkarni Group,bainsgaurav@sinha.com,Jamnagar,DL,SMB,2020-03-26 16:00:00,19634.1,0
+259,Butala Ltd,niteshghosh@raj-chana.com,Amravati,RJ,Enterprise,2020-03-27 00:00:00,42274.68,0
+260,Koshy-Handa,shuklawarjas@loyal.com,Guna,KA,Startup,2020-03-27 08:00:00,192120.58,1
+261,Bhagat-Majumdar,,Meerut,AP,SMB,2020-03-27 16:00:00,19427.06,0
+262,Thakkar and Sons,ekanshsengupta@chand-choudhury.com,Alwar,DL,Startup,2020-03-28 00:00:00,60254.84,1
+263,Patel Inc,zachariahjeevika@mallick.com,Bhiwani,MH,SMB,2020-03-28 08:00:00,46195.14,0
+264,Bose-Cherian,tchaudhary@upadhyay.com,Purnia,AP,SMB,2020-03-28 16:00:00,1554.67,0
+265,Bhagat Inc,vedhikasinha@butala.info,Sonipat,KA,Enterprise,2020-03-29 00:00:00,133778.83,1
+266,Zachariah-Contractor,ckapur@chhabra.com,Kirari Suleman Nagar,TS,Enterprise,2020-03-29 08:00:00,6081.35,0
+267,Nanda-Dhingra,kwalia@ramachandran.info,Jaipur,TN,SMB,2020-03-29 16:00:00,54649.82,0
+268,"Chada, Lata and Pillai",chaitaly05@sanghvi.info,Narasaraopet,RJ,SMB,2020-03-30 00:00:00,69914.48,0
+269,Narayanan Ltd,daminioza@bhandari.org,Gaya,GJ,Startup,2020-03-30 08:00:00,84150.72,1
+270,"Pingle, Narula and Varma",zayyannarayanan@shere-divan.com,Jaipur,KA,SMB,2020-03-30 16:00:00,99176.18,0
+271,"Bail, Bhat and Master",rushilsawhney@sarraf.net,Kota,DL,Startup,2020-03-31 00:00:00,24824.66,0
+272,Bhasin-Aggarwal,tgokhale@apte.com,Siliguri,RJ,Individual,2020-03-31 08:00:00,852.46,0
+273,"Dewan, Kaur and Mitra",srinivasanpratyush@bhagat.biz,Baranagar,RJ,Startup,2020-03-31 16:00:00,109253.96,0
+274,"Uppal, Sethi and Krishnan",lallpavani@natt.com,Jamalpur,RJ,Enterprise,2020-04-01 00:00:00,65206.13,0
+275,Joshi Ltd,rshroff@pal-roy.com,Malda,AP,SMB,2020-04-01 08:00:00,153731.58,0
+276,Krish-Agarwal,hsrinivas@choudhury.info,Sultan Pur Majra,TN,Enterprise,2020-04-01 16:00:00,146416.02,0
+277,"Muni, Buch and Mittal",ykrishna@tiwari.org,Jabalpur,AP,SMB,2020-04-02 00:00:00,157555.08,0
+278,Gokhale-Nanda,bbath@gulati.org,Kavali,DL,Individual,2020-04-02 08:00:00,56420.64,0
+279,Rattan and Sons,sehgaladvaith@dara.com,Nanded,AP,Enterprise,2020-04-02 16:00:00,34502.16,1
+280,Chakraborty-Nigam,omkaarrajagopal@hegde.info,Etawah,TS,SMB,2020-04-03 00:00:00,133288.11,0
+281,"Singh, Deep and Ghosh",norisneha@khatri.com,Rohtak,TN,Startup,2020-04-03 08:00:00,51016.38,1
+282,Joshi PLC,sanya40@nadkarni-bhakta.com,North Dumdum,TN,Startup,2020-04-03 16:00:00,17225.89,0
+283,Shroff-Uppal,hardik50@dewan.com,Cuttack,DL,Startup,2020-04-04 00:00:00,,0
+284,Mani LLC,skunda@parmar.com,Pimpri-Chinchwad,GJ,Enterprise,2020-04-04 08:00:00,182055.27,1
+285,Basu-Choudhury,jparsa@chokshi.com,Giridih,TS,SMB,2020-04-04 16:00:00,53374.87,0
+286,Khalsa-Sundaram,swaminathangeorge@das-khurana.biz,Salem,KA,SMB,2020-04-05 00:00:00,6691.05,0
+287,"Din, D’Alia and Ramachandran",nidhiaggarwal@arya-vig.com,Dhule,AP,Enterprise,2020-04-05 08:00:00,41712.8,1
+288,"Sandal, Ganesan and Iyer",singhhitesh@lal.org,Bangalore,MH,SMB,2020-04-05 16:00:00,138319.18,0
+289,"Chauhan, Mitter and Goyal",panchalxiti@jayaraman.net,Ambala,AP,Enterprise,2020-04-06 00:00:00,197241.19,0
+290,"Dora, Hans and Sankaran",sai02@mangat-rout.com,Bathinda,RJ,Enterprise,2020-04-06 08:00:00,19336.98,0
+291,"Prabhakar, Garg and Gour",vritti03@sibal.net,Sangli-Miraj & Kupwad,AP,SMB,2020-04-06 16:00:00,5892.35,0
+292,"Koshy, Raman and Sura",harsh36@bakshi.com,Hospet,KA,Enterprise,2020-04-07 00:00:00,178366.06,0
+293,Merchant PLC,ektaramakrishnan@aurora.org,Morena,AP,Startup,2020-04-07 08:00:00,41932.31,0
+294,"Singh, Chandran and Sandhu",godachakradev@rama.com,Chandrapur,TS,Startup,2020-04-07 16:00:00,66330.97,0
+295,"Varma, Varma and Bumb",wnagi@kale.com,Junagadh,TS,Individual,2020-04-08 00:00:00,292746.64,0
+296,Nair-Sur,choudhrybalvan@memon.com,Berhampore,TN,SMB,2020-04-08 08:00:00,5855.11,0
+297,Dash-Sama,fkunda@agrawal.net,Saharanpur,DL,SMB,2020-04-08 16:00:00,88827.38,0
+298,Kala PLC,harshilraman@lall.org,Naihati,GJ,Enterprise,2020-04-09 00:00:00,6544.57,0
+299,Yohannan and Sons,gmukhopadhyay@pau-balan.com,Mira-Bhayandar,MH,Startup,2020-04-09 08:00:00,40014.11,0
+300,Jayaraman PLC,guneetchadha@bhatnagar.com,Ramagundam,RJ,Startup,2020-04-09 16:00:00,138439.06,0
+301,Aurora-Pall,,Bijapur,AP,Enterprise,2020-04-10 00:00:00,48299.48,0
+302,"Kalla, Jain and Morar",tiwarionkar@mangal-tiwari.com,Bhusawal,AP,Individual,2020-04-10 08:00:00,499107.54,0
+303,Deshmukh-Mitter,anthony17@malhotra-mistry.com,Mango,KA,Enterprise,2020-04-10 16:00:00,69601.81,0
+304,"Loyal, Seth and D’Alia",xiti29@kade.net,Indore,DL,SMB,2020-04-11 00:00:00,32926.7,1
+305,Lad and Sons,kala44@morar.com,Raipur,TS,Startup,2020-04-11 08:00:00,21131.35,0
+306,Modi and Sons,mohiniwarrior@goel.org,Tezpur,MH,Individual,2020-04-11 16:00:00,36684.65,0
+307,"Bajaj, Rau and Golla",rehaan78@sekhon-magar.com,Pali,TN,Startup,2020-04-12 00:00:00,39615.49,0
+308,Chanda-Wable,tristan71@bal.com,Meerut,TS,Individual,2020-04-12 08:00:00,6051.02,0
+309,"Sarin, Manne and Swamy",bishakha98@handa-gera.com,Mango,RJ,SMB,2020-04-12 16:00:00,39215.58,1
+310,Malhotra Ltd,dhillonlavanya@gade-wagle.info,Tirupati,DL,Individual,2020-04-13 00:00:00,53045.63,1
+311,Saha-Pingle,eiravati71@naidu.net,Mirzapur,RJ,Enterprise,2020-04-13 08:00:00,109037.28,0
+312,Karan LLC,babumeera@pandya.info,Faridabad,GJ,Individual,2020-04-13 16:00:00,90885.1,0
+313,Batra PLC,mgara@ravi.com,Haldia,TN,SMB,2020-04-14 00:00:00,104858.3,1
+314,"Suri, Gulati and Ramaswamy",,Anantapur,GJ,Individual,2020-04-14 08:00:00,35695.0,1
+315,Anne-Karpe,yadavisodhi@dugar.com,Nandyal,KA,SMB,2020-04-14 16:00:00,20865.4,0
+316,Mani-Devi,jzacharia@bora.org,Rewa,RJ,Startup,2020-04-15 00:00:00,92120.94,0
+317,Dubey Ltd,nikita57@mallick.com,Firozabad,KA,SMB,2020-04-15 08:00:00,56238.37,0
+318,"Bhavsar, Kapur and Badal",khalsaomaja@aurora.biz,Hajipur,AP,Startup,2020-04-15 16:00:00,452.85,1
+319,Soni-Mall,yochanabhardwaj@solanki.com,Arrah,GJ,Enterprise,2020-04-16 00:00:00,138734.24,0
+320,Choudhary-Nagi,amaraoak@kata.com,Mumbai,DL,Enterprise,2020-04-16 08:00:00,125967.17,0
+321,Khosla-Narula,isachar@ramaswamy-nanda.com,Miryalaguda,RJ,SMB,2020-04-16 16:00:00,67575.07,0
+322,Savant Group,ddubey@nadig.com,Kottayam,MH,SMB,2020-04-17 00:00:00,5845.88,0
+323,Chaudhry-Chopra,routekapad@trivedi.net,Bettiah,TN,Individual,2020-04-17 08:00:00,123644.2,0
+324,Balakrishnan Group,manbir94@hora.org,Surat,TS,SMB,2020-04-17 16:00:00,74492.45,1
+325,Jha Ltd,wacharya@mishra.org,Ichalkaranji,DL,Individual,2020-04-18 00:00:00,129461.51,0
+326,Kohli-Bajwa,rajagopalmanbir@sabharwal-gour.net,Bhatpara,DL,SMB,2020-04-18 08:00:00,118431.08,0
+327,"Ratta, Sunder and Bakshi",sdoshi@om.com,Khammam,KA,SMB,2020-04-18 16:00:00,138087.78,0
+328,Behl and Sons,umorar@goel.info,Gopalpur,GJ,Startup,2020-04-19 00:00:00,62035.37,0
+329,"Grover, Ghose and Kulkarni",jaggijyoti@wali-chahal.org,Berhampur,RJ,Startup,2020-04-19 08:00:00,12852.03,0
+330,"Ramachandran, Sathe and Sengupta",maya28@behl.com,Karawal Nagar,RJ,SMB,2020-04-19 16:00:00,94534.98,0
+331,"Pai, Sibal and Prasad",nbains@sarin-sachdev.org,Davanagere,AP,Startup,2020-04-20 00:00:00,82350.69,0
+332,Palla Group,manndipta@dani.info,Bardhaman,AP,Startup,2020-04-20 08:00:00,115241.09,0
+333,Goel Ltd,indirasoni@chaudhary.com,Bhiwani,TN,SMB,2020-04-20 16:00:00,15825.83,0
+334,"Sandal, Chada and Basak",narayananchakrika@chahal.com,Jalandhar,KA,Individual,2020-04-21 00:00:00,18434.99,0
+335,Sarna LLC,mugdhabalasubramanian@gokhale.com,Tinsukia,DL,Individual,2020-04-21 08:00:00,187935.4,1
+336,Gopal Ltd,aishanichaudhry@sha-pant.com,Sirsa,RJ,Startup,2020-04-21 16:00:00,117827.47,1
+337,Din Inc,dasssuhani@dhar-raj.com,Sagar,MH,SMB,2020-04-22 00:00:00,203018.54,0
+338,"Chand, Dubey and Shetty",yochana62@varkey.com,Lucknow,KA,Startup,2020-04-22 08:00:00,120851.11,0
+339,"Sundaram, Munshi and Solanki",lchad@tiwari.com,Silchar,TN,Enterprise,2020-04-22 16:00:00,77282.35,1
+340,Gokhale-Kamdar,vermabaljiwan@chandran-dara.com,Dhule,TN,Enterprise,2020-04-23 00:00:00,90244.52,0
+341,Singh-Hans,,Guna,KA,SMB,2020-04-23 08:00:00,186947.15,1
+342,Kashyap-Dass,shivanshbasak@lata.org,Singrauli,TN,SMB,2020-04-23 16:00:00,73496.4,1
+343,Bhatnagar-Srivastava,mrattan@kadakia-srivastava.com,Ludhiana,KA,Individual,2020-04-24 00:00:00,85062.58,0
+344,Sharma-Nagi,gavinjohal@mand.net,Khora ,TS,Startup,2020-04-24 08:00:00,14464.26,0
+345,"Mand, Ghosh and Konda",waliniharika@ahuja.com,Srinagar,KA,Startup,2020-04-24 16:00:00,54595.87,1
+346,Shankar-Dhawan,chakrikaamble@madan.com,Jehanabad,GJ,SMB,2020-04-25 00:00:00,107115.33,0
+347,Krish Group,,Alwar,KA,SMB,2020-04-25 08:00:00,26860.25,0
+348,Tara LLC,ambleanika@raja.org,Nagpur,TN,SMB,2020-04-25 16:00:00,19207.05,0
+349,Vora Ltd,banikupma@narayanan-balay.biz,Tiruvottiyur,RJ,Individual,2020-04-26 00:00:00,32013.14,0
+350,Jha-Buch,ramachandranfarhan@dass-kota.com,Amravati,GJ,Enterprise,2020-04-26 08:00:00,23495.13,0
+351,"Bhatti, Devi and Munshi",ladlitaneja@nair.com,Jaunpur,TN,Individual,2020-04-26 16:00:00,20566.62,0
+352,Deshpande-Basak,jacob32@pathak.com,Darbhanga,AP,Startup,2020-04-27 00:00:00,47015.7,1
+353,Kari and Sons,ekta58@vala-bath.info,Nandyal,AP,SMB,2020-04-27 08:00:00,202658.1,0
+354,"Kulkarni, Tata and Nayar",dateomkaar@kumar-tak.biz,Bhind,RJ,Startup,2020-04-27 16:00:00,60126.2,0
+355,"Vasa, Sarin and Buch",hgara@gill-karnik.com,Madanapalle,RJ,SMB,2020-04-28 00:00:00,17693.34,0
+356,Om-Mukhopadhyay,ucchalsarkar@dewan.com,Loni,GJ,Individual,2020-04-28 08:00:00,6808.1,0
+357,Morar-Patel,hvora@kothari-jani.com,Jalandhar,TS,Individual,2020-04-28 16:00:00,101255.51,0
+358,Dara-Char,,Barasat,RJ,SMB,2020-04-29 00:00:00,41017.61,1
+359,Khosla-Kurian,psawhney@chopra-bora.com,Nizamabad,AP,SMB,2020-04-29 08:00:00,146626.91,1
+360,"Sachar, Ganguly and Jain",damyanti02@chanda-jaggi.com,Fatehpur,KA,Startup,2020-04-29 16:00:00,91576.6,0
+361,"Boase, Kalla and Dua",sehgalfalan@sama.org,Kolkata,TN,Individual,2020-04-30 00:00:00,135219.66,0
+362,"Shankar, Bakshi and Yohannan",netra66@dayal-dhawan.info,Bulandshahr,AP,SMB,2020-04-30 08:00:00,26977.31,0
+363,Barad Ltd,isur@prabhakar.biz,Jaunpur,AP,Startup,2020-04-30 16:00:00,100199.83,0
+364,Gokhale Group,abdul65@bhat.com,Ambattur,TS,Startup,2020-05-01 00:00:00,26061.8,0
+365,Pandya and Sons,lmadan@chokshi-shroff.com,Nangloi Jat,GJ,Startup,2020-05-01 08:00:00,237830.4,0
+366,Gokhale LLC,hpillai@misra-tank.info,Aizawl,GJ,Enterprise,2020-05-01 16:00:00,85988.57,1
+367,Lala and Sons,wazir63@luthra.com,Amritsar,DL,Startup,2020-05-02 00:00:00,33347.17,0
+368,Sani-Bajwa,osaha@rajagopal.net,Noida,TS,Individual,2020-05-02 08:00:00,26693.59,0
+369,"Choudhury, Rastogi and Som",qmammen@chahal-jaggi.com,Latur,KA,SMB,2020-05-02 16:00:00,18008.58,0
+370,Anne and Sons,orinderramachandran@nagy.org,Moradabad,GJ,SMB,2020-05-03 00:00:00,100832.7,0
+371,Tata-Mahajan,jagvidesai@venkatesh.org,Vijayanagaram,TN,Individual,2020-05-03 08:00:00,20979.37,0
+372,Mane-Hayre,bhaktamadhavi@gandhi-bora.net,Jammu,RJ,SMB,2020-05-03 16:00:00,76892.47,0
+373,"Aurora, Khurana and Narula",ekta55@sem-dada.net,Motihari,TS,Individual,2020-05-04 00:00:00,26128.01,0
+374,"Agarwal, Bhalla and Koshy",michaelbasak@purohit-mittal.com,Vijayawada,RJ,SMB,2020-05-04 08:00:00,92192.49,0
+375,Kannan-Devan,xpai@bhandari.org,Ambala,AP,SMB,2020-05-04 16:00:00,143401.27,0
+376,Sachdev-Suri,zaidpingle@muni.com,Bally,TN,Individual,2020-05-05 00:00:00,127941.29,0
+377,Purohit Group,lallasaumya@sehgal.com,Aurangabad,TN,SMB,2020-05-05 08:00:00,121606.94,0
+378,Vyas LLC,chatresh17@sodhi-kapadia.com,Avadi,AP,SMB,2020-05-05 16:00:00,17672.62,0
+379,Pradhan-Badal,netra80@mallick-palan.info,Bardhaman,TS,SMB,2020-05-06 00:00:00,7865.68,1
+380,Kadakia Ltd,ymukherjee@choudhury-dixit.com,Gorakhpur,AP,Startup,2020-05-06 08:00:00,102040.38,0
+381,Varghese-Acharya,aayush18@vora-deshpande.com,Kanpur,RJ,SMB,2020-05-06 16:00:00,39050.31,0
+382,"Sehgal, Ratti and Tak",yutika31@saxena.com,Tirupati,DL,SMB,2020-05-07 00:00:00,48130.71,0
+383,Saini-Kumar,williamtak@mallick.com,Jhansi,TN,Individual,2020-05-07 08:00:00,2689.79,0
+384,Chauhan-Dhar,qthaman@pant-agate.net,Gandhinagar,MH,SMB,2020-05-07 16:00:00,25545.3,0
+385,Rastogi Ltd,paninisrinivasan@rana-nagar.org,Navi Mumbai,MH,Startup,2020-05-08 00:00:00,2911.8,0
+386,"Deshpande, Khosla and D’Alia",gangulyshivansh@natt-tripathi.com,Adoni,RJ,SMB,2020-05-08 08:00:00,179647.6,0
+387,Pal Inc,dalalquincy@gara-kala.com,Shivpuri,KA,Startup,2020-05-08 16:00:00,23707.88,0
+388,Raghavan and Sons,janani42@oommen-madan.info,Delhi,GJ,Enterprise,2020-05-09 00:00:00,69270.49,1
+389,Varkey Ltd,fganguly@bora-buch.info,Mahbubnagar,AP,Individual,2020-05-09 08:00:00,3379.54,0
+390,Sanghvi PLC,horatheodore@talwar.com,Gaya,AP,SMB,2020-05-09 16:00:00,93428.14,1
+391,"Bhat, Manda and Ahluwalia",rsama@brar-nigam.com,Rewa,KA,SMB,2020-05-10 00:00:00,33160.57,0
+392,"Hayre, Radhakrishnan and Lata",,Ujjain,KA,Enterprise,2020-05-10 08:00:00,193969.19,0
+393,"Nagy, Raju and Soni",max55@chaudry-chanda.com,Morena,RJ,SMB,2020-05-10 16:00:00,,1
+394,Nadkarni-Lad,usrivastava@khanna.com,Morena,RJ,SMB,2020-05-11 00:00:00,33445.22,0
+395,Bajaj-Sabharwal,chandrabahadurjit@pandya.com,Kadapa,KA,SMB,2020-05-11 08:00:00,196540.44,0
+396,"Prakash, Ranganathan and Vyas",fchaudhuri@sehgal.com,Narasaraopet,TN,Individual,2020-05-11 16:00:00,472742.57,0
+397,Parekh and Sons,vaidyajagat@raju.com,Rajpur Sonarpur,RJ,SMB,2020-05-12 00:00:00,148354.53,0
+398,"Thakkar, Varkey and Pandey",anthonybal@trivedi.com,Gopalpur,DL,SMB,2020-05-12 08:00:00,158397.54,0
+399,"Sur, Parmer and Kapur",waliodika@narang.biz,Karnal,RJ,Startup,2020-05-12 16:00:00,24340.71,0
+400,"Baria, Prakash and Dua",pkapoor@om-kala.com,Visakhapatnam,AP,Startup,2020-05-13 00:00:00,73072.78,1
+401,"Rajagopal, Tank and Sankar",omaja73@deep-wason.com,Hosur,RJ,SMB,2020-05-13 08:00:00,5918.07,0
+402,Bakshi PLC,charles62@dugar.biz,Raurkela Industrial Township,TN,SMB,2020-05-13 16:00:00,8477.02,1
+403,Rattan Ltd,katatripti@hegde-hari.com,Kollam,KA,Enterprise,2020-05-14 00:00:00,578488.85,1
+404,Bhatnagar-Kannan,wnagar@mody.net,Madhyamgram,AP,Startup,2020-05-14 08:00:00,33615.3,0
+405,"Pandey, Bora and Dave",,Dhanbad,RJ,Startup,2020-05-14 16:00:00,117219.78,0
+406,Chandran-Shenoy,yashvi93@bandi.com,Madurai,TN,SMB,2020-05-15 00:00:00,139683.15,1
+407,Menon Ltd,,Bilaspur,DL,Individual,2020-05-15 08:00:00,165927.83,1
+408,Chawla LLC,luthrarishi@wason.com,Bokaro,RJ,Individual,2020-05-15 16:00:00,513752.51,0
+409,Anand-Sunder,rakshakaur@kurian.info,Bhubaneswar,TN,Startup,2020-05-16 00:00:00,23494.67,0
+410,"Shroff, Doctor and Pandya",ranaveda@atwal-sankaran.com,Malegaon,DL,Individual,2020-05-16 08:00:00,3500.94,0
+411,Padmanabhan Inc,cbhandari@srivastava-krishnan.com,Bahraich,KA,SMB,2020-05-16 16:00:00,45020.62,0
+412,Hans-Kumer,pavanisani@varghese-sridhar.com,Karaikudi,RJ,Enterprise,2020-05-17 00:00:00,11845.16,0
+413,Taneja-Pandit,stailor@wadhwa.info,Mau,DL,SMB,2020-05-17 08:00:00,1927.9,0
+414,Vora Group,ethanmaharaj@badal.info,Thiruvananthapuram,AP,Enterprise,2020-05-17 16:00:00,37991.11,0
+415,"Wason, Radhakrishnan and Rastogi",sandalanay@kumer-dugal.com,Bongaigaon,KA,SMB,2020-05-18 00:00:00,130157.59,0
+416,Swaminathan-Bawa,tanaykhatri@krishnan.biz,Chandrapur,AP,Individual,2020-05-18 08:00:00,70985.81,0
+417,Khatri Group,mohantyhemal@sami.com,Nangloi Jat,MH,Enterprise,2020-05-18 16:00:00,31883.32,0
+418,"Dubey, Bakshi and Badal",,Aurangabad,TS,Enterprise,2020-05-19 00:00:00,90295.96,0
+419,"Dyal, Ratta and Patil",,Bangalore,RJ,SMB,2020-05-19 08:00:00,22439.08,0
+420,"Toor, Narang and Kota",falak29@barman.com,Medininagar,DL,Individual,2020-05-19 16:00:00,1231.3,0
+421,Chakrabarti PLC,vdube@raman.com,Etawah,TS,SMB,2020-05-20 00:00:00,122860.87,0
+422,"Dugar, Talwar and Mahajan",,Bathinda,TS,SMB,2020-05-20 08:00:00,83086.06,0
+423,"Natarajan, Ganguly and Sarna",masterekavir@mannan-chahal.org,Vadodara,DL,Enterprise,2020-05-20 16:00:00,122124.34,1
+424,"Bhagat, Murty and Sood",chandreshparekh@jha.biz,Medininagar,KA,Enterprise,2020-05-21 00:00:00,3375.89,0
+425,Singhal Ltd,kdoshi@halder-jain.com,Nellore,RJ,Individual,2020-05-21 08:00:00,154252.84,0
+426,Mangal and Sons,,Srinagar,MH,Individual,2020-05-21 16:00:00,82138.73,0
+427,"Goswami, Deo and Patel",qmaharaj@pall-balay.biz,Malda,AP,Enterprise,2020-05-22 00:00:00,70441.81,1
+428,Walia and Sons,ikbal95@kale.com,Kollam,TN,Individual,2020-05-22 08:00:00,83283.05,0
+429,"Balan, Deshmukh and Palla",ojasvibajwa@menon.com,Dehradun,AP,Startup,2020-05-22 16:00:00,169854.74,0
+430,"Tailor, Karpe and Shere",bavaaarav@nadig.com,Tiruchirappalli,TN,Individual,2020-05-23 00:00:00,75153.09,0
+431,Minhas-Aurora,wriddhishmuni@sengupta-murty.com,Bhopal,AP,SMB,2020-05-23 08:00:00,73930.1,0
+432,Gopal-Mallick,chakradevsehgal@desai-chatterjee.com,Jaipur,DL,SMB,2020-05-23 16:00:00,397417.69,0
+433,Chand LLC,vsood@andra-sankar.com,Bally,MH,SMB,2020-05-24 00:00:00,120154.64,0
+434,Shetty Inc,chavvibhargava@viswanathan-ratti.com,Alappuzha,RJ,Startup,2020-05-24 08:00:00,49633.45,0
+435,"Chokshi, Varkey and Rao",aishanigade@kurian-barad.biz,Uluberia,TN,Enterprise,2020-05-24 16:00:00,104459.78,0
+436,Kota LLC,ranveersridhar@narain-patla.biz,Hyderabad,RJ,Enterprise,2020-05-25 00:00:00,41908.03,0
+437,Sehgal-Chakrabarti,hema57@reddy.com,Jalandhar,RJ,SMB,2020-05-25 08:00:00,22091.96,0
+438,Badami LLC,atwaladitya@swamy-vora.net,Begusarai,RJ,Startup,2020-05-25 16:00:00,77218.35,1
+439,Warrior Inc,amairanarula@chaudry.com,Nangloi Jat,GJ,SMB,2020-05-26 00:00:00,223857.83,0
+440,"Majumdar, Biswas and Salvi",abhiram30@yogi-mishra.com,Delhi,KA,Startup,2020-05-26 08:00:00,224998.6,1
+441,"Mahal, Khurana and Comar",karanpandey@kar.org,Bhilwara,AP,Individual,2020-05-26 16:00:00,35564.54,0
+442,"Bhatnagar, Minhas and Doctor",yagneshseth@iyengar.com,Solapur,RJ,Enterprise,2020-05-27 00:00:00,63757.92,0
+443,Padmanabhan-Venkatesh,rmadan@sandal.info,Visakhapatnam,AP,Startup,2020-05-27 08:00:00,20212.6,0
+444,Sura Inc,dominic48@sarna-sami.com,Dehri,RJ,SMB,2020-05-27 16:00:00,461825.93,1
+445,Kulkarni-Wason,kandafaraj@datta.com,Ghaziabad,TN,Individual,2020-05-28 00:00:00,337411.01,0
+446,"Dhawan, Mannan and Sehgal",swamysamaksh@butala.com,Bhimavaram,KA,SMB,2020-05-28 08:00:00,89115.7,0
+447,Halder-Ramachandran,libnishanker@chakrabarti-mistry.org,Sasaram,KA,Startup,2020-05-28 16:00:00,138699.21,0
+448,Chowdhury and Sons,rwadhwa@trivedi.com,Sri Ganganagar,DL,Individual,2020-05-29 00:00:00,106727.5,0
+449,"Halder, Wable and Kalita",sanya67@sant-kata.com,Jehanabad,GJ,Individual,2020-05-29 08:00:00,76443.13,0
+450,"Kumar, Bhatia and Shenoy",cchakrabarti@walia.com,Gudivada,DL,Startup,2020-05-29 16:00:00,4660.02,0
+451,"Parmer, Kanda and Sura",anjali25@wadhwa-kala.com,Thrissur,DL,SMB,2020-05-30 00:00:00,51555.66,0
+452,Badami-Pandey,falak21@saran-manne.net,Bulandshahr,DL,Startup,2020-05-30 08:00:00,95478.19,0
+453,Narain Inc,oscarghose@bawa.net,Thane,DL,Individual,2020-05-30 16:00:00,96198.76,0
+454,Gopal-Jhaveri,ghoshjanuja@padmanabhan.com,Miryalaguda,DL,Startup,2020-05-31 00:00:00,39695.37,0
+455,"Narasimhan, D’Alia and Dugar",taklaksh@karpe-devan.com,Jamalpur,MH,Enterprise,2020-05-31 08:00:00,241571.34,0
+456,Kannan and Sons,jagat28@kakar.com,Bhatpara,KA,Individual,2020-05-31 16:00:00,15567.78,0
+457,Oommen-Upadhyay,urvashi30@gandhi.biz,Jehanabad,DL,Startup,2020-06-01 00:00:00,58978.64,0
+458,Bhandari-Tata,bhegde@lata-kata.com,Raichur,RJ,Startup,2020-06-01 08:00:00,,0
+459,Samra-Kaur,alka98@krishna.net,Arrah,KA,SMB,2020-06-01 16:00:00,101530.02,1
+460,"Seshadri, Date and Shere",bhatiatara@barad.com,Udupi,KA,Startup,2020-06-02 00:00:00,88904.98,1
+461,Goda-Soman,janani18@mandal.com,Kishanganj,TS,SMB,2020-06-02 08:00:00,27368.41,1
+462,"Sachdeva, Sarkar and Dubey",ddevi@anne.com,Nagercoil,MH,Startup,2020-06-02 16:00:00,14437.04,0
+463,"Aggarwal, Kale and Mannan",ymaster@tailor-din.com,Muzaffarnagar,DL,Enterprise,2020-06-03 00:00:00,85887.19,0
+464,Anne-Jaggi,ypathak@bose.com,Rajpur Sonarpur,AP,Startup,2020-06-03 08:00:00,77736.54,0
+465,Oak and Sons,,Lucknow,TN,Individual,2020-06-03 16:00:00,16801.6,0
+466,"Gade, Sama and Dada",rmody@anne-ghosh.org,Hospet,GJ,Enterprise,2020-06-04 00:00:00,103806.4,0
+467,Vasa-Kala,ranveerbhakta@sarna.com,Bahraich,RJ,Individual,2020-06-04 08:00:00,51619.23,0
+468,Ranganathan Group,sachi51@saxena.com,Satna,AP,SMB,2020-06-04 16:00:00,93661.45,1
+469,"Sagar, Desai and Banerjee",sandhualexander@virk-din.org,Dhule,MH,Individual,2020-06-05 00:00:00,154382.07,1
+470,"Mutti, Dasgupta and Kota",venkateshfrederick@krishna.com,Patiala,TN,Startup,2020-06-05 08:00:00,15810.21,0
+471,"Warrior, Kumer and Date",wbedi@roy.com,Raiganj,MH,Startup,2020-06-05 16:00:00,1643.09,0
+472,"Bera, Nagy and Dugar",bhavini70@dhar.com,Jhansi,RJ,Startup,2020-06-06 00:00:00,128354.83,0
+473,Din Group,tristan08@kadakia.com,Sambalpur,KA,Individual,2020-06-06 08:00:00,79970.81,0
+474,Banik-Chaudhari,hdhillon@mallick.info,South Dumdum,TN,SMB,2020-06-06 16:00:00,102235.63,0
+475,Srinivasan and Sons,zarnakaul@misra-dube.com,Sikar,KA,SMB,2020-06-07 00:00:00,154794.86,0
+476,"Grover, Soman and Chakrabarti",iyengaranjali@peri.biz,Chittoor,RJ,Startup,2020-06-07 08:00:00,138005.34,0
+477,Nagarajan Group,rehaanvaidya@kant-korpal.com,Dewas,AP,Individual,2020-06-07 16:00:00,13779129.999999998,0
+478,Kota-Mall,kumarishita@thaker.biz,Rohtak,RJ,Startup,2020-06-08 00:00:00,65257.12,0
+479,"Nayar, Naidu and Dhaliwal",gouraishani@devan.org,Jalandhar,AP,Startup,2020-06-08 08:00:00,56983.93,0
+480,Rege-Dhawan,,Erode,TN,SMB,2020-06-08 16:00:00,43687.95,0
+481,Prakash LLC,qravel@gala.org,Gangtok,TN,Individual,2020-06-09 00:00:00,14184.02,1
+482,"Wadhwa, Nanda and Dua",radhikabalasubramanian@gera.biz,Jalandhar,DL,Enterprise,2020-06-09 08:00:00,72254.41,0
+483,Chaudhuri LLC,mitesh02@sidhu.com,Patna,MH,SMB,2020-06-09 16:00:00,27570.89,0
+484,Anne-Sundaram,ojas31@padmanabhan.info,Sasaram,DL,Enterprise,2020-06-10 00:00:00,216087.64,0
+485,Agate Inc,jacobbhat@pandit.com,Burhanpur,MH,SMB,2020-06-10 08:00:00,74385.77,0
+486,Sane Group,labankata@pathak-batta.com,Siwan,DL,SMB,2020-06-10 16:00:00,76376.71,1
+487,Shere PLC,godaharish@tiwari-dora.com,Karaikudi,KA,SMB,2020-06-11 00:00:00,37262.99,0
+488,Minhas Ltd,,Karimnagar,TN,Startup,2020-06-11 08:00:00,4538.11,0
+489,Palla Ltd,handavedika@bhalla-kumar.com,Nagaon,AP,SMB,2020-06-11 16:00:00,2741.97,0
+490,"Pillai, Bhat and Saraf",ikaur@soman-vala.com,Pondicherry,MH,SMB,2020-06-12 00:00:00,46791.99,1
+491,Doctor Inc,williamsankar@dhaliwal-balasubramanian.com,Thane,RJ,SMB,2020-06-12 08:00:00,7510.29,0
+492,"Wadhwa, D’Alia and Balan",zsaran@shankar.com,Bhatpara,MH,SMB,2020-06-12 16:00:00,79352.29,0
+493,Bedi PLC,hemal73@kamdar.com,Kanpur,AP,SMB,2020-06-13 00:00:00,180914.42,0
+494,Sami-Shroff,nidrasinha@chad-prashad.com,Kurnool,DL,Enterprise,2020-06-13 08:00:00,182312.55,0
+495,Chopra-Tailor,ikshita65@purohit.com,Morena,MH,Startup,2020-06-13 16:00:00,91460.51,0
+496,"Sani, Balan and Dugal",aadiacharya@dada.com,Kavali,GJ,Startup,2020-06-14 00:00:00,20169.04,0
+497,Ramanathan PLC,nbhagat@kurian.net,Bhubaneswar,KA,Startup,2020-06-14 08:00:00,168958.85,0
+498,Pall-Kata,lohit35@kade.com,Bettiah,TN,SMB,2020-06-14 16:00:00,,1
+499,Ghosh-Raju,rtella@aggarwal.com,Ghaziabad,AP,SMB,2020-06-15 00:00:00,18612.39,0
+500,"Sule, Master and Uppal",rmani@andra-mutti.biz,Guntur,TN,Individual,2020-06-15 08:00:00,113663.93,0
+501,Sur-Singh,xvenkatesh@mallick.com,Panipat,GJ,SMB,2020-06-15 16:00:00,28696.02,0
+502,Mammen PLC,deepasahni@rao-khalsa.net,Ranchi,MH,SMB,2020-06-16 00:00:00,137931.83,0
+503,"Gaba, Srinivasan and Bandi",fraja@ben.biz,Berhampur,MH,Enterprise,2020-06-16 08:00:00,500799.94,0
+504,"Gulati, Tak and Mohanty",uiyengar@oza-mittal.com,Kota,RJ,SMB,2020-06-16 16:00:00,2591.31,0
+505,Upadhyay-Kumar,vrindagaba@choudhury-handa.org,Kozhikode,GJ,SMB,2020-06-17 00:00:00,193509.7,0
+506,Raval-Ramakrishnan,gabrielmukhopadhyay@radhakrishnan-nagarajan.biz,Arrah,AP,SMB,2020-06-17 08:00:00,82835.1,0
+507,"Ratta, Tak and Sharaf",mprakash@pall-gupta.com,Shimoga,RJ,Startup,2020-06-17 16:00:00,,0
+508,"Chander, Vyas and Keer",timothy10@ray-sachdev.com,Panvel,KA,SMB,2020-06-18 00:00:00,53168.04,0
+509,Sengupta-Nayak,vedant98@chadha-sathe.com,Warangal,RJ,Startup,2020-06-18 08:00:00,159787.77,0
+510,"Karnik, Baria and Rout",chamelimaharaj@sarkar-dugal.info,Pondicherry,TS,Startup,2020-06-18 16:00:00,5476.17,0
+511,Mani-Banik,egola@misra.com,Jehanabad,AP,Individual,2020-06-19 00:00:00,34712.98,0
+512,"Iyengar, Narain and Ray",osaraf@bhavsar-ahuja.net,Bangalore,TS,Startup,2020-06-19 08:00:00,5896.26,1
+513,"Wali, Bedi and Banik",msharma@palla.com,Lucknow,GJ,Individual,2020-06-19 16:00:00,314729.49,1
+514,Patla-Dhingra,finn95@atwal-virk.com,Chandigarh,DL,Enterprise,2020-06-20 00:00:00,144340.76,0
+515,Ram Ltd,vdas@borra.org,Jabalpur,TS,SMB,2020-06-20 08:00:00,162711.14,0
+516,"Bajwa, Korpal and Ravel",tejasmagar@sheth.com,Ahmedabad,KA,Enterprise,2020-06-20 16:00:00,236305.12,0
+517,Munshi-Memon,yashawinianne@doshi-kadakia.com,Jalna,RJ,Startup,2020-06-21 00:00:00,7560.27,1
+518,Karnik-Kara,zbose@nagar.org,Hazaribagh,DL,Individual,2020-06-21 08:00:00,41403.94,0
+519,Pau-Doshi,odayal@dave.com,Yamunanagar,RJ,SMB,2020-06-21 16:00:00,6263.15,0
+520,Padmanabhan PLC,,Dindigul,TS,Individual,2020-06-22 00:00:00,20121.77,0
+521,Pau-Ravi,paujyoti@grewal.com,Akola,RJ,Enterprise,2020-06-22 08:00:00,22146.02,1
+522,Hayer-Chowdhury,qtiwari@parikh-sridhar.info,Munger,GJ,Individual,2020-06-22 16:00:00,53821.59,0
+523,Dani-Sachar,unni76@pingle.info,Berhampur,DL,SMB,2020-06-23 00:00:00,26583.16,0
+524,"Mitra, Anand and Mandal",gargkeya@johal.com,Jamalpur,GJ,Enterprise,2020-06-23 08:00:00,9048.07,0
+525,Chaudry Inc,mitaliborah@dora-viswanathan.com,Davanagere,TS,SMB,2020-06-23 16:00:00,15581.47,0
+526,Sandhu-Bala,manbir17@puri.com,Mahbubnagar,GJ,SMB,2020-06-24 00:00:00,13542.1,0
+527,Nigam-Gole,sgulati@pingle.com,Barasat,KA,SMB,2020-06-24 08:00:00,307255.18,0
+528,Ganguly-Narula,kai80@bhatti-bhardwaj.com,Sikar,TS,SMB,2020-06-24 16:00:00,121054.69,0
+529,Viswanathan-Vala,urvi40@nagy-ramanathan.com,Secunderabad,TS,Individual,2020-06-25 00:00:00,291940.39,0
+530,"Ahluwalia, Nazareth and Tata",ladvidhi@sani.com,Jalna,TS,SMB,2020-06-25 08:00:00,49245.19,0
+531,Purohit Inc,harinakshigrover@rai-muni.com,Bhubaneswar,AP,SMB,2020-06-25 16:00:00,27730.45,0
+532,Ravi-Saran,ekarajchad@sachdev.com,Tiruvottiyur,RJ,Startup,2020-06-26 00:00:00,136079.91,0
+533,Mallick Group,bimala93@devan.com,Siwan,AP,Startup,2020-06-26 08:00:00,33566.67,0
+534,"Parikh, Comar and Koshy",,Belgaum,AP,SMB,2020-06-26 16:00:00,30242.53,0
+535,"Prasad, Sarin and Halder",mangatwakeeta@tandon-sarkar.com,Maheshtala,KA,SMB,2020-06-27 00:00:00,22493.09,0
+536,"Goyal, Gole and Pathak",ganesanjoshua@nagar.com,Alwar,DL,Enterprise,2020-06-27 08:00:00,11805.92,0
+537,Hayre-Ray,ishanikaur@kaul.com,Sultan Pur Majra,RJ,SMB,2020-06-27 16:00:00,25188.63,0
+538,"Toor, Bir and Patla",aadhya54@mohan-sarin.com,Kollam,GJ,Startup,2020-06-28 00:00:00,37315.07,1
+539,Sama-Brar,samakshdeshpande@badami-goyal.com,Anantapuram,MH,SMB,2020-06-28 08:00:00,95271.41,0
+540,Bedi LLC,qushi21@ben-natarajan.com,Kamarhati,TS,SMB,2020-06-28 16:00:00,5491.65,0
+541,Peri-Narain,issacranbir@dixit.com,Jaunpur,GJ,Startup,2020-06-29 00:00:00,20090.96,0
+542,"Raj, Hegde and Krishnan",bbhatia@mukhopadhyay.com,Panvel,TS,Enterprise,2020-06-29 08:00:00,140726.48,0
+543,"Wason, Pandit and Varma",jaggigaurangi@sharaf.info,Delhi,KA,Startup,2020-06-29 16:00:00,13506.86,1
+544,"Buch, Bhatt and Das",sridharwatika@chander.org,Akola,TS,SMB,2020-06-30 00:00:00,35660.16,1
+545,Saha-Sathe,tripti19@walla.info,Khora ,AP,Individual,2020-06-30 08:00:00,169996.36,0
+546,Shukla-Tank,ryanrattan@dhingra.com,Berhampur,RJ,SMB,2020-06-30 16:00:00,14308.07,0
+547,Dutta-Das,tmahal@varkey.info,Malegaon,MH,Individual,2020-07-01 00:00:00,7340.67,0
+548,"Dube, Ramesh and De",radha39@thakur.org,Pune,TN,Startup,2020-07-01 08:00:00,56328.79,0
+549,Chaudhary-Kamdar,lalltamanna@gulati.com,Malda,TS,Enterprise,2020-07-01 16:00:00,30611.68,0
+550,Venkataraman-Subramaniam,chaudhryadvik@master-bava.com,Ambarnath,GJ,Startup,2020-07-02 00:00:00,70444.34,0
+551,Doctor Inc,gkashyap@trivedi.com,Indore,AP,Individual,2020-07-02 08:00:00,138434.88,0
+552,Nagarajan PLC,xavier57@seshadri.com,Bhilwara,TN,Startup,2020-07-02 16:00:00,12538.58,0
+553,Aggarwal and Sons,jatin12@gola.info,Allahabad,MH,Individual,2020-07-03 00:00:00,73879.15,1
+554,Setty-Balan,,Kolkata,TN,Individual,2020-07-03 08:00:00,59859.2,0
+555,Jha-Tripathi,zbadal@agate.com,Tiruchirappalli,AP,SMB,2020-07-03 16:00:00,13224.04,1
+556,Bumb-Merchant,odika21@banerjee-baria.com,Adoni,RJ,SMB,2020-07-04 00:00:00,83143.78,0
+557,Ramesh-Parsa,kchanda@virk-biswas.com,Chandrapur,RJ,Startup,2020-07-04 08:00:00,27175.36,0
+558,Balasubramanian Group,znagy@varkey.com,Danapur,DL,SMB,2020-07-04 16:00:00,56874.1,0
+559,Date-Kar,qpalla@dewan-pillay.com,Pallavaram,RJ,Individual,2020-07-05 00:00:00,7297.64,0
+560,"Lad, Joshi and Sahota",butalakala@palla-samra.com,Gandhidham,DL,Individual,2020-07-05 08:00:00,52310.37,0
+561,Randhawa Ltd,omaja73@sethi.info,Firozabad,TN,SMB,2020-07-05 16:00:00,31105.87,0
+562,Pandya LLC,yoshita22@soman.com,Ahmedabad,KA,SMB,2020-07-06 00:00:00,146889.83,1
+563,"Morar, Saini and Ray",qasimgandhi@choudhury.info,Siliguri,GJ,Startup,2020-07-06 08:00:00,4986.65,0
+564,Sidhu Ltd,bimala47@natarajan-banik.net,Pimpri-Chinchwad,GJ,SMB,2020-07-06 16:00:00,46097.95,0
+565,Mane PLC,jdube@chanda.com,Raiganj,TN,Individual,2020-07-07 00:00:00,52129.27,1
+566,Bajwa Inc,masonchawla@nadig-sha.com,Ghaziabad,TS,SMB,2020-07-07 08:00:00,109735.53,0
+567,Gandhi Inc,vamakshi42@ratti.net,Darbhanga,TS,Startup,2020-07-07 16:00:00,72589.25,0
+568,Naik Ltd,ekalinga14@pant.com,Rajpur Sonarpur,RJ,Enterprise,2020-07-08 00:00:00,93521.3,0
+569,Nayak-Chaudhary,dadawarhi@kara.org,Salem,GJ,Startup,2020-07-08 08:00:00,127568.39,1
+570,Kapoor-Babu,lshanker@majumdar.com,Begusarai,GJ,SMB,2020-07-08 16:00:00,,1
+571,"Basu, Shroff and Bhalla",sara44@dalia-nigam.com,Tezpur,DL,Startup,2020-07-09 00:00:00,32019.17,1
+572,Minhas-Vyas,mekhala64@mitter-aurora.com,Medininagar,KA,SMB,2020-07-09 08:00:00,65640.36,0
+573,Datta-Modi,zbala@amble.info,Satna,AP,Startup,2020-07-09 16:00:00,155826.86,1
+574,Issac-Deep,ekade@tripathi.com,Panvel,TS,Individual,2020-07-10 00:00:00,386897.61,0
+575,Batra Group,pranit61@bali-chahal.com,Aurangabad,GJ,SMB,2020-07-10 08:00:00,187247.74,0
+576,Ramakrishnan PLC,karnikvedhika@rao.com,Mau,DL,Enterprise,2020-07-10 16:00:00,,0
+577,Korpal PLC,yprabhu@kalla.com,Kakinada,MH,Enterprise,2020-07-11 00:00:00,18455.19,0
+578,"Choudhry, Acharya and Babu",hayerkamya@saini.com,Sambalpur,DL,Startup,2020-07-11 08:00:00,57133.1,1
+579,"Toor, Joshi and Mallick",abhatia@nagarajan.com,Panipat,TS,Startup,2020-07-11 16:00:00,115039.59,1
+580,Morar-Verma,gangakarpe@yogi.com,Agra,TS,SMB,2020-07-12 00:00:00,57663.55,0
+581,"Bansal, Trivedi and Sahni",mohinibhatti@bal-srivastava.biz,Bhatpara,DL,SMB,2020-07-12 08:00:00,56105.3,0
+582,Misra and Sons,routchatresh@babu.com,Hubli–Dharwad,AP,SMB,2020-07-12 16:00:00,154834.5,0
+583,Edwin LLC,bassijagat@sampath.com,Davanagere,TN,Startup,2020-07-13 00:00:00,38121.05,1
+584,"Sankar, Narain and Hari",saumya63@kant.com,Danapur,TS,SMB,2020-07-13 08:00:00,166995.02,0
+585,Aurora Group,faris60@kant.com,Raurkela Industrial Township,DL,Individual,2020-07-13 16:00:00,44389.7,0
+586,"Mangat, Taneja and Prabhu",chakrika41@kaul.net,Hazaribagh,GJ,Enterprise,2020-07-14 00:00:00,33816.73,0
+587,Nath-Yogi,pranav56@issac.info,Kakinada,DL,Startup,2020-07-14 08:00:00,51435.02,0
+588,"Mukhopadhyay, Tella and Sarna",devansh83@salvi.com,Durg,KA,SMB,2020-07-14 16:00:00,122175.97,0
+589,"Khare, Srinivas and Sachar",janya17@andra-bhattacharyya.com,Singrauli,TN,SMB,2020-07-15 00:00:00,11447.56,1
+590,Chandra-Samra,bsarin@saran.com,Mumbai,MH,Startup,2020-07-15 08:00:00,18587.59,0
+591,Kadakia Ltd,radha71@pant.org,Motihari,AP,Startup,2020-07-15 16:00:00,257129.63,0
+592,"Tripathi, Sawhney and Chaudhari",wagleadvay@narasimhan-baral.net,Madhyamgram,RJ,Individual,2020-07-16 00:00:00,16402.28,0
+593,Warrior LLC,,Tadepalligudem,MH,Enterprise,2020-07-16 08:00:00,71289.39,0
+594,"Sastry, Lad and Yadav",unath@dugar.info,Alwar,TN,Enterprise,2020-07-16 16:00:00,73598.92,1
+595,Sridhar-Chaudhry,harivansha@kunda.com,Medininagar,TN,Startup,2020-07-17 00:00:00,57171.72,0
+596,"Oza, Morar and Khalsa",jmital@parikh.info,Ozhukarai,TN,Startup,2020-07-17 08:00:00,87968.21,0
+597,"Sarraf, Bhalla and Boase",vanyasuri@deo.info,Rohtak,MH,SMB,2020-07-17 16:00:00,22196.88,0
+598,Singh-Chand,upkaar13@brar.com,Amravati,GJ,Enterprise,2020-07-18 00:00:00,68377.52,0
+599,Andra Ltd,oshadivan@parsa.com,North Dumdum,TN,Enterprise,2020-07-18 08:00:00,39566.74,0
+600,Chadha-Raman,sudiksha30@atwal-nayar.info,Bhagalpur,DL,Individual,2020-07-18 16:00:00,92116.66,0
+601,Kapadia Ltd,ekansh87@sarin.com,Purnia,MH,SMB,2020-07-19 00:00:00,12940.96,0
+602,"Bandi, Narain and Bawa",hvora@kala.org,Proddatur,RJ,SMB,2020-07-19 08:00:00,71911.08,0
+603,Raju and Sons,keerfiyaz@bajwa-khosla.com,Thiruvananthapuram,TN,SMB,2020-07-19 16:00:00,17416.41,0
+604,Ramaswamy-Sathe,tprasad@jain.com,Bidhannagar,DL,SMB,2020-07-20 00:00:00,27762.8,0
+605,"Kohli, Kari and Hari",lipikareddy@krishna.biz,Allahabad,GJ,Enterprise,2020-07-20 08:00:00,20978.73,0
+606,Oak Inc,wakeeta46@ganguly.net,Baranagar,KA,SMB,2020-07-20 16:00:00,17163.0,0
+607,Madan PLC,kapadiarudra@gupta-srinivasan.com,Pali,GJ,Enterprise,2020-07-21 00:00:00,148498.41,1
+608,"Shanker, Chand and Sridhar",virkkrisha@varma.biz,Navi Mumbai,RJ,Individual,2020-07-21 08:00:00,28599.34,1
+609,Kanda-Jhaveri,contractordevika@lanka-natarajan.com,Nanded,TN,SMB,2020-07-21 16:00:00,,0
+610,"Sarin, Kale and Keer",tmital@verma.biz,Ranchi,RJ,SMB,2020-07-22 00:00:00,,0
+611,"Memon, Kant and Mand",,Uluberia,MH,Individual,2020-07-22 08:00:00,71986.98,0
+612,"Sen, Devi and Kashyap",fmand@nigam.biz,Madhyamgram,TS,Startup,2020-07-22 16:00:00,13117.09,0
+613,Balakrishnan Group,handavedant@baria.com,Amroha,TN,SMB,2020-07-23 00:00:00,39888.89,1
+614,"Seshadri, Borah and Ramachandran",harinidhi@chhabra-das.com,Raichur,TS,SMB,2020-07-23 08:00:00,135843.86,0
+615,"Sharma, Hari and Prabhu",ekanta73@bala.net,Silchar,DL,SMB,2020-07-23 16:00:00,38921.7,0
+616,Mutti and Sons,ojas37@buch-wable.com,Rajkot,KA,Startup,2020-07-24 00:00:00,7738.25,1
+617,"Chahal, Venkatesh and Dey",danibrijesh@rattan.com,Proddatur,AP,Individual,2020-07-24 08:00:00,69164.51,1
+618,"Kapadia, Kumar and Atwal",ngara@warrior-gole.net,Gulbarga,RJ,Startup,2020-07-24 16:00:00,158534.36,0
+619,Sangha-Panchal,rajazilmil@badami-borah.biz,Thiruvananthapuram,GJ,Startup,2020-07-25 00:00:00,135088.33,0
+620,Iyer PLC,mdash@parmar-patil.com,Thane,KA,Startup,2020-07-25 08:00:00,16364.3,0
+621,"Madan, Bahl and Bhatia",ulad@tank.com,Sikar,TN,SMB,2020-07-25 16:00:00,94951.42,0
+622,Oza-Shanker,sanaya63@chaudhary.com,Gorakhpur,TS,Enterprise,2020-07-26 00:00:00,21174.19,1
+623,Sastry-Khanna,xpall@warrior-basu.org,New Delhi,GJ,Startup,2020-07-26 08:00:00,20924.11,1
+624,"Brahmbhatt, Devan and Pau",revasandal@chawla.info,Navi Mumbai,TS,Individual,2020-07-26 16:00:00,176123.67,0
+625,Lala-Sidhu,natarajanvasana@prashad.org,Dibrugarh,MH,SMB,2020-07-27 00:00:00,24415.47,0
+626,Lala-Choudhary,gangulydalaja@dhillon-doshi.com,Berhampore,TS,Startup,2020-07-27 08:00:00,25967.76,1
+627,Mukherjee-Kashyap,xsachar@patil-bumb.com,Serampore,MH,SMB,2020-07-27 16:00:00,55.56,0
+628,Mane-Mital,yahvi85@sibal.com,Ahmedabad,DL,SMB,2020-07-28 00:00:00,173857.35,0
+629,Buch Ltd,,Raiganj,GJ,Enterprise,2020-07-28 08:00:00,133711.88,0
+630,"Dubey, Swamy and Parekh",vrattan@edwin.com,Varanasi,GJ,SMB,2020-07-28 16:00:00,83900.02,0
+631,"Kumer, Babu and Hayer",dhruvsunder@varma-verma.org,Visakhapatnam,AP,Startup,2020-07-29 00:00:00,117925.43,0
+632,Karnik-Bala,lallabalendra@hora.com,Bellary,TN,SMB,2020-07-29 08:00:00,14019.21,0
+633,"Divan, Nagar and Korpal",srinivasanchasmum@bala-wason.com,Gwalior,MH,Startup,2020-07-29 16:00:00,52112.35,0
+634,"Brar, Varkey and Varghese",wishimunshi@krish.net,Danapur,AP,Startup,2020-07-30 00:00:00,36776.16,0
+635,"Goda, Sahota and Kala",tlanka@sen-chopra.com,Bahraich,TS,Individual,2020-07-30 08:00:00,8369.89,0
+636,Agate LLC,elijah35@setty.com,Chennai,TS,SMB,2020-07-30 16:00:00,56591.8,0
+637,"Naik, Lall and Kulkarni",bahadurjit23@shukla.com,Chapra,AP,SMB,2020-07-31 00:00:00,215476.47,0
+638,"Barad, Sami and Cheema",nakul49@sharma.info,Dharmavaram,GJ,SMB,2020-07-31 08:00:00,3475.1,1
+639,Bava and Sons,ygrover@parikh-pant.com,Rewa,TS,Individual,2020-07-31 16:00:00,29286.75,0
+640,Reddy-Shukla,icontractor@gala.com,Secunderabad,RJ,Individual,2020-08-01 00:00:00,19772.23,0
+641,Wali-Date,vyanjana22@reddy-bora.com,Jaipur,DL,SMB,2020-08-01 08:00:00,23120.1,0
+642,Tiwari-Golla,radha16@nath-mallick.org,Saharsa,DL,Individual,2020-08-01 16:00:00,203209.61,1
+643,Rajagopal Group,darpan59@mahal.com,Kamarhati,RJ,SMB,2020-08-02 00:00:00,53655.54,0
+644,Upadhyay Ltd,nachiketgoswami@sarraf-barad.com,Silchar,AP,Startup,2020-08-02 08:00:00,53373.23,0
+645,Edwin-Mallick,onkarbadal@sundaram-goda.com,Darbhanga,RJ,Enterprise,2020-08-02 16:00:00,121509.01,0
+646,"Nanda, Kapoor and Goyal",kashvibarad@bava.com,Bally,MH,Startup,2020-08-03 00:00:00,14264.52,0
+647,"Memon, Borde and Doctor",anjaliparekh@joshi.com,Rampur,MH,Enterprise,2020-08-03 08:00:00,56779.73,0
+648,"Dua, Comar and Dubey",isrinivasan@pillay.com,Nashik,AP,Individual,2020-08-03 16:00:00,47777.9,0
+649,Venkataraman LLC,behlisaiah@swaminathan.com,Munger,RJ,Startup,2020-08-04 00:00:00,77230.76,0
+650,"Ahluwalia, Bassi and Sridhar",,Satna,MH,Startup,2020-08-04 08:00:00,656500.01,0
+651,Prakash-Biswas,bvasa@kuruvilla.com,Etawah,GJ,Enterprise,2020-08-04 16:00:00,124719.03,0
+652,Dey Group,,Davanagere,RJ,SMB,2020-08-05 00:00:00,43118.36,0
+653,Parikh Group,yashjain@khurana-shere.org,Khora ,GJ,SMB,2020-08-05 08:00:00,149401.58,0
+654,Kothari-Sant,andrew83@shah.net,Morena,MH,SMB,2020-08-05 16:00:00,15910.59,0
+655,Sunder-Sheth,,Karaikudi,DL,Enterprise,2020-08-06 00:00:00,2629.67,0
+656,"Narula, Trivedi and Doctor",,Latur,MH,Individual,2020-08-06 08:00:00,19441.16,0
+657,"Kulkarni, Patil and Kakar",pdate@chad.com,Aligarh,GJ,Startup,2020-08-06 16:00:00,35371.83,0
+658,Wagle Inc,wborde@walia.com,Nellore,KA,SMB,2020-08-07 00:00:00,60735.54,1
+659,Bhavsar Ltd,orinder36@sehgal.com,Jabalpur,TN,SMB,2020-08-07 08:00:00,81162.03,1
+660,Patil-Dalal,gunbir35@kulkarni.com,Bihar Sharif,TS,SMB,2020-08-07 16:00:00,205249.38,0
+661,Hans-Lalla,ranveer05@chawla.com,Eluru,RJ,Startup,2020-08-08 00:00:00,60609.42,0
+662,Pai Group,sarraflajita@bera.info,Chinsurah,KA,SMB,2020-08-08 08:00:00,59134.65,0
+663,Bala-Borde,dbala@devi-deshpande.com,Karimnagar,MH,Individual,2020-08-08 16:00:00,4381.68,1
+664,"Bhalla, Hegde and Palan",naikarjun@jayaraman-pathak.com,Kolkata,DL,SMB,2020-08-09 00:00:00,3020.52,0
+665,Bhatnagar-Varty,lsamra@bajwa-koshy.com,Jodhpur,AP,Individual,2020-08-09 08:00:00,,0
+666,Parekh Inc,narainzashil@ratta.com,Jamnagar,MH,Individual,2020-08-09 16:00:00,49008.56,0
+667,Thaman-Bajaj,,Jalgaon,DL,SMB,2020-08-10 00:00:00,155335.12,0
+668,"Karnik, Wable and Pai",danielbail@wable.com,Salem,TN,Individual,2020-08-10 08:00:00,14888.83,1
+669,Grover Inc,gandhigavin@kar-shetty.com,Satara,MH,Enterprise,2020-08-10 16:00:00,2149.54,0
+670,Dani Group,chavviben@raju.com,Uluberia,GJ,Individual,2020-08-11 00:00:00,50667.72,0
+671,Gill PLC,ijayakhurana@borah-bansal.biz,Berhampur,AP,SMB,2020-08-11 08:00:00,23045.6,1
+672,Yogi Inc,falanandra@trivedi.com,Bettiah,DL,Individual,2020-08-11 16:00:00,4325.43,0
+673,Varty-Saraf,narainrohan@thaker-baral.com,Dehradun,DL,Individual,2020-08-12 00:00:00,109609.58,0
+674,"Acharya, Thakkar and Kumar",ishanvigolla@datta.com,Jamshedpur,DL,Individual,2020-08-12 08:00:00,10057.65,0
+675,"Sandal, Arya and Patel",kaulom@murty-rajagopal.com,Amritsar,TN,Startup,2020-08-12 16:00:00,,1
+676,"Sant, Gandhi and Palla",lpatel@srivastava.biz,Bongaigaon,MH,SMB,2020-08-13 00:00:00,28046.86,0
+677,Varghese-Wali,girish88@kumar.info,Pimpri-Chinchwad,TN,Enterprise,2020-08-13 08:00:00,16196.8,0
+678,Modi Group,,Panchkula,RJ,SMB,2020-08-13 16:00:00,40598.98,0
+679,Ganguly and Sons,yagnesh14@modi.com,Morbi,TS,SMB,2020-08-14 00:00:00,137418.91,0
+680,Gokhale-Chahal,anjali40@aggarwal-sundaram.com,Davanagere,TS,Startup,2020-08-14 08:00:00,42307.42,0
+681,Dewan-Yogi,darpan56@dyal.info,Kavali,RJ,SMB,2020-08-14 16:00:00,118097.11,0
+682,Nazareth-Varughese,bhavsarbahadurjit@mistry.net,Vasai-Virar,MH,Individual,2020-08-15 00:00:00,11397.42,0
+683,Bansal-Dasgupta,kannanfalak@apte-naidu.com,Bhiwandi,GJ,Startup,2020-08-15 08:00:00,125952.9,1
+684,Bath-Sagar,nathan04@thakur-dhingra.com,Fatehpur,TN,Individual,2020-08-15 16:00:00,22984.84,0
+685,Bedi LLC,siddharthvirk@boase.org,Bidar,AP,Enterprise,2020-08-16 00:00:00,96162.27,0
+686,Das-Contractor,amolgrover@ganguly-goswami.info,Pallavaram,DL,Individual,2020-08-16 08:00:00,3545382.0,0
+687,"Bajaj, Kumar and Mahal",krishnamurthyeshana@sunder.biz,Chennai,DL,Individual,2020-08-16 16:00:00,225004.84,0
+688,Dugal Ltd,wsom@dani-sani.com,Sasaram,MH,SMB,2020-08-17 00:00:00,41642.91,1
+689,Sagar-Mani,gollabhavya@varkey-munshi.com,Muzaffarpur,GJ,Startup,2020-08-17 08:00:00,,0
+690,"Modi, Mani and Tata",zdevan@madan.com,Tiruppur,TS,Startup,2020-08-17 16:00:00,1644.01,0
+691,"Vora, Nayar and Bora",varughesematthew@gopal.com,Maheshtala,TS,SMB,2020-08-18 00:00:00,149059.95,0
+692,"Singhal, Sidhu and Sehgal",fmitra@sunder-mallick.com,Barasat,DL,SMB,2020-08-18 08:00:00,63230.15,0
+693,Boase-Dhar,vanyarandhawa@brahmbhatt-sandal.net,Etawah,MH,SMB,2020-08-18 16:00:00,126882.91,0
+694,Sekhon-Biswas,,Surat,TN,Enterprise,2020-08-19 00:00:00,22705.95,0
+695,Sandhu Inc,dsabharwal@mitter-pall.info,Ramagundam,TS,SMB,2020-08-19 08:00:00,35976.07,0
+696,"Parmer, Ganesh and Parmer",eeshadeep@swaminathan.com,Muzaffarpur,TN,Enterprise,2020-08-19 16:00:00,2598.14,0
+697,Purohit and Sons,sdey@raj-pau.net,Raipur,GJ,Enterprise,2020-08-20 00:00:00,276836.3,0
+698,"Deo, Gola and Wagle",kamala84@oak.org,Bilaspur,TS,Enterprise,2020-08-20 08:00:00,93688.91,0
+699,"Virk, Lad and Tella",nilima20@chaudhari-shanker.org,Agartala,TS,Individual,2020-08-20 16:00:00,230020.91,1
+700,Issac-Bhasin,sbajwa@grover.com,Katihar,KA,SMB,2020-08-21 00:00:00,26227.63,0
+701,Oza-Subramanian,ssom@bhat.com,Muzaffarpur,TS,Individual,2020-08-21 08:00:00,80356.32,0
+702,Chopra PLC,vidhi11@vohra.com,Aizawl,RJ,SMB,2020-08-21 16:00:00,96454.4,0
+703,Garg Ltd,bediwaida@mital.com,Ulhasnagar,AP,SMB,2020-08-22 00:00:00,32475.57,0
+704,Sachdev-Ramesh,dhritivarkey@issac.com,Bathinda,RJ,SMB,2020-08-22 08:00:00,160190.46,0
+705,Raj PLC,udarshdeshpande@cherian.com,Gandhinagar,MH,SMB,2020-08-22 16:00:00,249943.73,1
+706,"Dewan, Sarna and Puri",tmann@radhakrishnan-deshmukh.biz,Navi Mumbai,MH,Enterprise,2020-08-23 00:00:00,183732.95,0
+707,Chandra Group,parekhvamakshi@lal.com,Shivpuri,TN,Startup,2020-08-23 08:00:00,114196.78,1
+708,Soni and Sons,wdass@ganesan-balasubramanian.org,Bardhaman,RJ,SMB,2020-08-23 16:00:00,27624.06,0
+709,Dara-Dora,abajaj@contractor-tank.info,Thoothukudi,RJ,Startup,2020-08-24 00:00:00,28113.84,0
+710,"Muni, Bedi and Deo",fiyazsoni@prabhakar.com,Raipur,RJ,Startup,2020-08-24 08:00:00,281063.0,1
+711,Deshpande Inc,jagvipillai@krishnamurthy.com,Ambala,GJ,SMB,2020-08-24 16:00:00,878.71,0
+712,Kamdar-Bhalla,sanya13@bedi.net,Narasaraopet,TS,Enterprise,2020-08-25 00:00:00,107011.35,1
+713,Virk-Mangat,chasmum32@kala.com,Chinsurah,AP,Startup,2020-08-25 08:00:00,104126.12,0
+714,"Chaudhari, Sandhu and Prabhu",hemal58@ramachandran.com,Hajipur,TN,SMB,2020-08-25 16:00:00,82848.39,1
+715,Jhaveri Ltd,,Bhavnagar,RJ,Enterprise,2020-08-26 00:00:00,392369.73,0
+716,Sule and Sons,wyattsur@saxena.com,Ambattur,RJ,Individual,2020-08-26 08:00:00,31772.25,0
+717,Din Ltd,mammenmugdha@narayan.com,Raebareli,KA,Enterprise,2020-08-26 16:00:00,35315.19,0
+718,Taneja LLC,odika38@nori.com,Gudivada,TN,Startup,2020-08-27 00:00:00,6989.5,0
+719,"Sridhar, Sachar and Gandhi",annebaljiwan@aurora-solanki.net,Mira-Bhayandar,RJ,Individual,2020-08-27 08:00:00,49710.35,0
+720,"Kunda, Chand and Hora",ibutala@samra.net,Gopalpur,TN,SMB,2020-08-27 16:00:00,25714.46,0
+721,"Goyal, Sachdeva and Goswami",chandragaurang@andra-tata.net,Howrah,TS,Enterprise,2020-08-28 00:00:00,35756.1,0
+722,Chowdhury Inc,zehaan97@parmar.com,Yamunanagar,KA,Enterprise,2020-08-28 08:00:00,,0
+723,"Natarajan, Sundaram and Sahni",zkapadia@raj.com,Srinagar,TN,SMB,2020-08-28 16:00:00,232972.25,0
+724,"Majumdar, Golla and Divan",,Mango,AP,Enterprise,2020-08-29 00:00:00,17464.7,0
+725,"Shankar, Issac and Rajan",sulenicholas@ganesh-brar.com,Ballia,AP,Startup,2020-08-29 08:00:00,39612.2,0
+726,Balan-Reddy,lila14@chadha-mammen.com,Tirunelveli,MH,Enterprise,2020-08-29 16:00:00,224390.27,0
+727,Hayre LLC,kantkrishna@pillai-halder.info,Kishanganj,KA,SMB,2020-08-30 00:00:00,5423.1,0
+728,"Barad, Nagy and Srivastava",xbobal@dar-sheth.com,Akola,KA,Individual,2020-08-30 08:00:00,8237.18,0
+729,"Gole, Badal and Kala",dayalgirish@ramachandran.net,Moradabad,MH,Individual,2020-08-30 16:00:00,15102.93,0
+730,"Purohit, Rastogi and Mistry",tanveer70@kale.net,Mira-Bhayandar,TN,Startup,2020-08-31 00:00:00,76873.48,1
+731,"Mitter, Mall and Rout",cdar@borde.com,Faridabad,KA,SMB,2020-08-31 08:00:00,13861.35,1
+732,Sethi Ltd,nisha57@bains.com,Ajmer,AP,Startup,2020-08-31 16:00:00,292774.78,0
+733,Doshi-Butala,sehgallibni@balasubramanian.com,Mau,AP,SMB,2020-09-01 00:00:00,50309.9,0
+734,"Doctor, Naik and Minhas",triyaprabhu@sodhi-sarin.org,Miryalaguda,RJ,SMB,2020-09-01 08:00:00,59175.96,0
+735,Prashad-Saxena,simon72@doctor.net,Khora ,TS,Enterprise,2020-09-01 16:00:00,24075.13,0
+736,"Ganesan, Saxena and Sahota",warhibhandari@bath.info,Chapra,KA,Individual,2020-09-02 00:00:00,54118.8,0
+737,Ranganathan-Pandya,inayagour@lad.org,Bhatpara,TN,SMB,2020-09-02 08:00:00,92178.58,0
+738,"Kade, Naidu and Chaudhary",daminikamdar@bahl-sabharwal.com,Karawal Nagar,MH,SMB,2020-09-02 16:00:00,118236.19,0
+739,"Banerjee, Goyal and Desai",tbobal@om.info,Navi Mumbai,MH,SMB,2020-09-03 00:00:00,119160.45,0
+740,Sandal PLC,devansh96@bath.com,Kottayam,TN,SMB,2020-09-03 08:00:00,73311.82,0
+741,Pillay-Kant,mohammedsachdeva@banik-bains.org,Bhilwara,GJ,Individual,2020-09-03 16:00:00,,1
+742,"Sandal, Sarkar and Upadhyay",dominicmunshi@karan.net,Bongaigaon,DL,Startup,2020-09-04 00:00:00,144542.52,0
+743,"Mangat, Joshi and Singh",banikkamala@karan.com,Jabalpur,TS,Startup,2020-09-04 08:00:00,120265.81,1
+744,Patla-Dar,ovarma@sant.biz,Jodhpur,MH,Enterprise,2020-09-04 16:00:00,4862.96,1
+745,"Bhalla, Mohanty and Muni",vorajagdish@divan-kant.net,Avadi,KA,SMB,2020-09-05 00:00:00,586.65,0
+746,Patil Inc,michael73@shah.com,Purnia,TS,SMB,2020-09-05 08:00:00,20300.12,0
+747,Lalla-Dugar,zarna57@tak-srinivas.net,Ahmednagar,KA,Enterprise,2020-09-05 16:00:00,92584.32,0
+748,Rastogi Group,,Siliguri,GJ,SMB,2020-09-06 00:00:00,45021.48,1
+749,Dar-Sheth,udatta@rajagopal-mital.info,Nagercoil,AP,Startup,2020-09-06 08:00:00,43761.75,1
+750,D’Alia PLC,tanmayikapur@borra.org,Varanasi,TS,Enterprise,2020-09-06 16:00:00,,0
+751,"Vig, Deshmukh and Oak",bmandal@rastogi-rout.com,Shivpuri,RJ,SMB,2020-09-07 00:00:00,192029.43,0
+752,Rao-Upadhyay,gcheema@datta-kala.com,Delhi,MH,SMB,2020-09-07 08:00:00,203900.01,0
+753,"Buch, Majumdar and Roy",msahota@bandi.net,Mehsana,TS,Enterprise,2020-09-07 16:00:00,32019.49,0
+754,"Radhakrishnan, Borra and Sankar",unnati56@batra-ahluwalia.com,Ujjain,TS,SMB,2020-09-08 00:00:00,99840.54,0
+755,Borde LLC,,Fatehpur,TS,Individual,2020-09-08 08:00:00,26940.79,1
+756,Dugal Inc,kbobal@hans.com,Sambalpur,DL,Individual,2020-09-08 16:00:00,17975.31,0
+757,Bhattacharyya Ltd,abhimanyu06@raja-tandon.com,Sagar,TS,Individual,2020-09-09 00:00:00,17349.89,0
+758,"Bahri, Kalla and Naidu",santxavier@gupta-goda.org,Proddatur,KA,SMB,2020-09-09 08:00:00,35590.68,0
+759,Sem Inc,,Khammam,AP,Enterprise,2020-09-09 16:00:00,47773.79,0
+760,Subramaniam-Din,karan40@yogi.com,Madurai,GJ,SMB,2020-09-10 00:00:00,151092.25,0
+761,Hayre-Johal,krishna98@jhaveri.info,Arrah,TN,SMB,2020-09-10 08:00:00,10855.32,0
+762,Pant-Tella,yahvigarg@sabharwal.info,Raiganj,TS,Individual,2020-09-10 16:00:00,112858.38,1
+763,"Batra, Mangal and Keer",neelima07@gandhi.org,Tadipatri,MH,Enterprise,2020-09-11 00:00:00,64440.45,1
+764,Kunda-Tak,ajain@desai.com,Secunderabad,TS,SMB,2020-09-11 08:00:00,28866.05,0
+765,Khare-Prabhakar,anvi55@memon-iyengar.com,Saharanpur,MH,SMB,2020-09-11 16:00:00,57705.52,1
+766,Bal Inc,khareyash@kunda.info,Dindigul,KA,SMB,2020-09-12 00:00:00,30310.34,0
+767,Kannan-Dube,charitachakraborty@wali.com,Ratlam,MH,Startup,2020-09-12 08:00:00,77056.18,0
+768,"Kari, Sane and Seth",madhav55@nayar.com,Lucknow,RJ,SMB,2020-09-12 16:00:00,48355.27,0
+769,Behl Group,menonjonathan@agrawal.com,Tirupati,TN,SMB,2020-09-13 00:00:00,15267.01,0
+770,"Radhakrishnan, Muni and Pillai",bchander@kara-dara.com,Chittoor,AP,SMB,2020-09-13 08:00:00,10536.43,1
+771,"Bora, Parikh and Jayaraman",,Junagadh,MH,SMB,2020-09-13 16:00:00,67251.29,0
+772,Patla and Sons,chandaviraj@aurora.org,Raiganj,MH,Startup,2020-09-14 00:00:00,197795.96,0
+773,"Sule, Shanker and Yadav",esubramanian@deshpande.com,Kishanganj,AP,Individual,2020-09-14 08:00:00,35830.05,0
+774,"Biswas, Ganesh and Wali",jeevika99@rege-ahuja.com,Lucknow,TN,Individual,2020-09-14 16:00:00,112243.1,0
+775,"Sampath, Sanghvi and Kumer",yprakash@kata.biz,Ambarnath,TS,Startup,2020-09-15 00:00:00,91364.82,0
+776,"Sani, Dugal and Bhalla",rkale@sami.com,Erode,MH,SMB,2020-09-15 08:00:00,227946.5,0
+777,"Shanker, Tata and Mandal",tellaabha@mistry-kibe.com,Satara,AP,Startup,2020-09-15 16:00:00,146222.39,0
+778,"Murthy, Sarkar and Bahri",sara09@sheth-menon.com,Dindigul,RJ,SMB,2020-09-16 00:00:00,71069.04,0
+779,"Raju, Barad and Bawa",varenyaramachandran@bhavsar.com,Sambhal,RJ,SMB,2020-09-16 08:00:00,90959.67,1
+780,Kulkarni-Bedi,,Pali,KA,Individual,2020-09-16 16:00:00,194359.18,0
+781,Dugar LLC,malljagrati@de-halder.biz,Maheshtala,AP,Enterprise,2020-09-17 00:00:00,43352.03,0
+782,"Aurora, Bansal and Borra",darpan46@srinivas.com,Pudukkottai,KA,Individual,2020-09-17 08:00:00,33634.92,0
+783,"Taneja, Shan and Bhatnagar",bhatiawarhi@kibe.org,Sambhal,RJ,SMB,2020-09-17 16:00:00,923.95,0
+784,Cheema and Sons,gmahajan@suri.com,Medininagar,TN,Startup,2020-09-18 00:00:00,148909.13,0
+785,"Ghosh, Randhawa and Dasgupta",wkibe@ahluwalia.com,Ajmer,TS,Startup,2020-09-18 08:00:00,137220.05,0
+786,Prabhakar-Das,lucky86@date.org,Alwar,AP,Individual,2020-09-18 16:00:00,9377.39,1
+787,Choudhry Group,krishna27@kalita.com,Ulhasnagar,GJ,Startup,2020-09-19 00:00:00,73103.91,0
+788,Dani-Nagi,barkhasunder@oza.com,Jamalpur,RJ,Startup,2020-09-19 08:00:00,53004.89,1
+789,"Reddy, Shenoy and Rajagopalan",oscarray@bali.com,Ahmedabad,RJ,Enterprise,2020-09-19 16:00:00,10741.24,1
+790,"Chakraborty, Chana and Varma",warda03@mannan.net,Uluberia,GJ,SMB,2020-09-20 00:00:00,334971.89,0
+791,Mannan-Kothari,,Baranagar,DL,SMB,2020-09-20 08:00:00,20543.16,0
+792,"Chopra, Bandi and Barad",ntalwar@memon.net,Jodhpur,RJ,Startup,2020-09-20 16:00:00,5916.09,0
+793,"Khare, Rastogi and Bansal",gadeeiravati@contractor.org,Nanded,MH,SMB,2020-09-21 00:00:00,76796.77,1
+794,"Dara, Choudhury and Mangal",ramavanya@khosla.net,Rewa,TN,Startup,2020-09-21 08:00:00,114131.56,1
+795,Krishnan Group,adeshpande@roy.net,Ahmedabad,AP,Enterprise,2020-09-21 16:00:00,2803.42,0
+796,Bath-Muni,doraoviya@sur.com,Bettiah,GJ,Enterprise,2020-09-22 00:00:00,91378.83,0
+797,Devan PLC,ekanta44@dasgupta-ray.info,Madhyamgram,MH,Startup,2020-09-22 08:00:00,64592.42,0
+798,Varma-Joshi,murtynetra@dara-ramakrishnan.com,Thanjavur,GJ,Enterprise,2020-09-22 16:00:00,9264.57,1
+799,Chaudhry Inc,yadavkaran@kalita.org,Kalyan-Dombivli,AP,Enterprise,2020-09-23 00:00:00,16096.88,1
+800,Ray-Edwin,patelbanjeet@bhat.com,Motihari,KA,Enterprise,2020-09-23 08:00:00,71337.97,0
+801,Pandit-Karpe,ekaraj78@tella-mandal.com,Maheshtala,AP,Individual,2020-09-23 16:00:00,29876.23,0
+802,Bhatti-Agate,matthew19@trivedi-subramaniam.com,Haridwar,DL,Startup,2020-09-24 00:00:00,236786.74,0
+803,Kara-Jha,taurora@salvi.biz,Mahbubnagar,AP,SMB,2020-09-24 08:00:00,145165.05,0
+804,"Thakur, Kanda and Bansal",hmalhotra@savant.com,Noida,AP,SMB,2020-09-24 16:00:00,349220.49,1
+805,"Seshadri, Ramachandran and Parsa",duavaishnavi@choudhry-sangha.com,Surendranagar Dudhrej,DL,SMB,2020-09-25 00:00:00,25556.13,0
+806,Mahajan-Kadakia,kannanreyansh@palan.net,Thoothukudi,TN,Startup,2020-09-25 08:00:00,297277.97,0
+807,"Gade, Walia and Solanki",forumdara@narasimhan.com,Chandrapur,RJ,Startup,2020-09-25 16:00:00,47964.31,0
+808,Pillai-Gole,rajdaniel@kalla-sawhney.com,Patna,AP,SMB,2020-09-26 00:00:00,36292.7,1
+809,Sankaran and Sons,laban97@bandi.com,Gopalpur,DL,SMB,2020-09-26 08:00:00,4391.21,0
+810,Sunder and Sons,borajagat@sarma-manne.com,Tadipatri,MH,Enterprise,2020-09-26 16:00:00,4607.71,0
+811,Palan Inc,basaktamanna@hayer.com,Sambhal,KA,Startup,2020-09-27 00:00:00,100103.82,0
+812,Oak-Kaur,anita05@apte.com,Kulti,KA,Startup,2020-09-27 08:00:00,52050.45,1
+813,Kadakia-Vig,rachitkuruvilla@purohit.com,Ambala,AP,SMB,2020-09-27 16:00:00,21832.89,1
+814,Nadig-Ganguly,tiwaribaljiwan@peri-peri.info,Bongaigaon,TN,Enterprise,2020-09-28 00:00:00,80906.48,0
+815,Varghese and Sons,vihaanlata@sabharwal-lanka.net,Satara,TN,Enterprise,2020-09-28 08:00:00,24777.52,0
+816,Dyal LLC,saanvisaha@krishnamurthy-bhardwaj.biz,Bettiah,MH,Individual,2020-09-28 16:00:00,73259.61,0
+817,Mand Ltd,upasnakulkarni@balasubramanian-bhat.com,Shimoga,AP,SMB,2020-09-29 00:00:00,37829.38,0
+818,Ramaswamy-Chopra,,Madhyamgram,KA,Startup,2020-09-29 08:00:00,147452.08,0
+819,Lal PLC,,Agartala,TN,Startup,2020-09-29 16:00:00,146087.25,1
+820,Char Group,chaayaratta@pandey.com,Junagadh,AP,SMB,2020-09-30 00:00:00,55151.74,0
+821,Buch and Sons,,Tiruvottiyur,GJ,SMB,2020-09-30 08:00:00,36723.73,1
+822,Basak Ltd,varmaarin@badami-kamdar.com,Jabalpur,TN,Enterprise,2020-09-30 16:00:00,38275.06,0
+823,Muni-Pall,varsha84@kumer.com,Bidar,DL,Startup,2020-10-01 00:00:00,139266.27,0
+824,Dubey LLC,,Begusarai,GJ,Startup,2020-10-01 08:00:00,33809.95,0
+825,Kashyap-Comar,ksuri@chadha.com,Srinagar,RJ,Startup,2020-10-01 16:00:00,19935.25,0
+826,Chawla Group,nitaranagy@srinivasan.net,Tadepalligudem,TN,SMB,2020-10-02 00:00:00,7521.71,0
+827,Nayar LLC,pahalmadan@wali.com,Patna,KA,Enterprise,2020-10-02 08:00:00,53435.95,0
+828,Deol-Divan,warinderbajaj@shere.net,Madurai,TS,Individual,2020-10-02 16:00:00,55932.98,0
+829,Khalsa and Sons,kiaannagy@char-srinivasan.com,Maheshtala,GJ,Startup,2020-10-03 00:00:00,156253.55,0
+830,Dutt PLC,ygarde@mitter.com,Bhilai,RJ,SMB,2020-10-03 08:00:00,21254.31,0
+831,"Chanda, Rajagopal and Suresh",samar18@amble-bhatia.info,Sasaram,MH,Individual,2020-10-03 16:00:00,40769.05,1
+832,Khosla Ltd,jack16@patla.org,Narasaraopet,MH,Startup,2020-10-04 00:00:00,140451.91,0
+833,De and Sons,xmitter@nath.com,Ujjain,KA,Startup,2020-10-04 08:00:00,147486.47,1
+834,Koshy LLC,dashema@balakrishnan-gole.com,Malda,TN,Startup,2020-10-04 16:00:00,41267.57,0
+835,"Palla, Dugar and Solanki",ysethi@solanki-ganesan.com,Ramgarh,AP,Individual,2020-10-05 00:00:00,,0
+836,Dani-Aggarwal,nirjabarad@chatterjee.biz,Cuttack,TN,Startup,2020-10-05 08:00:00,30717.31,0
+837,"Mital, Nanda and Nair",zilmil41@rastogi.biz,Vijayawada,KA,Enterprise,2020-10-05 16:00:00,229197.49,1
+838,Parekh-Kulkarni,xkaur@nanda.com,Ahmedabad,MH,SMB,2020-10-06 00:00:00,10734.94,0
+839,"Shanker, Nayar and Sule",dev86@brahmbhatt.biz,Cuttack,TN,Individual,2020-10-06 08:00:00,230716.44,0
+840,Mand PLC,nayargopal@narain.com,Bareilly,MH,SMB,2020-10-06 16:00:00,97885.2,0
+841,Bora Inc,zachariabina@subramanian.biz,Varanasi,GJ,SMB,2020-10-07 00:00:00,64461.72,0
+842,Bala-Bava,joshuashenoy@wagle-choudhary.com,Katni,RJ,SMB,2020-10-07 08:00:00,2822.36,0
+843,"Choudhary, Barad and Chad",watika27@aurora.org,Amritsar,AP,SMB,2020-10-07 16:00:00,54866.93,0
+844,"Bail, Garde and Korpal",veda61@misra-shere.com,Kharagpur,GJ,Startup,2020-10-08 00:00:00,44524.98,0
+845,"Sandal, Kari and Gulati",liamhayer@vala.com,Belgaum,MH,Individual,2020-10-08 08:00:00,,1
+846,"Chana, Kapur and Luthra",onveerbhattacharyya@srivastava.com,Amravati,MH,SMB,2020-10-08 16:00:00,90805.93,0
+847,Kashyap Group,kalpitpalla@mand.com,Hazaribagh,TS,Enterprise,2020-10-09 00:00:00,301382.52,0
+848,Gokhale LLC,bajwamohini@iyer.net,Bardhaman,TS,SMB,2020-10-09 08:00:00,70207.24,0
+849,"Ravel, Iyengar and Chaudhry",lopakumer@brahmbhatt-vaidya.com,Miryalaguda,GJ,Individual,2020-10-09 16:00:00,106624.07,0
+850,Chakrabarti Ltd,aryan55@rajan.net,Moradabad,DL,Startup,2020-10-10 00:00:00,6027.0,0
+851,"Uppal, Borra and Baria",morarhemang@dash.com,Srinagar,GJ,SMB,2020-10-10 08:00:00,45960.59,0
+852,Dara-Das,nkothari@dugar.com,Ghaziabad,TS,Individual,2020-10-10 16:00:00,10514.83,1
+853,"Dhaliwal, Goel and Butala",pillaijairaj@bhatnagar.net,Raichur,MH,Individual,2020-10-11 00:00:00,80648.27,1
+854,"Wadhwa, Naidu and Sehgal",balveer01@gaba.com,Tirupati,KA,Individual,2020-10-11 08:00:00,237016.38,1
+855,Mohan Inc,oprasad@hegde-majumdar.net,Sikar,GJ,Individual,2020-10-11 16:00:00,92144.42,0
+856,"Deol, Murthy and Salvi",,Eluru,MH,SMB,2020-10-12 00:00:00,6792.58,0
+857,Ranganathan-Gade,kalaindali@bandi-rastogi.biz,Kirari Suleman Nagar,KA,Startup,2020-10-12 08:00:00,37228.94,0
+858,"Dalal, Grewal and Soni",sethidhruv@sahota-tak.org,Surat,KA,SMB,2020-10-12 16:00:00,67998.55,0
+859,"Halder, Wadhwa and Patel",abhiram31@rege.biz,Berhampore,TS,Individual,2020-10-13 00:00:00,43875.83,0
+860,Sood-Kota,aradhana94@comar-som.com,Nagpur,GJ,Startup,2020-10-13 08:00:00,152458.15,0
+861,"Shah, Anand and Patel",rajagopaldarika@kohli.net,Guntur,TN,Startup,2020-10-13 16:00:00,143277.93,0
+862,"Johal, Krishnan and Ghose",ubikahanda@sibal-dixit.com,Anantapuram,AP,Startup,2020-10-14 00:00:00,80436.73,0
+863,"Wason, Walia and Sarma",aradhana28@jaggi.com,Mehsana,TS,SMB,2020-10-14 08:00:00,39740.85,0
+864,Rastogi PLC,zmemon@raman.biz,Nadiad,TS,SMB,2020-10-14 16:00:00,25059.93,0
+865,Dass Ltd,annemanbir@sinha.biz,Karimnagar,TN,Individual,2020-10-15 00:00:00,9512.26,0
+866,"Sankaran, Lata and Dugar",gbajaj@chatterjee.net,Bhilwara,AP,Individual,2020-10-15 08:00:00,37259.44,0
+867,"Nanda, Sehgal and Magar",lkhurana@banik.info,Mira-Bhayandar,MH,Enterprise,2020-10-15 16:00:00,45307.07,0
+868,"Kakar, Singhal and Bawa",thomas31@sehgal-patel.com,Vijayanagaram,DL,SMB,2020-10-16 00:00:00,95749.56,0
+869,"Nazareth, Uppal and Sodhi",walieiravati@zachariah.net,Siwan,GJ,Enterprise,2020-10-16 08:00:00,,1
+870,Kota Ltd,hardikbatta@nath.com,Imphal,DL,Startup,2020-10-16 16:00:00,6178.39,0
+871,Grewal-Dixit,maniabdul@baral.net,Guna,MH,Individual,2020-10-17 00:00:00,42751.22,0
+872,"Sethi, Mahajan and Acharya",,Shivpuri,RJ,SMB,2020-10-17 08:00:00,17052.92,0
+873,Rai and Sons,bhavsarayaan@nigam-kashyap.com,Alwar,TS,SMB,2020-10-17 16:00:00,14498.12,0
+874,"Chander, Bumb and Kurian",mannlaban@nath.com,Ongole,AP,Individual,2020-10-18 00:00:00,7463900.0,1
+875,Bose-Babu,hemang24@gupta.info,Tiruvottiyur,TS,Startup,2020-10-18 08:00:00,3639.62,0
+876,Shah-Sastry,hiralsura@badami-dasgupta.com,Tiruppur,KA,SMB,2020-10-18 16:00:00,46182.14,0
+877,Sridhar Group,chavvibobal@jaggi.info,Kharagpur,TS,Startup,2020-10-19 00:00:00,15654.25,1
+878,Madan-Mane,bainsnathan@lalla-hegde.com,Gulbarga,TS,SMB,2020-10-19 08:00:00,179749.29,0
+879,Bakshi LLC,ijaya79@maharaj.biz,Jalna,MH,SMB,2020-10-19 16:00:00,69213.54,0
+880,Palan-Baral,hemakulkarni@saxena.com,Sikar,MH,Startup,2020-10-20 00:00:00,,0
+881,Varma Group,kamdaryashodhara@gupta-comar.biz,Vijayawada,MH,Startup,2020-10-20 08:00:00,59331.15,0
+882,Mani-Balan,liamthakur@gola.org,Jamalpur,DL,Individual,2020-10-20 16:00:00,111762.55,0
+883,Sanghvi-Naik,kabirsankar@hora.com,Haridwar,KA,Startup,2020-10-21 00:00:00,,0
+884,Golla Ltd,yahvisen@chander.com,Gandhinagar,RJ,Startup,2020-10-21 08:00:00,21167.83,1
+885,Gole-Palla,pnagi@srinivas.com,Jorhat,RJ,SMB,2020-10-21 16:00:00,184717.97,0
+886,"Loke, Prashad and Chowdhury",william65@mall.com,Jabalpur,MH,SMB,2020-10-22 00:00:00,,0
+887,Gola-Yohannan,balasubramanianwishi@rattan-dalal.com,Kadapa,AP,Enterprise,2020-10-22 08:00:00,210966.39,0
+888,Chaudhari-Dube,rastogiaditya@jaggi.com,Solapur,DL,SMB,2020-10-22 16:00:00,85764.47,1
+889,"Mand, Gera and Suri",bahadurjitchad@murthy-iyer.info,Khammam,TN,Startup,2020-10-23 00:00:00,84470.25,1
+890,"Mani, Lata and Batra",ekanshganesan@dube.net,Moradabad,AP,Individual,2020-10-23 08:00:00,43876.24,0
+891,"Sarin, Hans and Prakash",chatresh12@koshy.org,Kharagpur,GJ,Enterprise,2020-10-23 16:00:00,118654.24,0
+892,Wable-Bhalla,nachiketpall@shankar-hayer.org,Tirunelveli,GJ,SMB,2020-10-24 00:00:00,64411.27,0
+893,Toor Ltd,trivenisalvi@prasad.com,Jhansi,AP,Individual,2020-10-24 08:00:00,96174.11,0
+894,"Patla, Bail and Palla",balakrishnankashvi@dugal.com,Salem,MH,SMB,2020-10-24 16:00:00,,0
+895,Aurora PLC,lchaudhary@sodhi.org,Bahraich,TN,Startup,2020-10-25 00:00:00,111765.75,0
+896,"Nadig, Bhatti and Lad",ekani82@din.net,Bettiah,TN,Startup,2020-10-25 08:00:00,147896.09,0
+897,"Raghavan, Sharaf and Kapadia",anthony40@soman.com,Amritsar,DL,Startup,2020-10-25 16:00:00,,1
+898,Sharaf-Kamdar,lnadig@borah-nayar.com,Tadipatri,TN,SMB,2020-10-26 00:00:00,152093.96,0
+899,Korpal Ltd,leena34@sem.info,Avadi,GJ,SMB,2020-10-26 08:00:00,66059.76,1
+900,Kuruvilla PLC,lrastogi@dara.org,Bhilwara,KA,Startup,2020-10-26 16:00:00,158285.05,0
+901,Sanghvi-Chopra,kakarisaiah@raval.org,Hospet,MH,Startup,2020-10-27 00:00:00,47974.44,0
+902,Agrawal Group,karanseth@dube.biz,Uluberia,TN,Enterprise,2020-10-27 08:00:00,40501.6,0
+903,Sachdev and Sons,gaurisrivastava@butala.biz,Farrukhabad,DL,Startup,2020-10-27 16:00:00,209594.6,0
+904,Dar and Sons,,Hubli–Dharwad,GJ,Enterprise,2020-10-28 00:00:00,24585.6,0
+905,Kaur Inc,tparmar@prabhakar-baral.com,Rampur,KA,Startup,2020-10-28 08:00:00,158037.21,0
+906,"Karnik, Datta and Vora",lokelibni@kibe.com,Deoghar,TS,SMB,2020-10-28 16:00:00,56243.51,0
+907,Oommen-Krishnamurthy,mnagi@sachdev.com,Bhiwani,TS,Individual,2020-10-29 00:00:00,61348.16,0
+908,"Subramanian, Thaman and Chawla",vincent48@srinivas-batta.biz,Bardhaman,KA,SMB,2020-10-29 08:00:00,31351.93,0
+909,Sanghvi and Sons,sachdevjagat@chakraborty.org,Pune,GJ,SMB,2020-10-29 16:00:00,72340.96,0
+910,"Doshi, Dewan and Mani",aurorashivani@mann.net,Bhimavaram,DL,Enterprise,2020-10-30 00:00:00,33435.22,0
+911,Iyengar LLC,drajagopalan@deo-bhagat.net,Solapur,KA,SMB,2020-10-30 08:00:00,3405.21,0
+912,"Sur, Deshpande and Narasimhan",abhiram11@datta.com,Panipat,MH,Individual,2020-10-30 16:00:00,26983.45,1
+913,Barman PLC,zgoswami@saran.com,Ghaziabad,MH,Individual,2020-10-31 00:00:00,543.96,0
+914,"Oza, Keer and Cherian",,Saharanpur,TS,SMB,2020-10-31 08:00:00,325802.53,0
+915,Kulkarni-Virk,cshanker@agarwal.info,Erode,TN,SMB,2020-10-31 16:00:00,286788.92,0
+916,"Thakkar, Ganguly and Behl",cbalakrishnan@chana.org,Eluru,DL,Startup,2020-11-01 00:00:00,42736.6,0
+917,Kumar-Nanda,gabakaran@minhas-kurian.com,Danapur,TS,Individual,2020-11-01 08:00:00,110781.99,1
+918,"Atwal, Chaudry and Mohanty",ndeshpande@dhar.com,Anantapur,TN,Startup,2020-11-01 16:00:00,36069.88,0
+919,Bhakta-Dara,rajhardik@goyal-memon.com,Surat,TN,SMB,2020-11-02 00:00:00,94518.36,0
+920,"Bumb, Saxena and Shenoy",zsastry@dalal-subramaniam.com,Surendranagar Dudhrej,RJ,SMB,2020-11-02 08:00:00,139141.9,0
+921,"Kuruvilla, Saran and Saha",warinder94@krishnamurthy.info,Fatehpur,MH,Startup,2020-11-02 16:00:00,249294.35,0
+922,Kalita Group,peter92@krishnan.info,Purnia,GJ,Enterprise,2020-11-03 00:00:00,43450.26,1
+923,"Nayak, Lad and Konda",max43@cheema.com,Kumbakonam,AP,Startup,2020-11-03 08:00:00,129984.73,0
+924,"Goswami, Boase and Khare",chauhangunbir@narayanan.com,Kumbakonam,GJ,SMB,2020-11-03 16:00:00,26277.65,0
+925,Nagi LLC,nazarethishwar@saxena.com,Nandyal,AP,Startup,2020-11-04 00:00:00,394312.05,0
+926,Shankar Inc,varughesenoah@mistry.info,New Delhi,KA,Enterprise,2020-11-04 08:00:00,2219.13,0
+927,"Sha, Prashad and Bhardwaj",sundertanay@wali-chand.com,Khandwa,MH,Startup,2020-11-04 16:00:00,78637.91,0
+928,Dada-Nath,hkakar@raju.com,Saharsa,TN,SMB,2020-11-05 00:00:00,91575.41,0
+929,"Patil, Sehgal and Rajagopalan",tanvi22@sur.org,Orai,DL,Startup,2020-11-05 08:00:00,99016.34,0
+930,"Dash, Dhar and Narang",agastya36@prakash.com,Davanagere,AP,Enterprise,2020-11-05 16:00:00,10903.28,1
+931,Nagar-Bobal,fariq71@ben-narang.com,Burhanpur,GJ,Startup,2020-11-06 00:00:00,237082.21,0
+932,Khare Ltd,ijaya70@ratti-patel.info,Bally,TN,Startup,2020-11-06 08:00:00,16991.08,0
+933,Ahluwalia PLC,,Guwahati,AP,Startup,2020-11-06 16:00:00,82862.78,0
+934,Brahmbhatt-Garg,pranavbajwa@lad.com,Bongaigaon,AP,Startup,2020-11-07 00:00:00,21411.34,1
+935,Thakur-Sunder,nbali@kalla.org,Jaunpur,RJ,Startup,2020-11-07 08:00:00,31198.2,0
+936,Dugar-Sinha,gaurikakhare@mukherjee.com,Dehri,AP,Individual,2020-11-07 16:00:00,67206.83,0
+937,"Bobal, Vig and Sodhi",,Tumkur,DL,SMB,2020-11-08 00:00:00,45891.49,0
+938,Ravel and Sons,ngaba@krishnan-natt.org,Nanded,MH,Individual,2020-11-08 08:00:00,14842.87,0
+939,Sura Group,jhaaditya@kamdar.net,Indore,DL,SMB,2020-11-08 16:00:00,15933.96,0
+940,Choudhry-Chakrabarti,vborde@murty-iyengar.net,Tiruchirappalli,TS,Enterprise,2020-11-09 00:00:00,46030.36,0
+941,Bassi-Gera,ojasvi44@oza-kaul.com,Vijayawada,TN,Enterprise,2020-11-09 08:00:00,120348.02,0
+942,Gaba LLC,hritikbali@chawla.net,Durgapur,MH,SMB,2020-11-09 16:00:00,194007.05,0
+943,Lal and Sons,esetty@babu.com,Kalyan-Dombivli,RJ,Startup,2020-11-10 00:00:00,7469.65,0
+944,Pillay-Mane,guneetsahota@seshadri-swamy.com,Meerut,MH,Startup,2020-11-10 08:00:00,42448.8,1
+945,"Saran, Choudhury and Sarin",,Karnal,MH,Startup,2020-11-10 16:00:00,448942.0,1
+946,Mishra LLC,dhaliwalkritika@bala-dixit.com,Erode,GJ,SMB,2020-11-11 00:00:00,1422.19,0
+947,"Narula, Shah and Issac",samalila@agrawal.com,Gurgaon,MH,SMB,2020-11-11 08:00:00,92129.58,0
+948,Bhasin-Saha,,Ballia,RJ,Enterprise,2020-11-11 16:00:00,78406.82,0
+949,Kota-Guha,kevinmorar@kapoor-gola.com,Faridabad,DL,SMB,2020-11-12 00:00:00,15126.09,0
+950,"Sunder, Gera and Chauhan",idugal@behl.info,Pimpri-Chinchwad,MH,SMB,2020-11-12 08:00:00,22637.95,1
+951,Sachdeva-Gaba,michaelmohanty@barad.com,Firozabad,KA,Enterprise,2020-11-12 16:00:00,2039.43,0
+952,Ramachandran-Walia,kavyasood@iyengar.com,Visakhapatnam,TN,SMB,2020-11-13 00:00:00,153126.64,0
+953,Sule Ltd,ranbirpatla@kaur.com,Dharmavaram,MH,Startup,2020-11-13 08:00:00,312509.24,0
+954,Hayer LLC,om30@kumer.com,Agra,TN,Startup,2020-11-13 16:00:00,12372.36,0
+955,"Kapur, Date and Tank",,Rajkot,KA,Individual,2020-11-14 00:00:00,22379.01,0
+956,Saha Ltd,aarna37@mitra.com,Bidar,KA,Individual,2020-11-14 08:00:00,172385.15,0
+957,"Vaidya, Shenoy and Goda",balanveer@chopra.com,Nashik,TN,Startup,2020-11-14 16:00:00,221848.08,0
+958,Babu-Jhaveri,,Rourkela,AP,SMB,2020-11-15 00:00:00,46247.22,0
+959,Nadig LLC,buchcharan@palla.biz,Pimpri-Chinchwad,TS,Startup,2020-11-15 08:00:00,4415.64,0
+960,"Lad, Mannan and Naidu",abha81@golla-parmar.org,Avadi,GJ,Startup,2020-11-15 16:00:00,3416.04,1
+961,"Pandey, Varty and Balakrishnan",chakrika42@kala.com,Visakhapatnam,AP,Enterprise,2020-11-16 00:00:00,72521.85,0
+962,Baria Group,perijagat@merchant.com,Loni,AP,SMB,2020-11-16 08:00:00,42419.56,1
+963,Bhargava Ltd,yutika17@sane-kant.com,Thiruvananthapuram,DL,Individual,2020-11-16 16:00:00,2471.03,0
+964,"Rana, Bhalla and Varughese",qdoctor@badal.com,Tadepalligudem,GJ,SMB,2020-11-17 00:00:00,74398.33,0
+965,"Tripathi, Shenoy and Chaudhary",shettyjai@sarma.com,Durg,GJ,Startup,2020-11-17 08:00:00,966.19,0
+966,Ranganathan-Rajagopalan,aamble@prasad.biz,Thiruvananthapuram,AP,Startup,2020-11-17 16:00:00,131597.93,1
+967,Prasad Ltd,sharmamitesh@gour.biz,Moradabad,MH,SMB,2020-11-18 00:00:00,31102.11,1
+968,"Khare, Sha and Soman",,Rajahmundry,DL,SMB,2020-11-18 08:00:00,3492.72,0
+969,"Vala, Ramachandran and Bhat",barmanbhanumati@bahl.com,Gandhidham,DL,SMB,2020-11-18 16:00:00,75444.91,1
+970,Dani-Mallick,,Kishanganj,KA,Enterprise,2020-11-19 00:00:00,43092.77,1
+971,"Borde, Sawhney and Ravel",lallchakradhar@tandon.com,Raipur,RJ,Enterprise,2020-11-19 08:00:00,309570.99,0
+972,Raj-Bandi,ojasvipandit@aggarwal.com,Unnao,GJ,Individual,2020-11-19 16:00:00,66784.35,0
+973,"Tiwari, Balay and Khosla",dasguptaudant@anand-modi.info,Pondicherry,AP,SMB,2020-11-20 00:00:00,27362.65,1
+974,Garde Group,narayananmugdha@bansal-nori.com,Tiruppur,KA,SMB,2020-11-20 08:00:00,105055.01,1
+975,Swamy-Dasgupta,rajaurvashi@balan-chaudhuri.com,Gandhidham,TN,SMB,2020-11-20 16:00:00,26924.32,0
+976,"Sarraf, Dixit and Bumb",mnatarajan@tara.org,Maheshtala,TS,Individual,2020-11-21 00:00:00,199405.29,1
+977,Upadhyay Ltd,nadigimaran@madan-sampath.com,Panvel,RJ,SMB,2020-11-21 08:00:00,39912.5,0
+978,Tandon-Andra,,Tiruchirappalli,RJ,SMB,2020-11-21 16:00:00,,0
+979,Agarwal PLC,tanmayibrar@rajan-radhakrishnan.com,Patiala,RJ,Individual,2020-11-22 00:00:00,4411.22,0
+980,"Oommen, Devan and Bava",joshua33@guha.com,Nangloi Jat,DL,Individual,2020-11-22 08:00:00,47203.66,0
+981,"Bose, Khalsa and Mammen",dgarg@chander-gade.com,Yamunanagar,TN,SMB,2020-11-22 16:00:00,151806.39,0
+982,"Majumdar, Tara and Garg",tamanna68@uppal-merchant.net,Bhusawal,RJ,Individual,2020-11-23 00:00:00,139237.52,0
+983,"Parikh, Natt and Hayre",ayaandeep@jayaraman.org,Vijayawada,TN,SMB,2020-11-23 08:00:00,21591.14,1
+984,Singhal-Issac,epandit@gade.com,Raurkela Industrial Township,MH,SMB,2020-11-23 16:00:00,21784.27,0
+985,"Barad, Hora and Bahri",wpradhan@mangal.com,Rohtak,RJ,Enterprise,2020-11-24 00:00:00,144494.81,0
+986,Sankaran-Menon,vprakash@sengupta.com,Raurkela Industrial Township,TS,Enterprise,2020-11-24 08:00:00,226522.28,0
+987,Sant-Bhatnagar,udesai@gade-murthy.com,Shimla,TN,Startup,2020-11-24 16:00:00,8518.63,0
+988,Kunda-Sem,turviparikh@goyal.com,Raichur,TN,SMB,2020-11-25 00:00:00,50825.21,1
+989,Bhardwaj-Acharya,raagini52@talwar-ganguly.com,Mumbai,TS,SMB,2020-11-25 08:00:00,34991.59,0
+990,"Tank, Murthy and Barad",onveer34@rege.com,Gwalior,RJ,Startup,2020-11-25 16:00:00,173870.11,1
+991,Sridhar-Batra,bahadurjit78@krishnamurthy-goel.com,Akola,TS,Startup,2020-11-26 00:00:00,7413.73,0
+992,Varma and Sons,scomar@bhargava.com,Nagpur,TN,SMB,2020-11-26 08:00:00,,0
+993,Sodhi-Thaker,vdyal@brahmbhatt.com,Nagercoil,TS,Startup,2020-11-26 16:00:00,118678.43,0
+994,"Das, Gola and Jhaveri",aggarwalavi@tara.net,Berhampore,TN,Enterprise,2020-11-27 00:00:00,,0
+995,"Kala, Bhatti and Keer",falanthaman@lata.net,Tiruchirappalli,TN,Startup,2020-11-27 08:00:00,57657.9,0
+996,Magar-Dube,nathansharma@sarraf.com,Kishanganj,MH,Startup,2020-11-27 16:00:00,49604.99,0
+997,Dubey and Sons,nakul40@badal.com,Alwar,AP,Individual,2020-11-28 00:00:00,34600.79,0
+998,Varghese LLC,rajata39@narayan.com,Davanagere,TN,Enterprise,2020-11-28 08:00:00,42654.71,0
+999,Wali Inc,hsule@narayan-baria.info,Ambala,RJ,Enterprise,2020-11-28 16:00:00,64166.18,0
+1000,Gera-Dhawan,urvashi99@chand.org,Hajipur,KA,SMB,2020-11-29 00:00:00,14958.51,0
+1001,Roy-Batta,snair@din.biz,Ambarnath,DL,SMB,2020-11-29 08:00:00,72132.91,0
+1002,Kohli Group,borrabachittar@sawhney-oza.com,Bhiwani,GJ,SMB,2020-11-29 16:00:00,139142.9,0
+1003,"Solanki, Raman and Kunda",jwalia@madan.info,Morena,AP,Individual,2020-11-30 00:00:00,121361.91,1
+1004,Bhargava Group,sai92@dyal-sastry.com,Mumbai,AP,SMB,2020-11-30 08:00:00,14205.0,0
+1005,Solanki and Sons,jvig@oak-jain.com,Farrukhabad,AP,SMB,2020-11-30 16:00:00,13739.09,0
+1006,Bassi Group,csankar@varughese-bath.org,Bhubaneswar,MH,Startup,2020-12-01 00:00:00,26538.11,1
+1007,"Peri, Tella and Thaman",mdube@agrawal-subramanian.com,Agra,TN,SMB,2020-12-01 08:00:00,38077.26,0
+1008,"Kumar, Patel and Atwal",vedasangha@mand-kuruvilla.net,Ambattur,MH,Startup,2020-12-01 16:00:00,44626.57,0
+1009,Kant and Sons,triptinazareth@trivedi-krishnan.info,Rourkela,TN,Enterprise,2020-12-02 00:00:00,96771.53,0
+1010,Tiwari-Menon,ekajapalla@chana.com,Katihar,RJ,SMB,2020-12-02 08:00:00,4959.76,0
+1011,"Nagarajan, Murthy and Dhingra",nakulmodi@bassi.com,Loni,MH,Enterprise,2020-12-02 16:00:00,2999.49,1
+1012,Chakraborty and Sons,wgarde@warrior.net,Ghaziabad,MH,Enterprise,2020-12-03 00:00:00,42281.83,1
+1013,Ben-Trivedi,,Jammu,DL,Individual,2020-12-03 08:00:00,101537.84,1
+1014,"Halder, Dey and Ravel",chakrika40@subramaniam.com,Khora ,KA,Enterprise,2020-12-03 16:00:00,18272.55,0
+1015,Kothari-Sinha,siyadube@garde-gulati.org,Gorakhpur,MH,SMB,2020-12-04 00:00:00,87196.33,0
+1016,"Karpe, Basu and Raja",,Morena,DL,SMB,2020-12-04 08:00:00,25574.19,0
+1017,Venkatesh Group,qbutala@chaudhari.com,Firozabad,TS,SMB,2020-12-04 16:00:00,9232328.0,0
+1018,Thakkar PLC,,Pallavaram,KA,Individual,2020-12-05 00:00:00,192132.94,0
+1019,Balan-Samra,shroffdalbir@varma.com,Gopalpur,RJ,Enterprise,2020-12-05 08:00:00,29988.6,0
+1020,Rastogi-Narula,tsuri@choudhry.com,Nagaon,MH,Startup,2020-12-05 16:00:00,22215.32,0
+1021,Chad-Johal,aradhana75@wali.biz,Bokaro,GJ,Individual,2020-12-06 00:00:00,45036.85,0
+1022,Gokhale Group,,Guntakal,AP,Startup,2020-12-06 08:00:00,23386.61,1
+1023,Narasimhan-Bhalla,parsaunni@bhargava-hegde.com,Bongaigaon,TS,Individual,2020-12-06 16:00:00,94852.57,1
+1024,Buch Group,jagrati38@kapadia.com,Jehanabad,TS,Enterprise,2020-12-07 00:00:00,148671.1,0
+1025,"Rama, Ganesan and Hayre",bhavani12@padmanabhan.com,Silchar,RJ,SMB,2020-12-07 08:00:00,95036.54,0
+1026,Reddy PLC,hnagarajan@walla.com,Giridih,DL,SMB,2020-12-07 16:00:00,147837.48,0
+1027,"Din, Srinivasan and Sangha",mangatbhavya@de.com,Ajmer,TS,Startup,2020-12-08 00:00:00,42995.13,1
+1028,Natarajan-Manne,chandrannarula@kuruvilla.org,Vellore,KA,Individual,2020-12-08 08:00:00,14448.17,0
+1029,Hegde Group,ybhatti@halder.com,New Delhi,MH,SMB,2020-12-08 16:00:00,113834.0,0
+1030,"Khanna, Varty and Hora",ijaya88@kashyap-deo.biz,Chittoor,MH,Startup,2020-12-09 00:00:00,37997.45,0
+1031,"Sodhi, Kar and Yadav",yugnaidu@rout-deol.com,Amaravati,GJ,SMB,2020-12-09 08:00:00,94564.29,0
+1032,Ramachandran LLC,daniwarjas@ray.info,Dindigul,RJ,Startup,2020-12-09 16:00:00,26825.43,0
+1033,Kunda-Choudhry,yauvanirege@jani-ganguly.com,Kalyan-Dombivli,AP,SMB,2020-12-10 00:00:00,7201.12,0
+1034,"Chawla, Yogi and Parsa",liladhillon@dave.com,Proddatur,DL,Individual,2020-12-10 08:00:00,416824.55,0
+1035,"Goswami, Hora and Salvi",tmitra@ray.biz,Karnal,AP,Startup,2020-12-10 16:00:00,14436.53,0
+1036,Dash and Sons,jguha@barad-sodhi.com,Rajkot,TS,SMB,2020-12-11 00:00:00,378977.74,0
+1037,"Rai, Rama and Dhingra",varmarayaan@narayan-kalla.com,Ozhukarai,RJ,Enterprise,2020-12-11 08:00:00,321683.07,0
+1038,Ray LLC,xavierbhalla@mohanty.net,Raichur,GJ,SMB,2020-12-11 16:00:00,134214.7,1
+1039,Sani PLC,wyatt76@naik.net,Rewa,AP,SMB,2020-12-12 00:00:00,91554.68,0
+1040,Kar-Mukherjee,pallabaljiwan@kuruvilla.com,Singrauli,KA,SMB,2020-12-12 08:00:00,73294.89,1
+1041,Roy Inc,neelsodhi@murty-uppal.com,Thiruvananthapuram,MH,Individual,2020-12-12 16:00:00,170907.25,0
+1042,"Trivedi, Nagar and Bhargava",jasondesai@shankar-jayaraman.com,Kharagpur,TS,Startup,2020-12-13 00:00:00,29044.6,0
+1043,Dugar Group,harshmann@deo-shenoy.info,Kirari Suleman Nagar,GJ,SMB,2020-12-13 08:00:00,53593.58,0
+1044,Iyer Ltd,madangavin@soni-shukla.org,Mangalore,AP,Enterprise,2020-12-13 16:00:00,82108.3,0
+1045,"Swaminathan, Mannan and Vyas",nidra88@mander.info,Nellore,DL,Individual,2020-12-14 00:00:00,45020.47,0
+1046,Ramaswamy-Ben,mekhala12@chhabra.com,Kakinada,KA,Startup,2020-12-14 08:00:00,47406.11,0
+1047,Edwin-Vyas,saanvi20@kota.com,Surat,KA,Enterprise,2020-12-14 16:00:00,34076.72,0
+1048,Wali-Oak,dixitmadhav@nori-comar.com,Tiruvottiyur,AP,Startup,2020-12-15 00:00:00,70604.81,0
+1049,Sankar-D’Alia,bhagatpratyush@sagar-bali.org,Raiganj,MH,SMB,2020-12-15 08:00:00,161581.39,1
+1050,Tella-Naidu,abhayohannan@dalal-pathak.com,Ramgarh,AP,Enterprise,2020-12-15 16:00:00,19129.75,1
+1051,Iyengar and Sons,aayushperi@koshy.com,Shahjahanpur,TS,SMB,2020-12-16 00:00:00,231598.08,0
+1052,Sura Group,sekhonadvik@bora-kakar.com,Muzaffarpur,AP,SMB,2020-12-16 08:00:00,99300.76,1
+1053,Tara-Dar,ektatak@kuruvilla-more.com,Sagar,KA,SMB,2020-12-16 16:00:00,147317.78,0
+1054,Bumb Group,vrishti33@pandey.com,Aligarh,GJ,Individual,2020-12-17 00:00:00,69050.63,0
+1055,Nayar LLC,vedagoyal@setty-aggarwal.com,Madhyamgram,AP,Individual,2020-12-17 08:00:00,128514.33,1
+1056,Murthy and Sons,,Dhanbad,MH,Startup,2020-12-17 16:00:00,1388.31,0
+1057,Shan-Seshadri,nbobal@behl.org,Bharatpur,RJ,SMB,2020-12-18 00:00:00,144996.49,0
+1058,"Dhar, Varkey and Sani",kahluwalia@chowdhury.biz,Jalgaon,GJ,SMB,2020-12-18 08:00:00,3482.17,0
+1059,"Bhandari, Chaudry and Kadakia",,Suryapet,DL,Startup,2020-12-18 16:00:00,187551.46,1
+1060,Loyal Inc,anikanath@handa.net,Danapur,TN,SMB,2020-12-19 00:00:00,410011.78,1
+1061,Devi-Ratta,eminhas@aggarwal.com,Bahraich,AP,Enterprise,2020-12-19 08:00:00,29600.03,0
+1062,Sood-Tank,mrao@minhas-oak.net,Uluberia,MH,SMB,2020-12-19 16:00:00,20070.68,0
+1063,"Choudhry, Balan and Kara",amolbhargava@thakkar-virk.com,Tiruppur,GJ,Individual,2020-12-20 00:00:00,123225.96,0
+1064,"Patil, Vaidya and Palla",,Hosur,MH,SMB,2020-12-20 08:00:00,24796.66,0
+1065,"Sunder, Virk and Purohit",michael23@kulkarni.com,Satna,DL,Enterprise,2020-12-20 16:00:00,170565.68,0
+1066,Chakraborty Ltd,joshuadin@thakur.biz,Gorakhpur,KA,Startup,2020-12-21 00:00:00,9224.54,0
+1067,Chakrabarti-Narayan,kaulranbir@doshi-kuruvilla.com,Kulti,MH,SMB,2020-12-21 08:00:00,11443.01,0
+1068,Divan-Oommen,uedwin@andra.biz,Haridwar,GJ,SMB,2020-12-21 16:00:00,328990.45,0
+1069,Saran-Subramaniam,nimratbali@babu.com,Bathinda,MH,SMB,2020-12-22 00:00:00,95230.93,0
+1070,Babu Ltd,mistrynandini@kakar.org,Agartala,MH,SMB,2020-12-22 08:00:00,159509.35,0
+1071,"Wagle, Mohanty and Saraf",amaira19@agate-walla.com,Asansol,MH,Startup,2020-12-22 16:00:00,33324.21,1
+1072,Mistry-Srinivas,royjeet@sha.info,Mysore,TS,SMB,2020-12-23 00:00:00,95923.0,0
+1073,Narayan Ltd,harinakshi46@tailor.com,Gopalpur,TS,SMB,2020-12-23 08:00:00,76669.82,0
+1074,Sen-Biswas,annemadhav@manne-datta.com,Tinsukia,KA,Individual,2020-12-23 16:00:00,78556.76,0
+1075,"Deep, Garg and Natt",sekhoninaya@kumer.org,Sagar,AP,Individual,2020-12-24 00:00:00,97527.27,0
+1076,Chand PLC,palanwarhi@krishna-agarwal.info,Jamalpur,MH,Individual,2020-12-24 08:00:00,72803.48,0
+1077,Saha-Mohanty,xkanda@kakar.com,Patna,DL,SMB,2020-12-24 16:00:00,47640.4,0
+1078,Warrior-Chacko,zdey@om.com,Hosur,AP,SMB,2020-12-25 00:00:00,27442.85,0
+1079,Raja-Loyal,chaitanya62@sha-handa.com,Mau,DL,Individual,2020-12-25 08:00:00,124399.78,0
+1080,"Deep, Saraf and Rege",suhani05@apte-sidhu.com,Madhyamgram,AP,Startup,2020-12-25 16:00:00,21805.51,0
+1081,Doctor Inc,kotharidayita@sen.biz,Guna,KA,Enterprise,2020-12-26 00:00:00,100198.55,0
+1082,Sankar-Shah,semgautami@mani-bora.biz,Thrissur,MH,Enterprise,2020-12-26 08:00:00,22584.71,1
+1083,Srinivas LLC,krishratti@basak.com,Serampore,MH,SMB,2020-12-26 16:00:00,83445.36,0
+1084,Parikh Ltd,qabilpandey@pathak-gour.com,Varanasi,TN,Individual,2020-12-27 00:00:00,116847.39,0
+1085,Joshi LLC,hemanadkarni@thakkar.org,Durg,DL,SMB,2020-12-27 08:00:00,20979.18,0
+1086,"Wason, Saran and Chanda",idoctor@nadkarni.com,Bhalswa Jahangir Pur,AP,SMB,2020-12-27 16:00:00,5254.28,0
+1087,"Bhavsar, Bail and Merchant",tooranya@keer.com,Parbhani,AP,Enterprise,2020-12-28 00:00:00,11932.46,0
+1088,"Sathe, Hans and Kuruvilla",aarush52@kalla.biz,Berhampore,RJ,Startup,2020-12-28 08:00:00,79168.72,0
+1089,Mutti-Sharaf,nayarfaqid@balay.info,Kottayam,RJ,Individual,2020-12-28 16:00:00,160942.07,0
+1090,Bhalla Group,sharmapraneel@dugar.biz,Morbi,TS,SMB,2020-12-29 00:00:00,3913.45,0
+1091,Natt and Sons,upadhriti98@sachdev.com,Kolhapur,TN,Startup,2020-12-29 08:00:00,112610.36,0
+1092,Jaggi Group,aarushchandran@contractor.com,Ajmer,GJ,Individual,2020-12-29 16:00:00,35488.81,0
+1093,"Guha, Dash and Tripathi",,Amravati,RJ,SMB,2020-12-30 00:00:00,55343.53,0
+1094,Dugar-Baral,hayreanamika@garg.com,Kishanganj,GJ,SMB,2020-12-30 08:00:00,224663.43,0
+1095,Dar-Yohannan,vasana91@vala.biz,Munger,TS,SMB,2020-12-30 16:00:00,34291.08,0
+1096,Sood-Brahmbhatt,balendrasingh@nazareth-sarkar.com,Junagadh,TS,Startup,2020-12-31 00:00:00,53220.07,0
+1097,"Rastogi, Bandi and Kalita",yashodhara35@sahota.com,Saharanpur,TS,Startup,2020-12-31 08:00:00,1171.03,0
+1098,Jaggi Group,ulad@kata.com,Hindupur,DL,Startup,2020-12-31 16:00:00,7235.27,1
+1099,Parmar Inc,ravidiya@korpal.com,Parbhani,DL,Startup,2021-01-01 00:00:00,,0
+1100,"Rao, Dhingra and Bhavsar",rajatamitra@gara.com,Loni,KA,SMB,2021-01-01 08:00:00,2401.03,1
+1101,Keer-Dhillon,siddharthmerchant@sethi.com,Pimpri-Chinchwad,KA,Individual,2021-01-01 16:00:00,84827.99,0
+1102,Shere-Kant,charansagar@bail.com,Etawah,TS,SMB,2021-01-02 00:00:00,47244.71,0
+1103,"Golla, Dube and Varughese",zansi47@oza.com,Sasaram,TN,SMB,2021-01-02 08:00:00,67523.52,0
+1104,Ravi-Sha,thakuramara@rajagopalan.biz,Siwan,AP,Startup,2021-01-02 16:00:00,16315.27,1
+1105,Chakrabarti and Sons,pratyushsehgal@master.com,Sonipat,DL,Startup,2021-01-03 00:00:00,29824.83,0
+1106,Rama-Nadkarni,zayyanchandran@pillay-kalita.info,Jorhat,TN,SMB,2021-01-03 08:00:00,92660.36,0
+1107,Agate Group,kalpit18@mahal.com,Durgapur,MH,Individual,2021-01-03 16:00:00,285693.0,0
+1108,Grover and Sons,bhatiatanveer@patla.com,Gorakhpur,DL,Individual,2021-01-04 00:00:00,4397.23,0
+1109,Mall Inc,dakshaamble@brahmbhatt.com,Anand,DL,SMB,2021-01-04 08:00:00,187915.86,0
+1110,Ramachandran Inc,frederickkar@sampath.com,Amravati,KA,Individual,2021-01-04 16:00:00,,1
+1111,"Varghese, Krishna and Swamy",barmanvinaya@karan-nagarajan.com,Lucknow,AP,Enterprise,2021-01-05 00:00:00,70543.93,1
+1112,"Tara, Kapoor and Kapur",ektagade@upadhyay.com,Ongole,AP,SMB,2021-01-05 08:00:00,58964.87,0
+1113,Ravi Ltd,orinder73@bora-vaidya.biz,Bharatpur,RJ,SMB,2021-01-05 16:00:00,6113.15,1
+1114,Krishna Group,yohannanoscar@deep.com,Yamunanagar,GJ,Individual,2021-01-06 00:00:00,8004.91,0
+1115,Chokshi Ltd,patelfinn@dixit.biz,Durgapur,GJ,Startup,2021-01-06 08:00:00,78078.73,0
+1116,"Kata, Banerjee and Mani",papte@mandal.com,Ramgarh,GJ,SMB,2021-01-06 16:00:00,35442.35,0
+1117,Dugar and Sons,oliver12@prabhakar.com,Delhi,GJ,SMB,2021-01-07 00:00:00,211832.72,0
+1118,"Loyal, Mandal and Jha",omnetra@mannan.com,Jalgaon,MH,Startup,2021-01-07 08:00:00,44359.0,1
+1119,Narang and Sons,,Jamnagar,MH,Enterprise,2021-01-07 16:00:00,13144.9,0
+1120,Tripathi PLC,yashasvigrover@gandhi.org,Bharatpur,DL,Individual,2021-01-08 00:00:00,106613.8,0
+1121,"Varughese, Rege and Sheth",korpalqarin@venkataraman.com,Hindupur,TS,Individual,2021-01-08 08:00:00,29514.09,0
+1122,Agrawal Ltd,ishaan54@raman.com,Nagpur,KA,SMB,2021-01-08 16:00:00,63361.64,0
+1123,Chand PLC,xgara@ganesh.biz,Kumbakonam,KA,Individual,2021-01-09 00:00:00,101725.85,0
+1124,Ramanathan-Mishra,nagarindrajit@bhatti.net,Raurkela Industrial Township,GJ,SMB,2021-01-09 08:00:00,195944.52,1
+1125,Saxena-Mani,kalatejas@parmar.com,Jalandhar,DL,Individual,2021-01-09 16:00:00,133546.63,1
+1126,"Kala, Soman and Badami",fnaik@bandi-gokhale.com,Nagercoil,RJ,Startup,2021-01-10 00:00:00,95890.78,0
+1127,Tripathi-Deshmukh,bakhshi69@wadhwa.com,Navi Mumbai,TN,Startup,2021-01-10 08:00:00,96754.53,0
+1128,"Majumdar, Nagy and Singh",ybhatia@contractor.com,Pallavaram,TS,SMB,2021-01-10 16:00:00,247977.02,0
+1129,Vora-Jha,chandachakrika@aggarwal.com,Ujjain,DL,Individual,2021-01-11 00:00:00,29811.8,0
+1130,Dhingra-Narasimhan,elijah67@merchant.com,Silchar,TS,SMB,2021-01-11 08:00:00,94.58,0
+1131,"Garde, Amble and Shere",bina79@kar.biz,Dharmavaram,TS,SMB,2021-01-11 16:00:00,26978.3,0
+1132,Dar-Sathe,krishnanori@gour-kala.com,Mathura,TS,Enterprise,2021-01-12 00:00:00,20889.74,0
+1133,Tank and Sons,sharmabalendra@singh.org,Bhubaneswar,DL,Startup,2021-01-12 08:00:00,92158.71,0
+1134,"Chowdhury, Kara and Walla",aryankadakia@dar.com,Ballia,GJ,SMB,2021-01-12 16:00:00,,0
+1135,Ghosh-Walia,mitalisubramanian@bhakta-rama.com,Faridabad,KA,Startup,2021-01-13 00:00:00,76506.49,0
+1136,Subramaniam Inc,geetikayohannan@saraf.org,Pudukkottai,KA,Individual,2021-01-13 08:00:00,1392.03,0
+1137,Mahajan Ltd,brahmbhattkavya@bora-gole.com,Kolhapur,GJ,Enterprise,2021-01-13 16:00:00,110909.51,0
+1138,Viswanathan-Bora,rajagopalanmeghana@raman-chopra.biz,Gaya,TS,Startup,2021-01-14 00:00:00,33223.76,1
+1139,Bera PLC,madhav68@parmer.biz,Raiganj,TN,SMB,2021-01-14 08:00:00,92972.31,0
+1140,Mistry and Sons,bhavika93@dada-barad.net,Ratlam,AP,Individual,2021-01-14 16:00:00,,1
+1141,Saini Inc,devanshandra@bhatt.com,Berhampore,DL,Individual,2021-01-15 00:00:00,,0
+1142,Sagar-Batta,hrana@more.com,Guna,AP,SMB,2021-01-15 08:00:00,12285.56,0
+1143,"Oak, Butala and Bose",sawhneyhemani@tak.com,Bettiah,RJ,Startup,2021-01-15 16:00:00,8430.17,0
+1144,Bakshi Ltd,parmarchakradev@borah.com,Ozhukarai,GJ,SMB,2021-01-16 00:00:00,151378.91,1
+1145,Tara Inc,devikapai@chakraborty-nadkarni.com,Dewas,TN,SMB,2021-01-16 08:00:00,213001.15,0
+1146,Saini Inc,baralsanya@shenoy.com,Darbhanga,DL,Individual,2021-01-16 16:00:00,89183.42,0
+1147,"Pai, Chaudry and Garde",rajata29@agarwal.com,Sambhal,GJ,SMB,2021-01-17 00:00:00,9280.6,0
+1148,"Anne, Majumdar and Sharaf",zansigade@bassi.com,Ambala,TS,SMB,2021-01-17 08:00:00,43707.85,0
+1149,Saini-Jain,gaurangisen@sen.biz,Dindigul,KA,SMB,2021-01-17 16:00:00,110960.03,0
+1150,"Atwal, Wali and Oommen",benjaminmall@barad-palan.com,Sasaram,AP,Individual,2021-01-18 00:00:00,128631.68,1
+1151,Pall Inc,,Karnal,MH,SMB,2021-01-18 08:00:00,10693.95,0
+1152,Kant-Bakshi,daminimurty@nadig.com,Imphal,MH,SMB,2021-01-18 16:00:00,2.61,0
+1153,Kalla Inc,qmukhopadhyay@pall-karpe.com,Hubli–Dharwad,TN,Startup,2021-01-19 00:00:00,105848.02,0
+1154,"Nadig, Mishra and Dutt",oakhemangini@ranganathan-dewan.com,Ludhiana,TS,Individual,2021-01-19 08:00:00,37483.53,0
+1155,"Saraf, Sandhu and Suresh",somanrushil@master-rout.info,Anantapur,RJ,Enterprise,2021-01-19 16:00:00,24962.38,0
+1156,Palan Ltd,ohari@mani.com,Ahmedabad,AP,SMB,2021-01-20 00:00:00,,0
+1157,Misra-Narain,,Dewas,TS,Enterprise,2021-01-20 08:00:00,66060.29,0
+1158,Soni-Arya,jalsarastogi@kothari.net,Surat,AP,SMB,2021-01-20 16:00:00,161909.8,0
+1159,Konda-Bhakta,vmukhopadhyay@bal-brahmbhatt.biz,Maheshtala,TN,SMB,2021-01-21 00:00:00,268715.05,0
+1160,Srinivasan Inc,atwaltheodore@kapadia.com,Ranchi,TN,Startup,2021-01-21 08:00:00,70900.48,1
+1161,Borah-Bhargava,oaknidhi@sehgal.net,Rajpur Sonarpur,RJ,Startup,2021-01-21 16:00:00,61412.19,0
+1162,"Balakrishnan, Goswami and Sathe",rattanlavanya@sawhney.net,Karawal Nagar,MH,Startup,2021-01-22 00:00:00,7555.89,0
+1163,Chand and Sons,npant@kannan.biz,Katni,TS,SMB,2021-01-22 08:00:00,67660.51,0
+1164,Tiwari-Chopra,dnarayan@gupta.info,Jhansi,DL,Individual,2021-01-22 16:00:00,40630.17,0
+1165,Vora-Deep,ebehl@malhotra.com,Jammu,MH,SMB,2021-01-23 00:00:00,79414.65,0
+1166,Dutta-Vala,guneetgandhi@nigam.info,Jamnagar,TS,Individual,2021-01-23 08:00:00,41837.9,0
+1167,Baral Inc,gopal94@srinivas-dutt.com,Bhalswa Jahangir Pur,MH,Startup,2021-01-23 16:00:00,23360.59,0
+1168,Verma and Sons,,Tadepalligudem,DL,Enterprise,2021-01-24 00:00:00,8481.47,1
+1169,Oak LLC,wishilala@dutta.com,Rajahmundry,KA,Startup,2021-01-24 08:00:00,32148.48,0
+1170,"Batra, Jhaveri and Wali",tsawhney@joshi-baral.com,Sambhal,KA,SMB,2021-01-24 16:00:00,8639.36,0
+1171,"Ratta, Balay and Varughese",yogimaanav@ganesan-rattan.com,Bidhannagar,RJ,Startup,2021-01-25 00:00:00,16547.28,0
+1172,Sane and Sons,vsachar@madan.net,Guna,KA,Enterprise,2021-01-25 08:00:00,371365.38,0
+1173,Sarin and Sons,warda14@bajaj-aurora.net,Kollam,KA,SMB,2021-01-25 16:00:00,49909.73,0
+1174,"Goyal, Kuruvilla and Dyal",vihaan57@mammen.info,Mangalore,GJ,Individual,2021-01-26 00:00:00,64516.11,1
+1175,"Tata, Viswanathan and Sankaran",varsha12@krishna-morar.com,Orai,AP,SMB,2021-01-26 08:00:00,175818.28,0
+1176,Kanda-Bains,sanitanish@bhalla.biz,Arrah,GJ,Individual,2021-01-26 16:00:00,460624.14,0
+1177,Nagy Inc,bmodi@sunder.com,Bangalore,GJ,SMB,2021-01-27 00:00:00,74288.68,0
+1178,Apte-Deshpande,iupadhyay@guha-sani.org,Guntur,RJ,Startup,2021-01-27 08:00:00,142276.13,0
+1179,Dayal and Sons,kashish52@bajwa.com,Aligarh,GJ,Startup,2021-01-27 16:00:00,33653.4,0
+1180,"Taneja, Bajaj and De",deepadash@mandal-viswanathan.org,Bellary,KA,SMB,2021-01-28 00:00:00,31017.73,0
+1181,"Dutta, Warrior and Bahri",goleabdul@brahmbhatt-reddy.com,Jodhpur,DL,SMB,2021-01-28 08:00:00,43804.07,0
+1182,Salvi and Sons,uwadhwa@varghese-mand.com,Meerut,RJ,SMB,2021-01-28 16:00:00,94884.6,0
+1183,Konda-Rattan,utkarsh12@patla.com,Bidar,RJ,Enterprise,2021-01-29 00:00:00,97436.08,0
+1184,"Sundaram, Tak and Prasad",munianya@palla-kumar.net,Pondicherry,TN,SMB,2021-01-29 08:00:00,32188.31,1
+1185,Swamy-Bhagat,rajeshrinayak@behl.biz,Uluberia,RJ,Startup,2021-01-29 16:00:00,12151.47,0
+1186,Bobal and Sons,nchawla@bora.net,Thrissur,TN,Individual,2021-01-30 00:00:00,85063.72,1
+1187,"Bassi, Dixit and Buch",usankar@vora.biz,Chinsurah,RJ,Individual,2021-01-30 08:00:00,11673.87,0
+1188,"Prabhu, Vasa and Misra",kiaansolanki@sangha-sagar.com,Kalyan-Dombivli,AP,Startup,2021-01-30 16:00:00,73433.01,0
+1189,Batta Ltd,atiratti@devan.com,Bhatpara,KA,Startup,2021-01-31 00:00:00,100494.1,0
+1190,Kapadia-Krishnamurthy,valaguneet@munshi.com,Karnal,RJ,Startup,2021-01-31 08:00:00,102511.12,0
+1191,Dyal PLC,gourchandresh@ganesh.com,Indore,KA,SMB,2021-01-31 16:00:00,119023.81,0
+1192,Som-Bora,nikita18@pillay.biz,Raiganj,KA,Individual,2021-02-01 00:00:00,175309.26,0
+1193,Shukla PLC,jagrati02@dhingra-comar.com,Panihati,MH,Startup,2021-02-01 08:00:00,58910.54,0
+1194,Palla-Aggarwal,leelapandit@sengupta.com,Munger,RJ,Startup,2021-02-01 16:00:00,111371.82,1
+1195,Saini-Deol,oni64@varughese-bhardwaj.info,Karnal,TS,Enterprise,2021-02-02 00:00:00,82059.8,0
+1196,"Lall, Khare and Boase",boasevivaan@munshi.net,Firozabad,MH,SMB,2021-02-02 08:00:00,17559.42,0
+1197,Menon Ltd,,Patiala,TS,SMB,2021-02-02 16:00:00,2212.16,0
+1198,Keer LLC,vlall@master-tak.net,Siliguri,KA,Individual,2021-02-03 00:00:00,28460.68,1
+1199,Gera-Dewan,ekalinga96@gade.net,Hospet,KA,SMB,2021-02-03 08:00:00,49746.3,0
+1200,"Kant, Srinivasan and Gopal",ramanathanishani@gokhale-mane.com,Parbhani,MH,SMB,2021-02-03 16:00:00,81599.74,0
+1201,Ram-Varughese,sidhukai@choudhary-talwar.com,Ahmedabad,MH,Individual,2021-02-04 00:00:00,161232.16,0
+1202,Natarajan Ltd,hkhalsa@kuruvilla-dalia.com,Panihati,TS,Enterprise,2021-02-04 08:00:00,18569.24,0
+1203,Sahni LLC,yastidey@khatri-chokshi.org,Raichur,TN,SMB,2021-02-04 16:00:00,11403.59,1
+1204,Kalla PLC,khuranaekiya@murthy.biz,Loni,TS,Enterprise,2021-02-05 00:00:00,281340.97,0
+1205,Tailor Ltd,qpanchal@sant-savant.com,Satara,MH,Startup,2021-02-05 08:00:00,9718.82,0
+1206,"Peri, Aurora and Gour",waliawarjas@bhargava.info,Junagadh,DL,Individual,2021-02-05 16:00:00,,1
+1207,Mody LLC,hbakshi@chand.info,Bhalswa Jahangir Pur,MH,SMB,2021-02-06 00:00:00,74871.07,0
+1208,Bajwa-Chandran,bavapraneel@palla-sama.biz,Bareilly,DL,Individual,2021-02-06 08:00:00,66259.3,0
+1209,Soni Inc,tmahajan@more.net,Firozabad,AP,SMB,2021-02-06 16:00:00,7646.59,0
+1210,Nagy Ltd,xseshadri@kant.com,Anantapur,MH,Individual,2021-02-07 00:00:00,4990.99,0
+1211,Mani-Sagar,dubeycharan@pingle.com,Sambhal,AP,Startup,2021-02-07 08:00:00,9475.11,0
+1212,Pandya-Sant,johalsarthak@bala-dave.com,Munger,TN,Individual,2021-02-07 16:00:00,74875.98,0
+1213,Mohanty-Aggarwal,umangal@mandal-dhawan.info,Aligarh,TS,Enterprise,2021-02-08 00:00:00,66811.62,0
+1214,"Mangat, Bawa and Aurora",,Parbhani,DL,Individual,2021-02-08 08:00:00,22629.96,0
+1215,"Ganesh, Bhatnagar and Deshmukh",ranbirbhalla@zachariah.com,Solapur,TS,Startup,2021-02-08 16:00:00,86316.42,0
+1216,Anne-Comar,nakshhans@singhal-warrior.com,Nellore,AP,SMB,2021-02-09 00:00:00,145789.75,1
+1217,Bumb-Nair,,South Dumdum,DL,Individual,2021-02-09 08:00:00,3609.79,0
+1218,Lata-Kurian,gandhiharinakshi@divan.com,Bareilly,TS,SMB,2021-02-09 16:00:00,,0
+1219,Garg Group,azaansinha@bhatnagar.com,Karawal Nagar,MH,Individual,2021-02-10 00:00:00,99361.68,0
+1220,"Kapadia, Hayer and Chandra",gunbir94@ramanathan-patil.biz,Ichalkaranji,KA,Enterprise,2021-02-10 08:00:00,24715.4,0
+1221,"Bhatia, Bakshi and Sodhi",vivaankakar@kulkarni.com,Srikakulam,AP,Startup,2021-02-10 16:00:00,,0
+1222,Mahajan-Deo,lkari@acharya.info,Parbhani,TS,SMB,2021-02-11 00:00:00,80833.32,0
+1223,Venkatesh Ltd,priyachoudhry@khalsa-krishna.net,Panipat,AP,Enterprise,2021-02-11 08:00:00,193982.6,0
+1224,Mitra-Uppal,mohammedbarad@shankar.com,Jodhpur,GJ,SMB,2021-02-11 16:00:00,141128.35,0
+1225,Nadig-Aurora,ithakur@cherian-handa.com,Satara,AP,Enterprise,2021-02-12 00:00:00,3718671.0,0
+1226,Ramachandran-Mitra,shereekaja@subramaniam.com,Orai,DL,SMB,2021-02-12 08:00:00,111363.16,0
+1227,Das Ltd,ansh65@deshpande-palla.info,Shimla,GJ,SMB,2021-02-12 16:00:00,38577.31,0
+1228,Memon Inc,azadmore@nagy-gulati.net,Bulandshahr,RJ,Startup,2021-02-13 00:00:00,87068.63,1
+1229,Lalla-Ahuja,seshadripatrick@kari.info,Orai,DL,SMB,2021-02-13 08:00:00,53354.46,0
+1230,Lanka-Pillai,upasnagill@ravi.net,Sonipat,KA,SMB,2021-02-13 16:00:00,,0
+1231,Vaidya Ltd,kai73@ramakrishnan-menon.info,Agra,GJ,Startup,2021-02-14 00:00:00,,0
+1232,"Sundaram, Kapur and Sarin",ddalal@mukherjee-gopal.com,Pondicherry,RJ,Enterprise,2021-02-14 08:00:00,69103.11,1
+1233,"Bera, Narang and Tata",baniktriya@setty-baria.com,Mirzapur,MH,Individual,2021-02-14 16:00:00,37751.53,0
+1234,"Ranganathan, Kuruvilla and Ramachandran",tanay58@sundaram.com,Karnal,AP,Individual,2021-02-15 00:00:00,205949.67,0
+1235,Dewan-Walla,madhav21@magar.com,Nangloi Jat,TS,Startup,2021-02-15 08:00:00,1798.29,0
+1236,Dhawan Inc,yash41@pandey.biz,Parbhani,TN,Startup,2021-02-15 16:00:00,32254.59,1
+1237,Bains-Patil,samakshchhabra@babu.org,Silchar,AP,Individual,2021-02-16 00:00:00,4977.87,0
+1238,"Parekh, Bhalla and Chad",aachalpurohit@tata.com,Chandrapur,RJ,SMB,2021-02-16 08:00:00,123648.67,0
+1239,Golla PLC,vedant99@choudhury.com,Ambarnath,AP,Enterprise,2021-02-16 16:00:00,102936.91,1
+1240,"Wason, Mittal and Date",pushti23@dalal.com,Berhampore,KA,SMB,2021-02-17 00:00:00,34212.32,1
+1241,Pant-Bal,raksharau@bhavsar-kamdar.net,Noida,MH,Startup,2021-02-17 08:00:00,95707.61,1
+1242,Singhal-Parsa,dashodika@kothari.com,Patna,TN,Enterprise,2021-02-17 16:00:00,42846.56,0
+1243,Rastogi PLC,kbera@vohra-malhotra.com,Alappuzha,GJ,Startup,2021-02-18 00:00:00,119988.36,0
+1244,Jha-Bava,narainjagvi@subramaniam-patla.com,Ambala,GJ,Individual,2021-02-18 08:00:00,51465.18,0
+1245,Pal Inc,bhatwarinder@lad.com,Kirari Suleman Nagar,GJ,Individual,2021-02-18 16:00:00,45177.85,0
+1246,"Bhatti, Luthra and Warrior",chatterjeepranit@deep.com,Raebareli,RJ,SMB,2021-02-19 00:00:00,231983.83,0
+1247,Mangal Ltd,,Amravati,DL,Enterprise,2021-02-19 08:00:00,24552.67,0
+1248,Parsa Inc,ishani77@behl-dugal.info,Bhalswa Jahangir Pur,DL,Individual,2021-02-19 16:00:00,10909.06,0
+1249,Chopra Inc,adweta66@pillai-prabhakar.com,Patiala,TS,Startup,2021-02-20 00:00:00,74662.0,0
+1250,Nagarajan LLC,upmaparmar@bahri-yadav.net,Surendranagar Dudhrej,TN,Enterprise,2021-02-20 08:00:00,296157.29,0
+1251,Ramaswamy-Pai,chhabraanirudh@khare-bahl.com,Chapra,GJ,Enterprise,2021-02-20 16:00:00,40337.32,0
+1252,Tandon Inc,manthantara@dey.org,Gurgaon,DL,Individual,2021-02-21 00:00:00,5443.78,0
+1253,"Bhavsar, Chand and Apte",mdugar@randhawa-reddy.info,Dibrugarh,RJ,Startup,2021-02-21 08:00:00,35229.39,0
+1254,"Pathak, Salvi and De",ihans@thakur.net,Ambala,TS,Individual,2021-02-21 16:00:00,59931.92,0
+1255,Goswami-Kibe,kde@doshi-bath.com,Gwalior,MH,Individual,2021-02-22 00:00:00,,0
+1256,Das-Sachar,atwalosha@panchal.com,Delhi,TS,Startup,2021-02-22 08:00:00,91225.69,0
+1257,Atwal PLC,qarinprasad@johal.com,Bokaro,DL,SMB,2021-02-22 16:00:00,,0
+1258,Lall Group,lbadal@gaba-bhatt.info,Siwan,KA,SMB,2021-02-23 00:00:00,,0
+1259,Bhagat-Sibal,,Bhilwara,RJ,SMB,2021-02-23 08:00:00,37237.16,1
+1260,Kulkarni-Deol,hmittal@rajan-deol.com,Pudukkottai,KA,SMB,2021-02-23 16:00:00,43519.99,0
+1261,Patla Group,sachdevfinn@gulati.com,Bhiwani,GJ,Startup,2021-02-24 00:00:00,10398.29,0
+1262,"Kashyap, Sheth and Sane",zaitra20@khalsa.biz,Guna,KA,Startup,2021-02-24 08:00:00,182573.42,1
+1263,Khanna-Korpal,jayaramanhemal@pall.biz,Alappuzha,GJ,Individual,2021-02-24 16:00:00,45546.86,0
+1264,Lal-Sarma,ydash@bhardwaj-kar.com,Bikaner,GJ,SMB,2021-02-25 00:00:00,41636.24,1
+1265,Srinivas-Randhawa,ladjacob@ganesan.org,Gandhidham,DL,Startup,2021-02-25 08:00:00,91621.42,1
+1266,"Bose, Wagle and Chowdhury",usheth@purohit-chadha.com,Durg,KA,Startup,2021-02-25 16:00:00,49593.78,0
+1267,Kala-Ratti,jananikara@upadhyay-nori.com,Aligarh,GJ,Startup,2021-02-26 00:00:00,88806.94,1
+1268,"Tandon, Khurana and Mane",prasadwarjas@mukhopadhyay.info,Kakinada,TN,Startup,2021-02-26 08:00:00,5390.29,0
+1269,Jha Inc,basutheodore@magar-singhal.org,Rohtak,MH,SMB,2021-02-26 16:00:00,142844.4,0
+1270,Naik-Narula,ommahika@nagarajan-kant.net,Bhusawal,TS,SMB,2021-02-27 00:00:00,239856.86,0
+1271,"Saraf, Goswami and Dora",devibishakha@randhawa.com,Dehradun,TS,Enterprise,2021-02-27 08:00:00,88935.57,0
+1272,Choudhry Ltd,kashvi87@prasad-patla.biz,Guna,DL,SMB,2021-02-27 16:00:00,262776.9,1
+1273,"Shanker, Kashyap and Natt",,Udupi,KA,SMB,2021-02-28 00:00:00,13957.46,0
+1274,Dugar PLC,shankarbhavna@wali.com,Gwalior,KA,Startup,2021-02-28 08:00:00,55162.44,0
+1275,"Rau, Kala and Kala",routtripti@saini.com,Ramagundam,GJ,Individual,2021-02-28 16:00:00,78269.51,0
+1276,Mistry-Sankaran,vedhika06@shenoy.com,Pallavaram,RJ,Startup,2021-03-01 00:00:00,74089.74,0
+1277,Dugar-Vohra,samargoel@gulati.net,Dibrugarh,AP,Startup,2021-03-01 08:00:00,43627.52,0
+1278,Saini Inc,dsheth@srinivas.com,Alwar,GJ,SMB,2021-03-01 16:00:00,35072.47,0
+1279,Mander-Mitter,hmemon@ranganathan-bains.com,Indore,MH,Startup,2021-03-02 00:00:00,11527.54,1
+1280,Balakrishnan PLC,kannanindali@singhal.com,Kalyan-Dombivli,TN,Enterprise,2021-03-02 08:00:00,42258.34,0
+1281,Doctor Inc,mallpriya@kata.biz,Kamarhati,TS,SMB,2021-03-02 16:00:00,15089.71,1
+1282,Nazareth Inc,qabil17@dugar.com,Nanded,GJ,SMB,2021-03-03 00:00:00,112678.94,0
+1283,Chaudhry-Vora,issaclogan@divan-dada.com,Motihari,AP,SMB,2021-03-03 08:00:00,19910.71,0
+1284,Khatri and Sons,xsavant@sachdeva.com,Dhule,AP,Enterprise,2021-03-03 16:00:00,5129.78,0
+1285,Setty-Choudhary,mitali57@palan-wable.com,Jalgaon,GJ,Enterprise,2021-03-04 00:00:00,68321.27,0
+1286,Chaudhary-Rastogi,pkapur@ghosh.biz,North Dumdum,DL,SMB,2021-03-04 08:00:00,76877.03,0
+1287,Sridhar Ltd,xalak74@sachar.org,New Delhi,TS,Individual,2021-03-04 16:00:00,174678.91,1
+1288,Pingle-Solanki,dbhardwaj@nazareth.org,Katihar,DL,SMB,2021-03-05 00:00:00,73128.87,0
+1289,Bhavsar-Vyas,bakhshi50@kashyap.com,Sambalpur,TN,SMB,2021-03-05 08:00:00,36027.63,1
+1290,Sharaf-Upadhyay,wadhwamohini@das.org,Saharsa,AP,SMB,2021-03-05 16:00:00,138092.01,0
+1291,"Parikh, Peri and Badami",ozaodika@khatri.org,Maheshtala,AP,Startup,2021-03-06 00:00:00,66056.5,0
+1292,Kapur and Sons,yvarughese@pau.info,Kollam,MH,SMB,2021-03-06 08:00:00,7020.97,0
+1293,Thaker-Balan,mason53@bahl.com,Baranagar,TN,SMB,2021-03-06 16:00:00,70921.15,1
+1294,Nair Inc,,Tumkur,AP,SMB,2021-03-07 00:00:00,,0
+1295,"Ganesh, Bassi and Devi",mswamy@kade.org,Ongole,TN,Enterprise,2021-03-07 08:00:00,42899.4,1
+1296,Prasad-Mane,,Sikar,TS,Enterprise,2021-03-07 16:00:00,29872.38,1
+1297,Karnik-Ganguly,tanejazinal@bali.biz,Bettiah,KA,SMB,2021-03-08 00:00:00,13163.55,0
+1298,Natarajan-Rau,osavant@soman.com,Unnao,AP,Enterprise,2021-03-08 08:00:00,13958.78,0
+1299,"Merchant, Patil and Pau",ladekansh@keer.com,Madurai,MH,Enterprise,2021-03-08 16:00:00,48194.41,0
+1300,Kala Group,pallavighosh@bhatt.biz,Raichur,TS,SMB,2021-03-09 00:00:00,76971.6,0
+1301,"Sani, Amble and Shetty",tkhosla@mangat.net,Khora ,GJ,Individual,2021-03-09 08:00:00,7144.31,0
+1302,"Samra, Dara and Mistry",wsamra@mall-lalla.com,Etawah,TN,Startup,2021-03-09 16:00:00,238530.93,0
+1303,Modi Group,baghyawatilad@wable.com,Orai,GJ,SMB,2021-03-10 00:00:00,119598.62,0
+1304,Tailor Group,dakshesh18@narayan.net,Karaikudi,DL,SMB,2021-03-10 08:00:00,75088.79,0
+1305,Muni Group,aryasahni@sane-tailor.com,Mysore,TS,Individual,2021-03-10 16:00:00,149839.23,0
+1306,"Nagar, Dubey and Biswas",svig@mahal-rout.com,Noida,GJ,SMB,2021-03-11 00:00:00,7104.69,0
+1307,Dube Ltd,khalsayahvi@johal-peri.com,Salem,RJ,Enterprise,2021-03-11 08:00:00,55068.59,0
+1308,Char-Balay,saranupma@seth.com,Sambhal,RJ,Startup,2021-03-11 16:00:00,84532.84,0
+1309,Talwar-Bandi,lakshitmukherjee@parikh.com,Ghaziabad,AP,Enterprise,2021-03-12 00:00:00,,0
+1310,"Dhaliwal, Sami and Sule",esastry@chatterjee-kashyap.com,Shivpuri,TN,SMB,2021-03-12 08:00:00,130052.05,1
+1311,Chahal Ltd,qdhawan@halder-yogi.com,Bokaro,KA,SMB,2021-03-12 16:00:00,27577.56,0
+1312,Savant Inc,ijaya10@shukla.biz,Satna,TS,Individual,2021-03-13 00:00:00,12019802.5,0
+1313,"More, Aggarwal and Sawhney",jalsasen@apte-bhakta.biz,Khammam,AP,SMB,2021-03-13 08:00:00,11286.65,0
+1314,Varughese PLC,meerakhare@desai-bhatti.com,Junagadh,MH,Startup,2021-03-13 16:00:00,176843.44,0
+1315,Karnik-Lall,rajagopalannaksh@kala.info,Yamunanagar,DL,Individual,2021-03-14 00:00:00,300764.1,0
+1316,Bera-Seshadri,eesha27@tara.org,Bidar,TN,Enterprise,2021-03-14 08:00:00,16573.78,1
+1317,Sur Ltd,jsani@lalla-goda.net,Etawah,TS,SMB,2021-03-14 16:00:00,,0
+1318,"Thakur, Chopra and Dubey",galajatin@kibe.com,Ajmer,RJ,SMB,2021-03-15 00:00:00,3495.15,0
+1319,Krishnan-Palla,bavasamarth@ratta.com,Nagercoil,TS,SMB,2021-03-15 08:00:00,44191.9,0
+1320,Bhatt LLC,bansalwishi@brahmbhatt.com,Korba,KA,SMB,2021-03-15 16:00:00,61731.75,0
+1321,"Jha, Manne and D’Alia",omkaarkumar@chhabra.net,Loni,RJ,Individual,2021-03-16 00:00:00,73868.23,0
+1322,"Behl, Comar and Kale",balaharsh@chowdhury.info,Faridabad,KA,Startup,2021-03-16 08:00:00,233570.84,0
+1323,Dara-Banerjee,vlall@kar-kadakia.com,Madurai,MH,Startup,2021-03-16 16:00:00,94818.03,0
+1324,Taneja Ltd,dubeymitali@sekhon.com,Kurnool,DL,SMB,2021-03-17 00:00:00,55792.9,0
+1325,"Sarna, Chaudhuri and Nagar",finn46@sule-gola.com,Uluberia,MH,Individual,2021-03-17 08:00:00,141016.9,0
+1326,Palla Inc,bajajtanveer@master-rattan.com,Khora ,AP,Individual,2021-03-17 16:00:00,255547.9,0
+1327,"Chaudhari, Jhaveri and Sood",ayushom@dua.net,Pallavaram,AP,Individual,2021-03-18 00:00:00,1896.63,1
+1328,Dyal-Nazareth,boaseyashasvi@dutt-dutt.com,Chandrapur,MH,Enterprise,2021-03-18 08:00:00,343975.51,0
+1329,Sibal-Chad,,Chinsurah,DL,Startup,2021-03-18 16:00:00,382794.5,0
+1330,Raj Ltd,lbaria@jha.net,Naihati,MH,Enterprise,2021-03-19 00:00:00,143147.67,0
+1331,"Dugar, Sodhi and Mistry",pranavghosh@patla.biz,Bahraich,DL,SMB,2021-03-19 08:00:00,27962.37,0
+1332,"Hora, Chacko and Tank",goyalyutika@ramaswamy.com,Madurai,DL,Enterprise,2021-03-19 16:00:00,12050.5,0
+1333,"Kaul, Jain and Buch",gopalissac@kibe.com,Mumbai,GJ,Startup,2021-03-20 00:00:00,49262.66,0
+1334,Sood Group,,Bhiwani,RJ,Startup,2021-03-20 08:00:00,87779.72,0
+1335,"Thaman, Devan and Bajaj",ggoswami@shankar-jani.org,Kochi,TN,Enterprise,2021-03-20 16:00:00,40763.64,0
+1336,Uppal PLC,anusha60@varughese.com,Haridwar,DL,SMB,2021-03-21 00:00:00,4769.4,0
+1337,Balakrishnan PLC,wkrish@thakur.com,Ujjain,KA,SMB,2021-03-21 08:00:00,77770.28,0
+1338,"Rajagopal, Tella and Sagar",warda79@prabhakar.com,Jalna,DL,SMB,2021-03-21 16:00:00,197787.46,0
+1339,Wason PLC,janakivirk@keer-talwar.info,Vijayanagaram,DL,Enterprise,2021-03-22 00:00:00,41075.01,0
+1340,Sandhu-Batra,dipta05@walla.com,Faridabad,DL,SMB,2021-03-22 08:00:00,20720.52,0
+1341,Bali-Dayal,virkhritik@lalla.com,Hospet,GJ,Startup,2021-03-22 16:00:00,,0
+1342,"Prabhu, Buch and Iyer",dewankamala@varughese-natarajan.com,Buxar,RJ,Enterprise,2021-03-23 00:00:00,4213.56,0
+1343,"Roy, Nagar and Dube",patrick77@chatterjee.com,Bongaigaon,GJ,Enterprise,2021-03-23 08:00:00,145988.43,0
+1344,Karan-Iyengar,wmukhopadhyay@sandal.com,South Dumdum,AP,SMB,2021-03-23 16:00:00,148806.15,1
+1345,Mani LLC,rajagopaltejas@pai.com,Tenali,GJ,Individual,2021-03-24 00:00:00,75372.31,0
+1346,Agrawal-Sami,fthaker@murty.info,Miryalaguda,KA,Startup,2021-03-24 08:00:00,,0
+1347,Prasad Inc,nathan21@sekhon.com,Bhagalpur,KA,Startup,2021-03-24 16:00:00,136710.2,0
+1348,Bali-Kalita,galasamuel@mander-dixit.com,Kota,GJ,SMB,2021-03-25 00:00:00,68763.12,1
+1349,Dhingra PLC,hsahni@palla-parmer.com,Bidar,RJ,Startup,2021-03-25 08:00:00,,0
+1350,Mody Ltd,mitesh49@wagle-rege.com,Nadiad,MH,Enterprise,2021-03-25 16:00:00,,0
+1351,Kapur Inc,kapadiahemal@samra.biz,Maheshtala,TN,Startup,2021-03-26 00:00:00,130420.25,0
+1352,Arora-Bhatia,harshil92@lad-shenoy.com,Patna,RJ,Individual,2021-03-26 08:00:00,77579.9,0
+1353,"Lal, Pandya and Muni",saanvinagi@hora.info,Bhilwara,GJ,Startup,2021-03-26 16:00:00,45447.48,0
+1354,Kapur Group,gmangal@mallick-raj.info,Korba,DL,Individual,2021-03-27 00:00:00,269347.78,0
+1355,"Kaur, Ramakrishnan and Mahal",kavya96@nori.com,Panihati,TS,Startup,2021-03-27 08:00:00,66211.01,1
+1356,"Wali, Sane and Sheth",venkateshavi@dar.org,Kanpur,TN,Enterprise,2021-03-27 16:00:00,78973.17,1
+1357,Murty Group,waidamanda@mangat.biz,Madurai,TN,Individual,2021-03-28 00:00:00,21172.37,0
+1358,Rajagopal LLC,wbhagat@kant.com,Agartala,KA,Enterprise,2021-03-28 08:00:00,83518.13,0
+1359,Balakrishnan-Din,goyaldayita@dasgupta-bahl.net,Chapra,TN,SMB,2021-03-28 16:00:00,72055.84,1
+1360,Palla-Prakash,rbalakrishnan@parekh.com,Gudivada,GJ,Enterprise,2021-03-29 00:00:00,,0
+1361,Muni Ltd,vwable@goel.org,Saharanpur,DL,Enterprise,2021-03-29 08:00:00,5222.08,0
+1362,Dhar Inc,maanavvig@doshi.com,Warangal,DL,SMB,2021-03-29 16:00:00,,0
+1363,Minhas PLC,thomasmajumdar@memon.org,Kirari Suleman Nagar,AP,SMB,2021-03-30 00:00:00,122622.73,0
+1364,Gulati-Dixit,,Shimoga,DL,SMB,2021-03-30 08:00:00,62991.85,0
+1365,Padmanabhan and Sons,hborde@setty-basak.com,Solapur,RJ,Startup,2021-03-30 16:00:00,21860.48,0
+1366,"Konda, Acharya and Sachdeva",uchada@boase.org,Amaravati,DL,Enterprise,2021-03-31 00:00:00,93345.16,0
+1367,Anne Inc,fratti@chaudhary-thaman.com,Jamshedpur,KA,Enterprise,2021-03-31 08:00:00,7097.21,0
+1368,Kale-Wable,uparmer@subramaniam.info,Kakinada,DL,Startup,2021-03-31 16:00:00,49563.36,0
+1369,Nath PLC,yyogi@vala.com,Thoothukudi,AP,SMB,2021-04-01 00:00:00,15161.41,0
+1370,"Chhabra, Shanker and Sarin",upasna38@mitter-chaudry.info,Amaravati,TS,Startup,2021-04-01 08:00:00,17331.81,1
+1371,Modi and Sons,oviyasehgal@kohli-mane.com,Kamarhati,GJ,Startup,2021-04-01 16:00:00,19211.28,0
+1372,Chaudhuri-Thakur,eshana70@munshi-srinivasan.net,Jehanabad,KA,Individual,2021-04-02 00:00:00,41557.57,0
+1373,Bora-Handa,christopherbhasin@datta-deep.com,Amravati,RJ,Startup,2021-04-02 08:00:00,4462.91,1
+1374,Baral LLC,rachanakade@khurana.biz,Saharsa,TS,SMB,2021-04-02 16:00:00,43108.16,1
+1375,Chakrabarti and Sons,owensuresh@bahl-chaudhari.com,Hapur,KA,Startup,2021-04-03 00:00:00,60931.45,0
+1376,Sehgal-Bandi,zayan68@sankar.org,Jabalpur,MH,SMB,2021-04-03 08:00:00,56123.95,0
+1377,"Butala, Raghavan and Kota",atibasak@pau.com,Ozhukarai,TN,SMB,2021-04-03 16:00:00,41015.59,0
+1378,Nanda-Sarkar,hemangsathe@khurana.biz,Ramgarh,MH,Startup,2021-04-04 00:00:00,155317.26,1
+1379,Bahl Ltd,amairasinha@deshmukh.net,Berhampur,DL,SMB,2021-04-04 08:00:00,,1
+1380,Chaudhry-Anne,aggarwaldalaja@issac.com,Raurkela Industrial Township,TS,Startup,2021-04-04 16:00:00,59891.52,1
+1381,"Bassi, Butala and Kala",,Nangloi Jat,DL,Individual,2021-04-05 00:00:00,5444.21,0
+1382,Gulati Group,,Gulbarga,TN,Individual,2021-04-05 08:00:00,6274.2,0
+1383,"Dutt, Sibal and Bawa",varenya56@narang.com,Amritsar,KA,Individual,2021-04-05 16:00:00,72505.09,0
+1384,Narayan Group,michael15@raja.com,Ghaziabad,TN,SMB,2021-04-06 00:00:00,70954.02,0
+1385,Sridhar-Palla,ikbal29@dash.com,Bokaro,AP,SMB,2021-04-06 08:00:00,178840.76,0
+1386,"Butala, Nayak and Dar",dvala@bhavsar.com,Anand,TN,Startup,2021-04-06 16:00:00,69373.57,0
+1387,"Vig, Subramanian and Raval",krishnavarenya@ahluwalia-majumdar.biz,Parbhani,AP,SMB,2021-04-07 00:00:00,273161.52,0
+1388,Khare-Rege,ishaparmar@ram-gupta.info,Pune,TN,Startup,2021-04-07 08:00:00,4243.23,0
+1389,Pal Inc,ykohli@doctor.biz,Jehanabad,GJ,Startup,2021-04-07 16:00:00,8767.69,0
+1390,Solanki-Luthra,pavanisarma@boase.net,Durgapur,AP,Startup,2021-04-08 00:00:00,3830.63,0
+1391,Cherian Group,,Dhanbad,TS,SMB,2021-04-08 08:00:00,17417.09,0
+1392,Oza-Cheema,kuruvillamugdha@gokhale.com,Nadiad,DL,SMB,2021-04-08 16:00:00,66239.97,0
+1393,"Sant, Nayak and Saxena",bparsa@bir-bhatti.com,Arrah,RJ,SMB,2021-04-09 00:00:00,88166.3,0
+1394,"Thakkar, De and Master",udarshkale@bala.com,Navi Mumbai,DL,Enterprise,2021-04-09 08:00:00,3965.83,0
+1395,Majumdar-Savant,vamakshi13@mohanty.com,Machilipatnam,MH,Individual,2021-04-09 16:00:00,248049.75,1
+1396,Choudhury Inc,krishna57@mander-narang.com,Amravati,DL,SMB,2021-04-10 00:00:00,156927.64,0
+1397,Hari-Bahri,bailpahal@agrawal-kurian.com,Davanagere,KA,SMB,2021-04-10 08:00:00,29907.02,0
+1398,Chaudhari and Sons,dhingrayasti@nair.org,Guntur,GJ,Enterprise,2021-04-10 16:00:00,6827.99,0
+1399,"Comar, Chaudhary and Choudhry",hemanikari@lalla.info,Udupi,TN,Startup,2021-04-11 00:00:00,15826.45,0
+1400,Dada-Balakrishnan,hemal63@anand-manda.com,Alappuzha,MH,Startup,2021-04-11 08:00:00,11539.26,1
+1401,Sehgal-Iyengar,ishaan86@din.com,Orai,KA,SMB,2021-04-11 16:00:00,,0
+1402,Batra-Toor,,Siliguri,KA,Enterprise,2021-04-12 00:00:00,62133.06,1
+1403,Agate LLC,nagyxalak@narayanan.biz,Dhule,AP,SMB,2021-04-12 08:00:00,,0
+1404,Bhatia Ltd,fparikh@modi.biz,Mathura,DL,SMB,2021-04-12 16:00:00,37687.69,1
+1405,"Chanda, Sastry and Thakur",pramaswamy@mahal.com,Lucknow,TS,Startup,2021-04-13 00:00:00,387335.49,0
+1406,Brahmbhatt-Kant,tanveersinghal@garg-venkataraman.com,Eluru,RJ,Startup,2021-04-13 08:00:00,98005.68,1
+1407,"Taneja, Mutti and Tak",sekhonrayaan@bal.com,Jalandhar,TS,SMB,2021-04-13 16:00:00,252921.8,0
+1408,Borde Ltd,,Secunderabad,MH,SMB,2021-04-14 00:00:00,13073.0,0
+1409,"Tank, Kapoor and Parikh",gbhagat@anand.com,Kavali,GJ,Individual,2021-04-14 08:00:00,40926.87,0
+1410,Sant Group,aarushtalwar@jha-sharma.com,Avadi,TS,SMB,2021-04-14 16:00:00,68771.67,1
+1411,"Bali, Bir and Jani",ajohal@sridhar.biz,Rourkela,TN,Startup,2021-04-15 00:00:00,6788.44,0
+1412,"Peri, Prabhu and Rattan",ananda@manne.com,Morena,TS,Enterprise,2021-04-15 08:00:00,356.68,0
+1413,"Bera, Rana and Prashad",rajagopalannoah@salvi.com,Kakinada,MH,SMB,2021-04-15 16:00:00,94348.27,1
+1414,Magar-Mutti,,Ahmednagar,RJ,Enterprise,2021-04-16 00:00:00,87271.05,0
+1415,Sekhon-Vohra,,Siwan,TS,SMB,2021-04-16 08:00:00,44962.5,0
+1416,Sarna-Andra,lukeswaminathan@more.com,Solapur,TN,Individual,2021-04-16 16:00:00,57174.99,0
+1417,Ranganathan and Sons,turvi92@varghese.com,Tadipatri,AP,SMB,2021-04-17 00:00:00,45636.58,0
+1418,Loke-Ramachandran,krisha74@chaudhari-sehgal.com,Hajipur,GJ,Enterprise,2021-04-17 08:00:00,2065.32,1
+1419,"Viswanathan, Keer and Doshi",adwetamammen@kale.info,Ramgarh,MH,Enterprise,2021-04-17 16:00:00,34724.81,0
+1420,"Kunda, Golla and Gera",xcheema@saraf-oza.com,Chandrapur,AP,SMB,2021-04-18 00:00:00,16566.42,0
+1421,Mangal-Garde,vigsachi@chahal-karpe.com,Tenali,AP,SMB,2021-04-18 08:00:00,8806.95,1
+1422,Yadav and Sons,biswaschandresh@chahal.com,Sonipat,AP,Enterprise,2021-04-18 16:00:00,266906.35,0
+1423,"Yohannan, Kurian and Edwin",gauri33@mani.info,Muzaffarpur,KA,Startup,2021-04-19 00:00:00,77748.76,0
+1424,Kannan-Pandya,zwable@som-som.com,Shimla,GJ,SMB,2021-04-19 08:00:00,110871.36,0
+1425,Borde Group,balvan52@choudhry.com,Gorakhpur,RJ,SMB,2021-04-19 16:00:00,32203.75,0
+1426,Setty-Raghavan,gauri95@ravel.com,Berhampore,DL,Individual,2021-04-20 00:00:00,42454.86,0
+1427,Bhakta-Ahluwalia,gaurav09@balan-gala.com,Tinsukia,GJ,Enterprise,2021-04-20 08:00:00,22983.8,1
+1428,Choudhary and Sons,inayaminhas@nazareth-sani.biz,Ranchi,KA,Individual,2021-04-20 16:00:00,8669.55,0
+1429,Majumdar-Amble,eesha54@iyer-rajagopal.com,Bangalore,DL,SMB,2021-04-21 00:00:00,16768.01,0
+1430,"Kohli, Sura and Ganesan",vanshamann@agrawal.com,Noida,GJ,Individual,2021-04-21 08:00:00,135752.2,0
+1431,Sampath-Dhaliwal,qushimaster@mukhopadhyay.org,Nashik,AP,Startup,2021-04-21 16:00:00,96202.51,0
+1432,Mangal-Sarin,hemangini63@varkey-sarma.com,Jalna,MH,Individual,2021-04-22 00:00:00,67295.02,1
+1433,Dara-Kar,edyal@vora-savant.biz,Salem,DL,Individual,2021-04-22 08:00:00,54784.9,1
+1434,Sankar and Sons,ishahayre@nayak-issac.com,Vadodara,TN,SMB,2021-04-22 16:00:00,217313.53,0
+1435,Narang-Dugal,oborah@chacko.com,Aligarh,TN,Individual,2021-04-23 00:00:00,6418.85,0
+1436,"Peri, Dutt and Dhar",oviya11@dutta.com,Dehradun,TS,SMB,2021-04-23 08:00:00,27993.8,0
+1437,Taneja-Sankaran,shankarayaan@lanka-rattan.info,Chandrapur,DL,SMB,2021-04-23 16:00:00,36608.42,0
+1438,Subramaniam-Sharaf,gsarraf@chaudhry.com,Jalandhar,MH,SMB,2021-04-24 00:00:00,129643.31,0
+1439,Chopra-Ghosh,nandini92@agrawal-mand.com,Raichur,RJ,SMB,2021-04-24 08:00:00,416058.3,0
+1440,Narayanan Ltd,tanveersachdeva@sachar.info,Bijapur,KA,SMB,2021-04-24 16:00:00,23402.16,0
+1441,Sood Ltd,anmolsibal@krishna.com,Tirunelveli,AP,Startup,2021-04-25 00:00:00,176282.82,0
+1442,Oommen PLC,advikabalasubramanian@seshadri.com,Pudukkottai,TS,SMB,2021-04-25 08:00:00,150928.28,0
+1443,"Oak, Varty and Ratta",khalsachampak@baria.com,Kadapa,TN,Startup,2021-04-25 16:00:00,21628.27,0
+1444,Agarwal-Deshpande,bsankaran@hayer.net,Saharanpur,KA,Individual,2021-04-26 00:00:00,43325.68,0
+1445,Hora Inc,agastyakibe@menon-dasgupta.com,Nagaon,KA,SMB,2021-04-26 08:00:00,44801.67,0
+1446,"Lad, Badal and Narula",unnitailor@hans.com,Mumbai,AP,SMB,2021-04-26 16:00:00,325277.48,0
+1447,"Chaudhuri, Pingle and Halder",,Jhansi,RJ,SMB,2021-04-27 00:00:00,16960.83,1
+1448,"Soman, Comar and Deep",deyyochana@rajagopal.biz,Dibrugarh,RJ,SMB,2021-04-27 08:00:00,136445.11,0
+1449,"Lalla, Kade and Srinivas",randhawacharles@kala.biz,Etawah,DL,Enterprise,2021-04-27 16:00:00,34574.18,0
+1450,Bedi PLC,gangulyyagnesh@buch-anand.com,Miryalaguda,TN,SMB,2021-04-28 00:00:00,111567.77,0
+1451,"Trivedi, Bahl and Mall",mkaur@ganesh.biz,Uluberia,RJ,SMB,2021-04-28 08:00:00,46303.42,1
+1452,Srinivas PLC,mannezarna@rao-sant.com,Anand,MH,Individual,2021-04-28 16:00:00,73406.24,1
+1453,Chatterjee-Srinivasan,yuvraj15@venkataraman.com,Purnia,RJ,Startup,2021-04-29 00:00:00,151932.35,0
+1454,Kuruvilla Group,utripathi@memon.biz,Hazaribagh,KA,SMB,2021-04-29 08:00:00,138591.28,0
+1455,"Taneja, Dave and Kala",gbuch@tank.com,Amravati,AP,Startup,2021-04-29 16:00:00,8555584.0,1
+1456,Mital Inc,ramanathannaveen@keer.com,Noida,MH,Enterprise,2021-04-30 00:00:00,5224.81,0
+1457,Agrawal Group,vrishtibhatt@dewan-sant.com,Bhusawal,DL,SMB,2021-04-30 08:00:00,100114.67,0
+1458,Pai-Raval,urvashi53@sura-pathak.com,Bongaigaon,TN,Startup,2021-04-30 16:00:00,12818.7,0
+1459,Thaker PLC,udarsh17@nagy.com,Tadipatri,DL,SMB,2021-05-01 00:00:00,45691.21,0
+1460,Srinivas-Shah,wkorpal@pathak.com,Solapur,KA,SMB,2021-05-01 08:00:00,67606.94,0
+1461,"Suri, Nigam and Chakraborty",vasatika72@ravi-gaba.biz,Dewas,MH,Individual,2021-05-01 16:00:00,43809.16,0
+1462,Madan PLC,bmemon@nagarajan-bhavsar.com,Siwan,MH,Individual,2021-05-02 00:00:00,62318.64,0
+1463,Ramakrishnan-Dey,rameshishanvi@yogi-ben.com,Tadipatri,MH,Startup,2021-05-02 08:00:00,481315.69,1
+1464,Balasubramanian-Patil,ekavir26@parsa-dhawan.biz,Dharmavaram,KA,Startup,2021-05-02 16:00:00,12348.55,0
+1465,"Kota, Mane and Bhargava",etamital@mitter-sangha.biz,Nagaon,KA,Startup,2021-05-03 00:00:00,95653.42,1
+1466,"Lala, Yadav and Vohra",yatin35@khare.com,Bardhaman,DL,SMB,2021-05-03 08:00:00,42855.53,0
+1467,"Rama, Dhar and Dewan",cbora@patla.com,Jaipur,TS,SMB,2021-05-03 16:00:00,12131.85,0
+1468,"Raval, Vasa and Chauhan",bhanumati45@mangal.com,Pimpri-Chinchwad,DL,Enterprise,2021-05-04 00:00:00,14692.31,0
+1469,Upadhyay-Bhat,krishnamurthykai@chakrabarti.info,Kota,TN,SMB,2021-05-04 08:00:00,253410.42,1
+1470,"Anand, Rattan and Keer",,Naihati,AP,SMB,2021-05-04 16:00:00,179940.6,0
+1471,Naidu-Saini,sachi69@nagy-khanna.biz,Satara,MH,SMB,2021-05-05 00:00:00,,0
+1472,"Warrior, Sabharwal and Merchant",yasti91@bhasin-mohan.com,Darbhanga,TS,Individual,2021-05-05 08:00:00,20279098.5,1
+1473,Majumdar Inc,sarkarbalendra@prashad.com,Bhind,AP,Individual,2021-05-05 16:00:00,19855.34,0
+1474,Kara-Rajagopalan,venkateshbaljiwan@desai-padmanabhan.com,Kottayam,TS,Startup,2021-05-06 00:00:00,37330.84,1
+1475,Mohanty-Palla,chandresh46@kothari.net,Nagaon,RJ,SMB,2021-05-06 08:00:00,94035.4,0
+1476,"Sood, Taneja and Mody",nehakarnik@bawa.com,Gulbarga,RJ,Individual,2021-05-06 16:00:00,56207.6,1
+1477,Parikh Ltd,periwakeeta@sachdev-kalita.com,Rajkot,GJ,Enterprise,2021-05-07 00:00:00,46066.12,0
+1478,Butala-Chadha,memonmeghana@bhavsar.info,Thrissur,RJ,Startup,2021-05-07 08:00:00,37644.21,0
+1479,"Saini, Pingle and Ray",,Imphal,DL,Enterprise,2021-05-07 16:00:00,76573.27,0
+1480,"Bhavsar, Karpe and Chaudhari",farasrajan@sami-wali.biz,Sambalpur,RJ,Startup,2021-05-08 00:00:00,72850.39,0
+1481,Krishnan LLC,saumyavora@grewal.biz,Tumkur,KA,SMB,2021-05-08 08:00:00,14967.68,0
+1482,"Subramanian, Kashyap and Raval",jagdishsaraf@barad-wali.com,Bally,MH,Individual,2021-05-08 16:00:00,54244.14,0
+1483,Sarna-Yadav,indaligarg@sarma.com,Kottayam,DL,Individual,2021-05-09 00:00:00,68531.48,0
+1484,Saini-Pingle,vchawla@ramesh-sharaf.net,Ahmednagar,AP,Enterprise,2021-05-09 08:00:00,,0
+1485,D’Alia-Bajwa,dkhatri@raj.com,Yamunanagar,GJ,SMB,2021-05-09 16:00:00,20047.93,0
+1486,Singh-Randhawa,girishmand@balakrishnan-master.biz,Sirsa,GJ,Individual,2021-05-10 00:00:00,115247.09,0
+1487,"Chaudhari, Sodhi and Gade",semwarda@barad.info,Bhagalpur,GJ,SMB,2021-05-10 08:00:00,2169.37,1
+1488,Sha Ltd,,Munger,AP,Individual,2021-05-10 16:00:00,37250.77,0
+1489,Kade-Malhotra,lukenazareth@varty.biz,Raurkela Industrial Township,AP,Startup,2021-05-11 00:00:00,128783.06,0
+1490,Ahluwalia Ltd,arjun38@badami.com,Ambarnath,AP,SMB,2021-05-11 08:00:00,70538.74,0
+1491,Edwin Group,madhavi08@khalsa.com,Vadodara,AP,SMB,2021-05-11 16:00:00,25727.56,0
+1492,"Bahri, Bhardwaj and Pau",,Rourkela,GJ,SMB,2021-05-12 00:00:00,100919.63,0
+1493,Varghese PLC,boaseurishilla@khalsa-modi.com,Nashik,GJ,Startup,2021-05-12 08:00:00,71223.27,0
+1494,Sathe-Manne,jacob49@bala-andra.info,Kurnool,TS,SMB,2021-05-12 16:00:00,135220.56,0
+1495,Dasgupta-Kulkarni,lokeishani@saran.biz,Firozabad,DL,SMB,2021-05-13 00:00:00,112890.24,1
+1496,"Garde, Palan and Parekh",oommenekaja@gala.com,Berhampur,MH,SMB,2021-05-13 08:00:00,,0
+1497,Garg-Das,chaudrynathan@sehgal.com,Bhind,RJ,Startup,2021-05-13 16:00:00,56931.11,0
+1498,"Tailor, Srivastava and Mishra",bganguly@cherian.biz,Ghaziabad,RJ,Individual,2021-05-14 00:00:00,12148.74,0
+1499,Mall-Mital,akshaycomar@kant.com,Panihati,KA,Individual,2021-05-14 08:00:00,25747.19,0
+1500,Bali PLC,sathvik89@majumdar-nagarajan.biz,Gandhidham,GJ,SMB,2021-05-14 16:00:00,46169.94,0
+1501,"Tata, Munshi and Mani",onkarbrar@lalla-pal.org,Indore,KA,Individual,2021-05-15 00:00:00,77735.94,0
+1502,Mane and Sons,chanaomaja@rama.com,Eluru,DL,Startup,2021-05-15 08:00:00,61280.39,0
+1503,Kaur-Kari,,Morena,DL,Startup,2021-05-15 16:00:00,28894.61,0
+1504,"Chad, Bassi and Parekh",anamika36@more-mann.com,Gwalior,KA,Individual,2021-05-16 00:00:00,551.25,0
+1505,Bains-Rana,naksh76@sani.com,Baranagar,GJ,SMB,2021-05-16 08:00:00,58280.57,0
+1506,Shenoy Group,cshah@keer-rajan.com,Loni,KA,Enterprise,2021-05-16 16:00:00,28589.63,1
+1507,"Aggarwal, Raju and Balasubramanian",fiyazbalakrishnan@varghese.com,Hosur,RJ,Individual,2021-05-17 00:00:00,112756.62,0
+1508,Sinha Inc,gagan26@mander.biz,Tinsukia,TS,SMB,2021-05-17 08:00:00,2060.2,1
+1509,Varkey LLC,vargheseyachana@balay-wadhwa.info,Akola,RJ,Individual,2021-05-17 16:00:00,74720.26,1
+1510,Keer Group,chamanrama@kurian.info,Jorhat,TN,Individual,2021-05-18 00:00:00,241254.5,0
+1511,Tank-Dixit,kumarchandran@varughese-mahal.com,Udaipur,GJ,Enterprise,2021-05-18 08:00:00,16290.77,0
+1512,"Hari, Dass and Kota",yutikakarnik@lanka.com,Firozabad,GJ,Individual,2021-05-18 16:00:00,54229.61,0
+1513,"Parsa, Swaminathan and Bhasin",,Narasaraopet,MH,SMB,2021-05-19 00:00:00,8149.34,1
+1514,Sandal-Talwar,kbabu@sen.info,Bikaner,AP,SMB,2021-05-19 08:00:00,83525.19,0
+1515,Pandya-Rajan,,Bhusawal,TN,Startup,2021-05-19 16:00:00,67973.64,0
+1516,"Chaudhari, Sant and Bora",divya42@merchant-balay.com,Tumkur,DL,Individual,2021-05-20 00:00:00,44470.08,0
+1517,Sani and Sons,nnayak@tata.com,Ujjain,GJ,Enterprise,2021-05-20 08:00:00,62631.58,1
+1518,Garg-Loke,vwagle@kamdar.net,Kulti,KA,SMB,2021-05-20 16:00:00,192856.95,0
+1519,Chopra PLC,patrick81@patel.com,Tumkur,TN,Startup,2021-05-21 00:00:00,18574.38,1
+1520,Kala-Hans,farhansekhon@kuruvilla.com,Chinsurah,MH,Startup,2021-05-21 08:00:00,1939.95,0
+1521,Anand and Sons,ppatla@kari.com,Srinagar,DL,Startup,2021-05-21 16:00:00,168136.47,0
+1522,"Dhawan, Kari and Pant",hemasangha@cheema.com,Motihari,AP,Enterprise,2021-05-22 00:00:00,,0
+1523,Doshi-Prabhu,hemanginijayaraman@arya-sha.info,Rajahmundry,AP,SMB,2021-05-22 08:00:00,188128.7,0
+1524,"Kar, Sule and Rana",shroffalexander@doctor-singhal.net,Howrah,MH,SMB,2021-05-22 16:00:00,77238.04,0
+1525,Sarna Inc,badaminandini@seshadri.com,Bathinda,MH,Individual,2021-05-23 00:00:00,141234.25,0
+1526,"Tella, Kumer and Vasa",anarayan@bala.com,Kharagpur,KA,SMB,2021-05-23 08:00:00,47731.41,1
+1527,Shah Group,bgarg@majumdar.com,Bhavnagar,GJ,SMB,2021-05-23 16:00:00,117787.41,0
+1528,Karnik-Batta,nparmar@dora.com,Kumbakonam,AP,Individual,2021-05-24 00:00:00,207597.53,1
+1529,"Karan, Raja and Mane",pranavbhatti@contractor-joshi.info,Chennai,DL,Enterprise,2021-05-24 08:00:00,72158.15,0
+1530,Bahri-Randhawa,falguni70@chakraborty.com,Sambalpur,TN,Individual,2021-05-24 16:00:00,16949.76,1
+1531,Tiwari Ltd,rraghavan@baral.biz,Hospet,DL,Startup,2021-05-25 00:00:00,26610.52,0
+1532,Sagar-Wadhwa,tanveermangal@gole-munshi.com,Solapur,TS,Individual,2021-05-25 08:00:00,18823.31,1
+1533,"Ravel, Sekhon and Pant",mittaltimothy@varghese.com,Udaipur,TS,SMB,2021-05-25 16:00:00,24097.52,1
+1534,Natt-Trivedi,,Ramgarh,MH,Enterprise,2021-05-26 00:00:00,31099.98,0
+1535,Ramakrishnan-Arya,nikitarout@hans.info,Chandigarh,KA,Startup,2021-05-26 08:00:00,3442422.0,0
+1536,Saini-Pandit,veda27@hayer.com,Ajmer,TS,Individual,2021-05-26 16:00:00,75370.49,0
+1537,Dyal Inc,falan20@sidhu.com,Ramagundam,AP,Startup,2021-05-27 00:00:00,47259.74,0
+1538,Mohan PLC,luthradamini@desai.com,Pondicherry,DL,Enterprise,2021-05-27 08:00:00,81226.47,1
+1539,Pandya Ltd,,Ahmednagar,DL,Startup,2021-05-27 16:00:00,7233.07,0
+1540,"Viswanathan, Madan and Ravi",,Begusarai,MH,Startup,2021-05-28 00:00:00,7810.07,0
+1541,Prabhu LLC,daminizacharia@sengupta.info,Barasat,GJ,Startup,2021-05-28 08:00:00,16025.58,0
+1542,"Morar, Sengupta and Krishnamurthy",pallachakradev@deo-shanker.com,Bilaspur,GJ,Startup,2021-05-28 16:00:00,62047.62,1
+1543,Dua-Sarma,odika82@nayar.com,Mirzapur,TN,Individual,2021-05-29 00:00:00,20467.3,1
+1544,Khare and Sons,yamini12@brahmbhatt.com,Ozhukarai,MH,Startup,2021-05-29 08:00:00,28311.47,0
+1545,"Ravel, Ganesh and Nadig",cgade@tella.biz,Jaipur,RJ,Enterprise,2021-05-29 16:00:00,43464.51,0
+1546,Uppal-Dugar,mallickviraj@soman.com,Jamnagar,TN,SMB,2021-05-30 00:00:00,142001.12,0
+1547,Master Inc,tara99@goswami.com,Kavali,RJ,Enterprise,2021-05-30 08:00:00,1186.52,0
+1548,Narula Inc,benjamingole@brahmbhatt.net,Bhusawal,GJ,SMB,2021-05-30 16:00:00,89084.16,0
+1549,Jani-Ravel,aarav35@sachdeva-doctor.com,Thane,MH,SMB,2021-05-31 00:00:00,93947.44,0
+1550,Ramesh Inc,ysubramaniam@atwal.com,Jabalpur,RJ,Enterprise,2021-05-31 08:00:00,136232.84,0
+1551,Bhatnagar Group,fsundaram@tata.com,Bhind,MH,SMB,2021-05-31 16:00:00,229447.47,0
+1552,Kalita PLC,dchaudhuri@arya.org,Gandhinagar,MH,Enterprise,2021-06-01 00:00:00,1729.19,0
+1553,Maharaj and Sons,yamini33@lala.info,Pimpri-Chinchwad,GJ,Individual,2021-06-01 08:00:00,14193.32,0
+1554,Tella LLC,ramalopa@wagle.org,Satara,TN,Individual,2021-06-01 16:00:00,184710.15,0
+1555,"Bassi, Venkatesh and Shukla",dchokshi@dutta-gandhi.net,Sultan Pur Majra,TN,Enterprise,2021-06-02 00:00:00,52142.95,0
+1556,Ghosh-Chandran,yoshitakaur@kapur.net,Kolkata,MH,Individual,2021-06-02 08:00:00,70674.83,0
+1557,Sahni LLC,sarthak71@bhatti.com,Adoni,TS,SMB,2021-06-02 16:00:00,92459.01,0
+1558,Magar-Prashad,ucchal71@gulati.org,Ambarnath,KA,SMB,2021-06-03 00:00:00,96604.34,0
+1559,"Johal, Acharya and Shenoy",nagiyuvraj@mohan.com,Danapur,GJ,Enterprise,2021-06-03 08:00:00,228177.17,0
+1560,Nigam-Thaman,sankaranvritti@mutti-iyengar.info,Karimnagar,KA,SMB,2021-06-03 16:00:00,492355.93,1
+1561,Sachdeva-Shetty,,Dharmavaram,KA,Startup,2021-06-04 00:00:00,108249.9,0
+1562,Batta and Sons,nidhisom@yohannan-edwin.com,Moradabad,TN,Startup,2021-06-04 08:00:00,28779.65,0
+1563,Bhalla PLC,bajajbalveer@dubey.biz,Panchkula,TN,Enterprise,2021-06-04 16:00:00,180047.2,0
+1564,Dara-Chada,gauravwali@sule.com,Pune,TS,Enterprise,2021-06-05 00:00:00,4290.25,0
+1565,Zachariah-Ghose,aadi00@raju-sethi.com,Bhubaneswar,KA,SMB,2021-06-05 08:00:00,22335.4,0
+1566,"Sehgal, Dutt and Vora",oni23@kohli.com,Hajipur,KA,SMB,2021-06-05 16:00:00,193526.14,0
+1567,Khare Inc,ananddiya@barad.com,Raurkela Industrial Township,MH,SMB,2021-06-06 00:00:00,25157.59,0
+1568,"Tata, Varghese and Kapadia",manbirchada@agate.info,Shimla,TN,SMB,2021-06-06 08:00:00,21190.19,0
+1569,Dutta and Sons,,Kirari Suleman Nagar,KA,Individual,2021-06-06 16:00:00,12634.86,0
+1570,"Merchant, Setty and Sanghvi",,Visakhapatnam,DL,Individual,2021-06-07 00:00:00,,0
+1571,Sood-Patla,pvenkatesh@sanghvi-balan.org,Udaipur,TS,SMB,2021-06-07 08:00:00,58927.41,0
+1572,Dey Inc,scherian@bhat.com,Ambala,RJ,Individual,2021-06-07 16:00:00,95506.13,0
+1573,"Dave, Sharma and Rattan",manegabriel@sur.com,Ambala,DL,SMB,2021-06-08 00:00:00,23222.78,0
+1574,Narayanan and Sons,damyanti96@dhar.com,Delhi,DL,SMB,2021-06-08 08:00:00,120613.69,1
+1575,Misra Group,parth46@grewal.com,Shivpuri,RJ,SMB,2021-06-08 16:00:00,121306.85,0
+1576,Gupta-Bains,harrison17@pall.com,Ramgarh,GJ,Startup,2021-06-09 00:00:00,31861.06,0
+1577,"Mall, Rai and Sant",varkeyaadhya@wali.net,Katni,GJ,Individual,2021-06-09 08:00:00,44947.19,1
+1578,Bandi Group,jasondate@samra.com,Ahmednagar,TS,Startup,2021-06-09 16:00:00,,0
+1579,"Krish, Sarma and Pillay",yashoda57@sule.com,Korba,DL,SMB,2021-06-10 00:00:00,319035.17,0
+1580,Pradhan and Sons,abeersastry@bera.com,Durgapur,KA,Startup,2021-06-10 08:00:00,88173.59,0
+1581,Khare PLC,sodhiraagini@tripathi.com,Nagercoil,TN,Enterprise,2021-06-10 16:00:00,231741.9,1
+1582,Dayal-Kade,,Mumbai,TS,Individual,2021-06-11 00:00:00,30729.47,1
+1583,"Jani, Nayak and Vohra",upalla@dugar-bera.com,Fatehpur,MH,SMB,2021-06-11 08:00:00,129434.6,0
+1584,"Sangha, Balakrishnan and Shanker",somanleena@pandya.com,Tenali,RJ,SMB,2021-06-11 16:00:00,123405.57,0
+1585,"Bajwa, Chaudhry and Iyengar",gnayar@warrior.com,Dibrugarh,DL,Startup,2021-06-12 00:00:00,100005.74,0
+1586,Khosla-Krish,wmukhopadhyay@ray-sen.com,Baranagar,TS,Startup,2021-06-12 08:00:00,286520.75,0
+1587,Natt Ltd,pinglesamar@madan.com,Anantapur,AP,Enterprise,2021-06-12 16:00:00,42512.05,0
+1588,"Tailor, Soni and Sehgal",pallbishakha@brar.net,Bettiah,AP,Startup,2021-06-13 00:00:00,11907.39,0
+1589,"Sangha, Das and Pandya",triptibarman@pingle-natt.info,Hazaribagh,GJ,SMB,2021-06-13 08:00:00,94677.63,0
+1590,Saraf and Sons,avnivarty@sibal.com,Chandrapur,RJ,Startup,2021-06-13 16:00:00,111076.32,0
+1591,Lad-Puri,luke10@reddy.com,Cuttack,TN,Individual,2021-06-14 00:00:00,72743.73,0
+1592,Sangha Ltd,ytiwari@mistry.com,Sirsa,KA,Individual,2021-06-14 08:00:00,19694.71,0
+1593,Vig-Babu,kapadiabarkha@varughese-bera.com,Rohtak,TN,Startup,2021-06-14 16:00:00,59678.42,0
+1594,"Johal, Gade and Prashad",ctandon@bhardwaj.info,Bettiah,TN,SMB,2021-06-15 00:00:00,31810.59,1
+1595,"Sarna, Kapadia and Rai",cvaidya@devi-krishnamurthy.org,Medininagar,TN,Enterprise,2021-06-15 08:00:00,47403.15,0
+1596,"Ganguly, Khanna and Saran",sehgalavni@sule.net,Panchkula,RJ,Startup,2021-06-15 16:00:00,88081.54,0
+1597,Sarma Inc,sehgalojas@mand-deol.com,Thrissur,TN,SMB,2021-06-16 00:00:00,116223.41,0
+1598,"Deep, Bhatti and Taneja",vrittisharaf@srinivas-chokshi.net,Suryapet,MH,SMB,2021-06-16 08:00:00,22461.94,0
+1599,"Bhatnagar, Lata and Khanna",lbhardwaj@walia-sanghvi.net,Lucknow,RJ,SMB,2021-06-16 16:00:00,44177.97,1
+1600,Loyal Inc,ayushman25@peri.com,Kamarhati,MH,Enterprise,2021-06-17 00:00:00,26652.84,0
+1601,Pradhan PLC,kalachakradev@natt.net,Thane,RJ,Startup,2021-06-17 08:00:00,18821.94,0
+1602,Chandran PLC,atwalnakul@mane.net,Bidar,GJ,Enterprise,2021-06-17 16:00:00,130019.74,0
+1603,"Sen, Bawa and Narang",bhasinturvi@varma-krishnan.biz,Belgaum,TS,Startup,2021-06-18 00:00:00,203972.5,0
+1604,"Krishnamurthy, Chander and Lalla",takbalveer@karnik-ramachandran.com,Malegaon,AP,SMB,2021-06-18 08:00:00,39304.35,1
+1605,Patla Ltd,devanshwable@merchant.com,Dhule,TN,Enterprise,2021-06-18 16:00:00,118270.97,0
+1606,"Keer, Ratta and Sawhney",kallaforum@bhakta.org,Sri Ganganagar,GJ,SMB,2021-06-19 00:00:00,193203.35,0
+1607,Rama-Goyal,aghosh@amble.com,Dehri,TS,Enterprise,2021-06-19 08:00:00,159086.81,0
+1608,Thakur-Kar,rajaaradhana@soni-hora.info,Shimoga,AP,SMB,2021-06-19 16:00:00,17160.46,0
+1609,Mangat-Vig,rkhalsa@mane.com,Malda,DL,Startup,2021-06-20 00:00:00,266068.82,1
+1610,Master-Dalal,,Noida,KA,Enterprise,2021-06-20 08:00:00,40178.61,0
+1611,"Tailor, Naik and More",shroffgautam@hans.org,Chandrapur,MH,Individual,2021-06-20 16:00:00,35221.08,1
+1612,"Sagar, Viswanathan and Acharya",yshetty@nazareth-barman.com,Phagwara,DL,Enterprise,2021-06-21 00:00:00,5479.55,0
+1613,"Kapoor, Ratti and Grover",,Jamalpur,RJ,SMB,2021-06-21 08:00:00,56598.94,0
+1614,Sankar-Bakshi,zchoudhry@kala.com,Serampore,AP,Startup,2021-06-21 16:00:00,9811.22,0
+1615,"Ray, Tella and Buch",nkunda@prashad.com,Panvel,DL,SMB,2021-06-22 00:00:00,24287.65,0
+1616,Swaminathan-Lall,hamsini31@deshmukh.com,Pallavaram,KA,Enterprise,2021-06-22 08:00:00,32400.0,0
+1617,Mallick Inc,zwali@barad-keer.net,Bokaro,GJ,SMB,2021-06-22 16:00:00,140638.7,0
+1618,Sachdev Group,zchanda@purohit.com,Salem,AP,SMB,2021-06-23 00:00:00,177085.46,0
+1619,"Jhaveri, Nair and Choudhury",nlal@gade.com,Bettiah,DL,Individual,2021-06-23 08:00:00,30617.38,0
+1620,Sekhon Ltd,asavant@shan.com,Ranchi,MH,SMB,2021-06-23 16:00:00,166332.82,0
+1621,Zacharia Ltd,,Mysore,MH,Startup,2021-06-24 00:00:00,165454.79,0
+1622,"Issac, Dube and Sekhon",saumyaacharya@kohli.info,Amroha,TS,Individual,2021-06-24 08:00:00,122968.27,0
+1623,Tak Group,bhandarilibni@bawa-kapadia.com,Kulti,DL,SMB,2021-06-24 16:00:00,13484.26,0
+1624,"Chakraborty, Deshmukh and Varghese",chackofrederick@varughese.com,Chapra,TN,Individual,2021-06-25 00:00:00,99639.12,0
+1625,Panchal-Varkey,zinalgrover@loyal.org,Narasaraopet,DL,SMB,2021-06-25 08:00:00,246573.08,1
+1626,Tripathi-Kibe,chandranbalay@batta.net,Ghaziabad,GJ,Individual,2021-06-25 16:00:00,97529.42,0
+1627,Chowdhury LLC,beraarin@dass.com,Bilaspur,AP,Enterprise,2021-06-26 00:00:00,34245.96,1
+1628,"Guha, Kant and Padmanabhan",keyachaudhuri@korpal-chawla.com,Nandyal,AP,Startup,2021-06-26 08:00:00,59016.05,0
+1629,Gade-Vora,williamamble@kadakia-toor.com,Guna,GJ,SMB,2021-06-26 16:00:00,88202.97,0
+1630,Kale-Shankar,omishachandra@patla-khanna.com,Navi Mumbai,DL,SMB,2021-06-27 00:00:00,60733.75,0
+1631,Dutt-Sheth,chandbarkha@tailor.biz,Lucknow,GJ,Startup,2021-06-27 08:00:00,10861.29,0
+1632,"Kurian, Chad and Sura",,Jorhat,KA,Startup,2021-06-27 16:00:00,,0
+1633,"Dugar, Bhagat and Buch",,Jalna,RJ,Enterprise,2021-06-28 00:00:00,137826.68,0
+1634,Setty Inc,ishanviprasad@kar-dar.com,Rajkot,GJ,SMB,2021-06-28 08:00:00,167984.94,0
+1635,Ravel Inc,pshetty@sankar-goswami.com,Kakinada,MH,Startup,2021-06-28 16:00:00,12553.51,0
+1636,Maharaj Inc,mallickchakrika@dora.info,Vijayanagaram,GJ,Startup,2021-06-29 00:00:00,258794.76,0
+1637,Palla LLC,ekapadbhalla@hayre.com,Begusarai,AP,Individual,2021-06-29 08:00:00,33891.35,1
+1638,Garg Inc,igera@dara.com,Motihari,MH,Startup,2021-06-29 16:00:00,92279.23,0
+1639,"Raval, Jhaveri and Chana",csethi@johal.com,Pune,AP,Individual,2021-06-30 00:00:00,118457.85,0
+1640,"Balan, Devan and Amble",nilimadewan@devi.org,Gaya,TS,Startup,2021-06-30 08:00:00,142037.33,0
+1641,Badal PLC,bmander@pathak.org,Rampur,TN,SMB,2021-06-30 16:00:00,247702.48,0
+1642,Master-Krishna,kumarhemal@bobal-gulati.net,Farrukhabad,AP,Enterprise,2021-07-01 00:00:00,1595041.5,0
+1643,Ramachandran-Venkatesh,bakshivarsha@rajagopal-mitra.com,Shimla,MH,Startup,2021-07-01 08:00:00,166217.6,0
+1644,"Sodhi, Kade and Anne",chauhanjoshua@verma.org,Bhavnagar,TS,Startup,2021-07-01 16:00:00,12002.25,1
+1645,Salvi-Andra,niharikadash@goda.com,Unnao,AP,Enterprise,2021-07-02 00:00:00,103778.08,0
+1646,Mangat-Misra,xchokshi@walla-gala.com,Alappuzha,KA,SMB,2021-07-02 08:00:00,115150.3,0
+1647,Sandhu Ltd,,Yamunanagar,GJ,Individual,2021-07-02 16:00:00,96249.29,1
+1648,"Kapur, Palan and Sharaf",,Jabalpur,TN,SMB,2021-07-03 00:00:00,24715.72,1
+1649,Dutta-Deshmukh,esood@tara.info,Bilaspur,AP,SMB,2021-07-03 08:00:00,175432.18,0
+1650,"Sinha, Salvi and Pant",gaurikachokshi@padmanabhan-nair.com,Khandwa,TS,SMB,2021-07-03 16:00:00,15721.19,1
+1651,Doctor PLC,ramaekani@goyal.com,Raebareli,KA,SMB,2021-07-04 00:00:00,4685.77,0
+1652,"Anand, Sarkar and Wable",kalaharish@majumdar-rau.com,Mangalore,DL,SMB,2021-07-04 08:00:00,107435.99,1
+1653,Bava PLC,faraj44@ben.info,Bareilly,TS,SMB,2021-07-04 16:00:00,,0
+1654,Sood-Vaidya,wishi16@nadig.info,Surat,GJ,Enterprise,2021-07-05 00:00:00,160745.61,0
+1655,Bhagat Inc,nirjagopal@baria.com,Proddatur,TS,Startup,2021-07-05 08:00:00,41100.06,0
+1656,Dewan-Guha,cbumb@krishnan-dass.com,Bhopal,KA,SMB,2021-07-05 16:00:00,15661.91,0
+1657,Dar-Sandhu,yashodhara30@chauhan.com,Kota,TS,Individual,2021-07-06 00:00:00,153900.05,0
+1658,Dhar Ltd,sundergavin@kapadia.com,Howrah,KA,Individual,2021-07-06 08:00:00,67667.44,0
+1659,Bose-Khanna,modichatresh@varghese.biz,Proddatur,AP,SMB,2021-07-06 16:00:00,17826.94,0
+1660,Andra-Sastry,indiratata@karnik-rai.org,Maheshtala,RJ,Startup,2021-07-07 00:00:00,108318.73,0
+1661,"Sule, Kadakia and Dugar",jagat52@sodhi.com,Kamarhati,KA,SMB,2021-07-07 08:00:00,60828.14,0
+1662,Ratta LLC,aghosh@manne.com,Naihati,KA,Individual,2021-07-07 16:00:00,78806.2,0
+1663,Nair-Tak,mitali09@sabharwal.com,Bokaro,TN,SMB,2021-07-08 00:00:00,52517.34,0
+1664,"Virk, Borde and Dhaliwal",gmander@mutti-ghose.com,Chittoor,KA,Startup,2021-07-08 08:00:00,,0
+1665,"Dani, Acharya and Chaudry",,Shimoga,KA,Startup,2021-07-08 16:00:00,150397.97,1
+1666,Patel Ltd,dvirk@batta.com,Bidar,DL,SMB,2021-07-09 00:00:00,105040.37,0
+1667,"Sha, Karan and Chopra",ekantika53@chad-munshi.com,Karaikudi,RJ,Enterprise,2021-07-09 08:00:00,9467.31,0
+1668,Kalita-Nori,ladjeremiah@banik.com,Guna,AP,Startup,2021-07-09 16:00:00,,0
+1669,Atwal-Mishra,ywable@chad-bahri.info,Ichalkaranji,GJ,Startup,2021-07-10 00:00:00,94497.64,0
+1670,Hari-Shan,sarmawishi@misra.com,Gopalpur,TN,SMB,2021-07-10 08:00:00,101498.69,0
+1671,Bal-Balakrishnan,sudiksha42@narasimhan-bhalla.org,Deoghar,DL,Startup,2021-07-10 16:00:00,38331.49,0
+1672,Bera PLC,ipai@savant.com,Bhopal,MH,SMB,2021-07-11 00:00:00,179713.61,1
+1673,Saxena LLC,kdate@walla.com,Udupi,RJ,Startup,2021-07-11 08:00:00,109848.59,0
+1674,Nair-Uppal,champakhalder@mall.com,Raipur,AP,SMB,2021-07-11 16:00:00,10153.14,0
+1675,Peri Inc,barkha11@kalla.org,Bhimavaram,AP,Individual,2021-07-12 00:00:00,44529.27,0
+1676,Sarna Inc,krishnajack@bhattacharyya.com,Haldia,MH,SMB,2021-07-12 08:00:00,184866.41,1
+1677,"Puri, Kapoor and Raman",,Jabalpur,GJ,SMB,2021-07-12 16:00:00,4109.48,0
+1678,Grewal-Desai,madanvasudha@randhawa-lata.com,Nandyal,KA,Enterprise,2021-07-13 00:00:00,276669.36,0
+1679,"Kaul, Mand and Dixit",dlanka@gade.net,Gopalpur,DL,Enterprise,2021-07-13 08:00:00,96629.76,0
+1680,Pillay PLC,subramaniamchakrika@kara-narula.com,Tiruvottiyur,TS,SMB,2021-07-13 16:00:00,84828.14,0
+1681,Rau-Dasgupta,triveni62@bhavsar-bumb.net,Hubli–Dharwad,TN,SMB,2021-07-14 00:00:00,26815.56,0
+1682,Bhattacharyya LLC,,Junagadh,TS,Individual,2021-07-14 08:00:00,24316.16,0
+1683,Tara-Gole,lucky65@ganesan.biz,Sambhal,MH,Enterprise,2021-07-14 16:00:00,242106.91,1
+1684,"Dada, Gill and Raj",galaekiya@parsa.org,Bulandshahr,AP,SMB,2021-07-15 00:00:00,30107.86,0
+1685,"Trivedi, Kala and Radhakrishnan",kthaker@chaudry-mandal.biz,South Dumdum,GJ,SMB,2021-07-15 08:00:00,126981.77,0
+1686,"Kumer, Kaul and Varkey",pratyushchaudhary@kaul.net,Belgaum,AP,Enterprise,2021-07-15 16:00:00,42451.31,0
+1687,Aurora-Lalla,bmahal@bera.com,Coimbatore,TN,Enterprise,2021-07-16 00:00:00,12746.25,0
+1688,D’Alia PLC,barkharana@chakraborty.com,Shimla,AP,SMB,2021-07-16 08:00:00,915.72,0
+1689,Kalita Group,nirjaseshadri@dixit-bhatti.com,Aurangabad,AP,SMB,2021-07-16 16:00:00,66795.29,0
+1690,Gandhi-Shankar,abhiram05@butala-nadig.info,Davanagere,TN,SMB,2021-07-17 00:00:00,,0
+1691,Master-Rama,wpandey@ramachandran-khosla.com,Amritsar,DL,SMB,2021-07-17 08:00:00,,0
+1692,"Bir, Comar and Kakar",krishnawaida@sinha.net,Sultan Pur Majra,DL,Startup,2021-07-17 16:00:00,,0
+1693,Datta-Rajan,zachariahmaanas@divan-mandal.com,Amaravati,TN,Enterprise,2021-07-18 00:00:00,35847.4,0
+1694,"Kapadia, Minhas and Sur",bhavya61@bhasin-chandran.com,Kottayam,GJ,SMB,2021-07-18 08:00:00,62483.74,1
+1695,"Shankar, Chaudry and Grewal",ashere@handa.com,Bikaner,MH,Individual,2021-07-18 16:00:00,49385.55,0
+1696,"Kurian, Chada and Sani",tanmayibali@patla.com,Hindupur,RJ,SMB,2021-07-19 00:00:00,180161.95,0
+1697,Prabhakar and Sons,yuvrajtandon@bobal-pall.com,Kirari Suleman Nagar,AP,Startup,2021-07-19 08:00:00,59861.26,0
+1698,Tata-Keer,pkurian@dash.org,Hapur,GJ,SMB,2021-07-19 16:00:00,60246.68,0
+1699,Gopal Ltd,prisha46@mall.info,Motihari,AP,Startup,2021-07-20 00:00:00,12659.15,1
+1700,Dutta-Sachar,priyabalakrishnan@srinivas-suresh.biz,Solapur,RJ,Startup,2021-07-20 08:00:00,345043.64,0
+1701,Sood Group,zaitra07@gopal-grover.biz,Agra,MH,SMB,2021-07-20 16:00:00,24449.9,0
+1702,Sharma-Pai,ojasbassi@samra-puri.info,Buxar,DL,Individual,2021-07-21 00:00:00,6476.53,0
+1703,Boase and Sons,ypalla@mital-suri.org,Pondicherry,GJ,Enterprise,2021-07-21 08:00:00,92489.05,0
+1704,"Mahajan, Sant and Uppal",lreddy@char.com,Aurangabad,KA,Enterprise,2021-07-21 16:00:00,76905.73,0
+1705,"Baral, Chana and Soni",tbhatti@date.com,Burhanpur,KA,Startup,2021-07-22 00:00:00,45593.36,0
+1706,Padmanabhan Group,,Kolhapur,RJ,Individual,2021-07-22 08:00:00,46623.69,1
+1707,Sastry-Mohan,zsura@balan.com,Aizawl,KA,Enterprise,2021-07-22 16:00:00,130680.24,1
+1708,Baria-Chadha,bkorpal@grover.com,Tenali,DL,SMB,2021-07-23 00:00:00,18512.89,0
+1709,"Baria, Jani and Sheth",mchakrabarti@mall-issac.com,Bareilly,RJ,Enterprise,2021-07-23 08:00:00,145877.57,0
+1710,Mukhopadhyay LLC,,Sagar,DL,SMB,2021-07-23 16:00:00,88931.15,1
+1711,Jani LLC,ucchal66@kannan.biz,Sultan Pur Majra,MH,Startup,2021-07-24 00:00:00,46150.96,0
+1712,Mody Inc,,Akola,AP,SMB,2021-07-24 08:00:00,52066.08,0
+1713,"Bath, Bawa and Sur",kondajeevika@walla.com,Karawal Nagar,MH,SMB,2021-07-24 16:00:00,25209.68,0
+1714,"Setty, Ghose and Chakraborty",ulanka@dhar.info,Bhind,MH,SMB,2021-07-25 00:00:00,118556.95,1
+1715,Doctor-Devan,zaitrapandya@nazareth-chandran.net,Madhyamgram,DL,Enterprise,2021-07-25 08:00:00,61134.89,1
+1716,Setty Group,deshpandearadhana@bajaj.biz,Lucknow,RJ,SMB,2021-07-25 16:00:00,32888.2,0
+1717,"Gulati, Magar and Pant",udarsh15@viswanathan.biz,Bhatpara,RJ,Startup,2021-07-26 00:00:00,77049.48,0
+1718,Patla-Singhal,atharvagate@chowdhury-shan.com,Mangalore,KA,Individual,2021-07-26 08:00:00,463860.69,0
+1719,"Shenoy, Korpal and Devi",kvarughese@sama-pau.com,Moradabad,TS,Individual,2021-07-26 16:00:00,48568.48,0
+1720,Khosla-Halder,kaulnilima@saxena-palla.biz,Raiganj,AP,Enterprise,2021-07-27 00:00:00,215424.74,0
+1721,"Bhandari, Dugal and Prakash",,Hubli–Dharwad,DL,Individual,2021-07-27 08:00:00,35967.39,0
+1722,Brahmbhatt-Vig,owen15@chokshi-biswas.com,Agartala,KA,Startup,2021-07-27 16:00:00,4784.44,0
+1723,Kapoor-Madan,ridhiyogi@mallick-doshi.info,Panchkula,GJ,Startup,2021-07-28 00:00:00,19419.12,1
+1724,"Bedi, Ben and Roy",,Pali,TS,SMB,2021-07-28 08:00:00,46110.8,0
+1725,Kara Ltd,,Katihar,TS,SMB,2021-07-28 16:00:00,21079.44,0
+1726,Sant-Arya,yogineel@basu.com,Gurgaon,DL,SMB,2021-07-29 00:00:00,19.3,0
+1727,Mandal Inc,,Ambala,TN,Enterprise,2021-07-29 08:00:00,209535.38,0
+1728,Badami-Rau,thomasissac@venkataraman.org,Tenali,AP,SMB,2021-07-29 16:00:00,157855.76,0
+1729,"Sane, Lad and Mutti",ranveernagar@vora-date.com,Raichur,TS,SMB,2021-07-30 00:00:00,115253.97,1
+1730,Prabhu LLC,qchadha@talwar-gola.com,Siwan,DL,SMB,2021-07-30 08:00:00,15614.5,1
+1731,Garde-Wable,galapavani@dave.biz,Saharsa,DL,Startup,2021-07-30 16:00:00,10900.96,0
+1732,Dugal-Ramakrishnan,npalla@zachariah.biz,Dehri,KA,SMB,2021-07-31 00:00:00,,0
+1733,Bhagat-Barad,rishi78@sharaf.org,Vijayanagaram,GJ,Enterprise,2021-07-31 08:00:00,109434.11,1
+1734,"Mohanty, Wable and Doshi",ekantagara@thaman-gola.com,Agartala,TN,Individual,2021-07-31 16:00:00,224601.81,0
+1735,Sheth-Balakrishnan,ominaya@divan.info,Sasaram,AP,Individual,2021-08-01 00:00:00,47860.05,0
+1736,Iyengar Ltd,taurora@sane-krishnan.info,Darbhanga,RJ,Startup,2021-08-01 08:00:00,10782.87,0
+1737,"Peri, Madan and Kadakia",tmore@chandra.com,Berhampore,MH,Individual,2021-08-01 16:00:00,61050.84,1
+1738,"Mallick, Murty and Baria",megha71@peri-setty.org,Davanagere,GJ,SMB,2021-08-02 00:00:00,36463.93,0
+1739,Misra Group,prisha47@munshi.com,Bally,GJ,Individual,2021-08-02 08:00:00,39926.5,0
+1740,Som-Pandya,sampathbrinda@naik-kala.com,Bidar,KA,Enterprise,2021-08-02 16:00:00,82542.8,1
+1741,Lal-Bhatti,bhegde@vaidya.com,Junagadh,RJ,SMB,2021-08-03 00:00:00,107813.83,0
+1742,Natt-Tara,vansha82@nanda.com,Madurai,TS,SMB,2021-08-03 08:00:00,9963.04,0
+1743,Gour-Rajagopal,hemangmukherjee@bhagat.com,Mangalore,TS,SMB,2021-08-03 16:00:00,3080.32,0
+1744,"Kannan, Kant and Ramaswamy",jkapoor@rege.com,Suryapet,KA,Enterprise,2021-08-04 00:00:00,439672.66,1
+1745,Lanka PLC,swaminathantamanna@nadig-jhaveri.biz,Kollam,DL,Startup,2021-08-04 08:00:00,22517.72,0
+1746,Mishra-Shroff,dipta94@maharaj.com,Asansol,TS,Startup,2021-08-04 16:00:00,4703.35,1
+1747,Chandra PLC,bkhurana@salvi.com,Medininagar,TN,Startup,2021-08-05 00:00:00,17898.21,0
+1748,"Handa, Cheema and Srinivasan",,Yamunanagar,AP,Enterprise,2021-08-05 08:00:00,3377.65,0
+1749,Chaudhari LLC,trivenisoni@badal.org,Dibrugarh,GJ,Individual,2021-08-05 16:00:00,,1
+1750,Bedi Ltd,pushti72@lad-ranganathan.com,Gandhidham,GJ,Startup,2021-08-06 00:00:00,137829.16,0
+1751,Contractor-Kant,ukaran@chakrabarti.com,Shahjahanpur,TN,SMB,2021-08-06 08:00:00,35479.23,0
+1752,"Dara, Datta and Rastogi",,Pudukkottai,RJ,Startup,2021-08-06 16:00:00,49921.94,0
+1753,Chandran-Ramaswamy,bhagatbhavini@kapur.com,Gopalpur,TS,SMB,2021-08-07 00:00:00,95687.66,0
+1754,"Soman, Dash and Mohanty",jagratibhakta@pillai.info,Bhimavaram,GJ,SMB,2021-08-07 08:00:00,60443.11,0
+1755,Prakash-Kota,harinakshi80@puri.org,Bhavnagar,MH,Individual,2021-08-07 16:00:00,168001.89,0
+1756,"Sane, Jain and Subramanian",balasubramanianvidhi@dara.com,Tinsukia,RJ,SMB,2021-08-08 00:00:00,170865.45,0
+1757,Chand-Palan,jdar@nadig-bose.com,Tenali,AP,SMB,2021-08-08 08:00:00,846.61,1
+1758,Chakrabarti Ltd,pjoshi@gaba-sur.com,Khammam,AP,Individual,2021-08-08 16:00:00,127949.35,0
+1759,Balasubramanian-Aggarwal,ronithsinghal@walla.com,Bardhaman,GJ,Startup,2021-08-09 00:00:00,52491.37,1
+1760,Nori-Mammen,ishita70@gopal.com,Kottayam,KA,Enterprise,2021-08-09 08:00:00,382114.77,0
+1761,Prabhakar-Ghosh,ksarin@soman.com,Dewas,RJ,Enterprise,2021-08-09 16:00:00,56113.72,0
+1762,Korpal LLC,jdass@choudhary.com,Gudivada,GJ,Enterprise,2021-08-10 00:00:00,368460.85,0
+1763,"Mital, Ben and Doshi",,Dehri,KA,Startup,2021-08-10 08:00:00,119402.98,0
+1764,Venkatesh Group,mugdhanayar@garde.net,Danapur,GJ,SMB,2021-08-10 16:00:00,24295.01,0
+1765,"Varty, Vora and Apte",,Rourkela,MH,Enterprise,2021-08-11 00:00:00,65708.88,0
+1766,"Morar, Sampath and Kapadia",zbrahmbhatt@bedi.org,Erode,RJ,Individual,2021-08-11 08:00:00,,1
+1767,Mital LLC,pnagar@sridhar.com,Burhanpur,DL,SMB,2021-08-11 16:00:00,165633.39,1
+1768,Bhattacharyya-Pradhan,halderorinder@sandhu.com,Arrah,AP,SMB,2021-08-12 00:00:00,435366.0,0
+1769,D’Alia-Ahluwalia,adyatata@grewal.org,Aurangabad,GJ,SMB,2021-08-12 08:00:00,104162.54,1
+1770,Datta Ltd,zkalita@bahl.com,Berhampore,MH,Startup,2021-08-12 16:00:00,36040.45,0
+1771,Memon LLC,shravyabehl@majumdar.com,Salem,KA,Enterprise,2021-08-13 00:00:00,595.57,0
+1772,Natt PLC,satheonkar@pall.com,Dibrugarh,KA,SMB,2021-08-13 08:00:00,43914.75,1
+1773,"Chaudhry, Gola and Pradhan",salviomisha@vig.com,Bhopal,AP,Individual,2021-08-13 16:00:00,22742.47,0
+1774,Shenoy-Mani,urvashi12@shanker-goswami.com,Kollam,TN,SMB,2021-08-14 00:00:00,145225.58,0
+1775,"Sur, Swamy and Rajan",jagat01@ramakrishnan.com,Bardhaman,GJ,SMB,2021-08-14 08:00:00,34975.72,0
+1776,Brar PLC,girindrasathe@prakash.com,Dewas,RJ,SMB,2021-08-14 16:00:00,149387.11,0
+1777,"Joshi, Rege and Sekhon",xnadig@bhakta.org,Bidar,TS,Enterprise,2021-08-15 00:00:00,50.84,0
+1778,"Ravi, Doshi and Guha",chanchal34@sankar.com,Kirari Suleman Nagar,KA,SMB,2021-08-15 08:00:00,31272.18,0
+1779,"Vora, Raghavan and Vaidya",harish94@gala.com,Bidar,RJ,SMB,2021-08-15 16:00:00,23457.55,1
+1780,Kamdar-Sagar,birvedhika@tandon-lad.info,Belgaum,RJ,SMB,2021-08-16 00:00:00,22610.72,0
+1781,Mitra-Amble,csheth@nagy-sem.com,Tiruchirappalli,DL,Enterprise,2021-08-16 08:00:00,6002.93,0
+1782,"Sarkar, Varghese and Bava",vanyasodhi@dar-varma.net,Unnao,RJ,Individual,2021-08-16 16:00:00,17610.05,0
+1783,"Comar, Menon and Kala",cvarghese@more.com,Aurangabad,RJ,Individual,2021-08-17 00:00:00,68927.92,0
+1784,Bali Inc,msami@gour.org,Bharatpur,DL,Startup,2021-08-17 08:00:00,29274.78,0
+1785,"Raju, Venkatesh and Ratti",bedidipta@narayanan.net,Dewas,KA,Individual,2021-08-17 16:00:00,45920.87,0
+1786,Parmer-Shanker,vasatikagara@ganguly.info,Jodhpur,RJ,SMB,2021-08-18 00:00:00,40204.58,1
+1787,"Mukherjee, Iyengar and Prakash",rushilsuri@wadhwa.org,Ranchi,TN,Individual,2021-08-18 08:00:00,177370.12,1
+1788,"Tella, Bakshi and Mangal",ksaha@saini-aurora.net,South Dumdum,TN,SMB,2021-08-18 16:00:00,200347.61,1
+1789,Bakshi-Dhingra,oedwin@rana.com,Sambalpur,MH,Individual,2021-08-19 00:00:00,57728.55,1
+1790,Dubey Ltd,gautamimand@sampath-deshmukh.com,Rajkot,DL,Individual,2021-08-19 08:00:00,34060.38,0
+1791,Kata Ltd,xmammen@mammen.net,Bhiwani,MH,Startup,2021-08-19 16:00:00,9600.37,1
+1792,Rege and Sons,rajeshrichander@bhandari-anne.com,Howrah,DL,Individual,2021-08-20 00:00:00,260628.4,0
+1793,Karan and Sons,vamakshianand@ramesh-rana.com,Saharanpur,GJ,Startup,2021-08-20 08:00:00,5279.93,0
+1794,Yadav-Choudhury,vargheseyadavi@varghese-tara.com,Ballia,GJ,SMB,2021-08-20 16:00:00,30032.52,0
+1795,Upadhyay Group,gben@narasimhan.com,Tezpur,RJ,SMB,2021-08-21 00:00:00,30082.88,0
+1796,"Bumb, Suresh and Som",jalsa95@naidu.com,Mango,TS,Startup,2021-08-21 08:00:00,32831.49,0
+1797,"Kadakia, Mane and Khurana",chamansarma@devan.com,Kollam,GJ,Enterprise,2021-08-21 16:00:00,15254.94,1
+1798,Sami Group,waliomaja@pillai.com,Mango,TS,Startup,2021-08-22 00:00:00,129931.18,0
+1799,Buch and Sons,semtejas@babu.biz,Rajpur Sonarpur,GJ,Individual,2021-08-22 08:00:00,11107.45,0
+1800,Puri Ltd,sachdevtanveer@shetty.com,Muzaffarpur,AP,SMB,2021-08-22 16:00:00,85646.19,0
+1801,Naidu Inc,nadigindrajit@manne.com,Panipat,GJ,Startup,2021-08-23 00:00:00,11238.14,0
+1802,Parikh-Rana,qsandal@dhaliwal.com,Bhavnagar,MH,Individual,2021-08-23 08:00:00,6217.48,0
+1803,"Deep, Rout and Din",balawaida@lall.com,Dehradun,KA,Individual,2021-08-23 16:00:00,204138.28,0
+1804,"Badal, Narain and Kala",omaggarwal@varghese.com,Ghaziabad,RJ,Individual,2021-08-24 00:00:00,17924.8,0
+1805,Viswanathan-Bandi,aayush00@batta.net,Munger,MH,SMB,2021-08-24 08:00:00,146350.28,0
+1806,Manne-Chacko,sankaranhiral@singh.biz,Singrauli,KA,Individual,2021-08-24 16:00:00,66864.99,0
+1807,Agarwal PLC,pdatta@bose.com,Ujjain,TN,Startup,2021-08-25 00:00:00,6889.63,0
+1808,Gandhi-Mallick,oni37@kaur-munshi.com,Nellore,MH,SMB,2021-08-25 08:00:00,264443.72,0
+1809,Shankar-Garde,cissac@chanda.com,Jodhpur,TN,SMB,2021-08-25 16:00:00,24109.27,0
+1810,Swaminathan-Nagy,ladzarna@palan.biz,Cuttack,TS,Startup,2021-08-26 00:00:00,166904.54,0
+1811,Dass Inc,saanvibarman@vala.com,Chapra,TS,SMB,2021-08-26 08:00:00,,0
+1812,Puri-Soman,ksami@ramachandran.com,Tirupati,AP,Startup,2021-08-26 16:00:00,163519.39,0
+1813,"Seth, Chhabra and Natt",aarnavsidhu@rana.org,Vellore,GJ,Startup,2021-08-27 00:00:00,1131.95,0
+1814,"Pillay, Biswas and Lad",narayananayaan@contractor-bassi.biz,Tenali,MH,SMB,2021-08-27 08:00:00,60944.16,0
+1815,Srinivasan-Konda,amadan@sengupta.com,Ranchi,TN,Startup,2021-08-27 16:00:00,124716.7,0
+1816,Andra-Nigam,nayarrudra@parmer-menon.com,Aurangabad,KA,Startup,2021-08-28 00:00:00,232069.3,0
+1817,Srinivasan Inc,aryan16@krishna.com,Bally,TS,SMB,2021-08-28 08:00:00,203925.16,0
+1818,Kannan Inc,narainguneet@pandit.biz,Kottayam,GJ,Enterprise,2021-08-28 16:00:00,145580.91,1
+1819,Nazareth and Sons,anya43@badami.com,Agra,TS,Enterprise,2021-08-29 00:00:00,186232.14,1
+1820,"Karnik, Dar and Ramesh",hmandal@parekh.info,Panchkula,KA,SMB,2021-08-29 08:00:00,18884.33,0
+1821,"Nori, Sachdev and Mani",calebmistry@iyengar.biz,Bijapur,GJ,Individual,2021-08-29 16:00:00,28418.27,0
+1822,Bawa-Atwal,lalaaayush@sarin.com,Lucknow,GJ,SMB,2021-08-30 00:00:00,28988.28,0
+1823,Bala Inc,,Salem,TN,Startup,2021-08-30 08:00:00,40230.1,1
+1824,Kala Ltd,usolanki@vaidya.biz,Adoni,TN,SMB,2021-08-30 16:00:00,42479.17,1
+1825,Zacharia-Batta,sagararjun@sachar-chokshi.com,Bulandshahr,MH,SMB,2021-08-31 00:00:00,66850.89,0
+1826,Prasad Ltd,,Bareilly,MH,Individual,2021-08-31 08:00:00,14807.87,1
+1827,Buch Group,mbansal@bala.com,Visakhapatnam,DL,Startup,2021-08-31 16:00:00,99893.07,0
+1828,Chatterjee LLC,odika76@hayre.com,Muzaffarpur,RJ,Enterprise,2021-09-01 00:00:00,15589.17,0
+1829,Mammen-Mukhopadhyay,wzacharia@yadav.com,Gulbarga,DL,SMB,2021-09-01 08:00:00,31578.42,0
+1830,Pall-Pradhan,fbaral@taneja.com,Akola,AP,Enterprise,2021-09-01 16:00:00,59488.09,0
+1831,"Batta, Prabhakar and Mani",idikacomar@deo-kakar.com,Hosur,TS,SMB,2021-09-02 00:00:00,135302.77,1
+1832,"Soni, Patla and Chadha",bsarma@agate.info,Kamarhati,MH,Startup,2021-09-02 08:00:00,114327.92,0
+1833,Raval-Murty,sameshbhatti@borde.com,Sagar,TN,Enterprise,2021-09-02 16:00:00,88157.23,0
+1834,"Sachdev, Lall and Gopal",psant@goel.com,Durgapur,KA,SMB,2021-09-03 00:00:00,14393.4,1
+1835,Banerjee-Garg,aishanivarma@mistry.biz,Loni,TN,SMB,2021-09-03 08:00:00,67316.88,1
+1836,Mahajan Group,vaishnavi68@nayar.com,Madanapalle,TS,Individual,2021-09-03 16:00:00,7778.23,0
+1837,Bandi-Bhasin,,Bhavnagar,DL,Individual,2021-09-04 00:00:00,40272.31,0
+1838,Saini-Roy,bhaktachandresh@zacharia.com,Cuttack,TN,Enterprise,2021-09-04 08:00:00,45356.92,0
+1839,"Bath, Mani and Tak",,Gwalior,RJ,Startup,2021-09-04 16:00:00,3453.18,0
+1840,Zachariah and Sons,turvichander@natt.com,Sikar,AP,SMB,2021-09-05 00:00:00,27216.05,1
+1841,Chana PLC,falangolla@chanda.com,Buxar,TS,SMB,2021-09-05 08:00:00,264828.6,1
+1842,Dugar-Mangal,kallawishi@badal.com,Dharmavaram,DL,Startup,2021-09-05 16:00:00,261048.5,0
+1843,Raj-Sidhu,radhakrishnanayaan@purohit.net,Ujjain,RJ,Individual,2021-09-06 00:00:00,36921.4,0
+1844,Kunda PLC,dhritimadan@issac.com,Chandigarh,KA,Individual,2021-09-06 08:00:00,3744.8,0
+1845,"Narain, Dash and Rout",yoshita97@bajwa.com,Maheshtala,DL,Startup,2021-09-06 16:00:00,16774.56,1
+1846,"Ranganathan, Randhawa and Tella",jhalakreddy@majumdar.com,Gwalior,GJ,SMB,2021-09-07 00:00:00,42324.79,0
+1847,"Kari, Mallick and Chawla",achokshi@shanker.net,Shimoga,RJ,Startup,2021-09-07 08:00:00,250944.13,0
+1848,"Suresh, Bhargava and Ramanathan",,Jammu,RJ,SMB,2021-09-07 16:00:00,12938.54,0
+1849,"Mukherjee, Chauhan and Hegde",varenya88@warrior.info,Udupi,AP,Startup,2021-09-08 00:00:00,122559.3,0
+1850,"Kapadia, Bhandari and Saxena",fitan77@ben-anand.com,Chittoor,TS,SMB,2021-09-08 08:00:00,9779.64,0
+1851,"Suri, Thaman and Mall",qnaidu@bhavsar.biz,Dehri,KA,Startup,2021-09-08 16:00:00,338042.09,0
+1852,Patil-Talwar,qmore@mani.biz,Shahjahanpur,AP,SMB,2021-09-09 00:00:00,40854.95,1
+1853,Sarin Group,kotharigaurika@pandya.com,Shimoga,DL,SMB,2021-09-09 08:00:00,126879.31,1
+1854,"Biswas, Chacko and Yadav",tejaschahal@rege.com,Pimpri-Chinchwad,AP,Individual,2021-09-09 16:00:00,35653.17,0
+1855,Sekhon-Bhavsar,gokhalenidhi@randhawa.org,Kadapa,RJ,Enterprise,2021-09-10 00:00:00,83977.59,0
+1856,Shetty-Morar,uvora@date.biz,Chandrapur,TS,SMB,2021-09-10 08:00:00,18123.12,0
+1857,Kulkarni Inc,,Bharatpur,MH,SMB,2021-09-10 16:00:00,13417.14,0
+1858,"Gokhale, Garg and Jha",zgoda@gulati-palla.org,Darbhanga,AP,Enterprise,2021-09-11 00:00:00,236440.75,0
+1859,Kalla-Choudhary,bishakhabahri@more.net,Avadi,GJ,Enterprise,2021-09-11 08:00:00,212223.22,1
+1860,Nigam-Kothari,qjayaraman@malhotra.com,Kurnool,AP,SMB,2021-09-11 16:00:00,185684.71,0
+1861,Dar LLC,,Navi Mumbai,DL,Individual,2021-09-12 00:00:00,83468.79,0
+1862,Shere-Andra,,Farrukhabad,DL,SMB,2021-09-12 08:00:00,140390.91,1
+1863,Baria LLC,kmemon@upadhyay-narang.com,Dindigul,KA,Individual,2021-09-12 16:00:00,6080.53,1
+1864,Kala-Wali,rluthra@narain-mannan.com,Bhavnagar,DL,Startup,2021-09-13 00:00:00,34650.34,0
+1865,Raj Group,qbaral@kanda.com,Bahraich,TN,SMB,2021-09-13 08:00:00,31997.82,0
+1866,Uppal-Ratta,tsandal@dhaliwal-sehgal.com,Pimpri-Chinchwad,TS,Startup,2021-09-13 16:00:00,85818.34,0
+1867,"Nagi, Chokshi and Walla",theodore23@salvi-halder.info,Lucknow,TS,SMB,2021-09-14 00:00:00,37399.23,0
+1868,Varkey-Handa,samarzachariah@sood-padmanabhan.com,Udaipur,MH,Startup,2021-09-14 08:00:00,13664.92,0
+1869,Narasimhan-Apte,barmanhritik@nagi.com,Yamunanagar,MH,SMB,2021-09-14 16:00:00,77137.26,0
+1870,Magar-Dash,vbhatt@subramanian-hayer.net,Mau,TS,SMB,2021-09-15 00:00:00,143146.36,1
+1871,"Dhawan, Devi and Saran",vincentkant@palan.com,Nadiad,GJ,Individual,2021-09-15 08:00:00,40924.67,0
+1872,Walia-Badal,echhabra@dani-kadakia.com,Hospet,MH,Individual,2021-09-15 16:00:00,12059.22,0
+1873,"Kant, Saraf and Chahal",nazarethnicholas@natt.com,Amritsar,KA,Individual,2021-09-16 00:00:00,18616.05,0
+1874,Chand and Sons,yvyas@maharaj-more.com,Kolhapur,DL,SMB,2021-09-16 08:00:00,23046.12,0
+1875,Vala-Master,victorgopal@goyal.com,Chandigarh,TS,Startup,2021-09-16 16:00:00,30304.94,1
+1876,"Bawa, Narula and Krish",hchaudhry@om-grover.info,Nashik,RJ,SMB,2021-09-17 00:00:00,87502.88,0
+1877,Mane-Balasubramanian,hmisra@mander.com,Rajahmundry,MH,SMB,2021-09-17 08:00:00,78085.87,0
+1878,Atwal Group,psane@hora.org,Ulhasnagar,TS,SMB,2021-09-17 16:00:00,101234.18,0
+1879,Mangat LLC,,Hapur,TN,Startup,2021-09-18 00:00:00,38267.35,0
+1880,"Prasad, Sarraf and Singhal",idas@ray.com,Nagercoil,AP,SMB,2021-09-18 08:00:00,147666.93,0
+1881,"Chand, Sidhu and Deol",pprabhakar@khatri.com,Raurkela Industrial Township,DL,SMB,2021-09-18 16:00:00,19402.63,0
+1882,Bora-Choudhury,tejas55@sarkar.com,Udaipur,TS,Individual,2021-09-19 00:00:00,53810.95,0
+1883,"Naidu, Bhardwaj and Bassi",bramakrishnan@nanda.com,Bidhannagar,AP,SMB,2021-09-19 08:00:00,,0
+1884,Oza-Kota,,Ujjain,MH,Enterprise,2021-09-19 16:00:00,16884.78,0
+1885,Kuruvilla-Sabharwal,jacksonbose@mohan.biz,Rourkela,AP,Enterprise,2021-09-20 00:00:00,9892.3,1
+1886,"Johal, Parmar and Bhakta",buchdaksh@vig-suri.biz,Farrukhabad,DL,Individual,2021-09-20 08:00:00,182872.77,1
+1887,Sharma-Krishna,kavyasubramanian@acharya-issac.org,Bhusawal,TS,SMB,2021-09-20 16:00:00,35696.96,0
+1888,Minhas Group,aggarwalbahadurjit@dalia-samra.net,Asansol,TN,SMB,2021-09-21 00:00:00,97886.18,0
+1889,Shukla-Dara,rhanda@mani-varkey.com,Coimbatore,GJ,Individual,2021-09-21 08:00:00,2182.41,0
+1890,Contractor-Khatri,sgoel@mohanty.com,Thane,MH,Individual,2021-09-21 16:00:00,99563.41,0
+1891,Venkataraman PLC,dkari@parekh.biz,Serampore,TS,SMB,2021-09-22 00:00:00,,0
+1892,"Bhatnagar, Boase and Raghavan",mitesh20@pal.com,Belgaum,DL,Startup,2021-09-22 08:00:00,4875.14,1
+1893,Mahajan-Sane,mittalfrado@khosla.biz,Jabalpur,MH,Startup,2021-09-22 16:00:00,79995.93,1
+1894,Nori-Ratti,jchanda@kumar-hora.com,Ludhiana,KA,Startup,2021-09-23 00:00:00,23417.08,0
+1895,Saha-Rao,zayansavant@tank-sarna.com,Chapra,AP,SMB,2021-09-23 08:00:00,41571.46,0
+1896,"Hayer, Mammen and Patla",upasnapadmanabhan@banerjee.net,Malegaon,GJ,Individual,2021-09-23 16:00:00,,1
+1897,Handa-Ramachandran,,Nandyal,DL,SMB,2021-09-24 00:00:00,13530.91,1
+1898,Minhas Ltd,ltank@tailor.com,Rajahmundry,KA,SMB,2021-09-24 08:00:00,,0
+1899,Ramanathan Group,advikakapadia@ahluwalia.net,Ujjain,RJ,SMB,2021-09-24 16:00:00,7993.95,0
+1900,Warrior Ltd,frederick56@bhakta-baria.org,Howrah,TS,Enterprise,2021-09-25 00:00:00,205459.34,0
+1901,Din-Ghose,hsarna@dani.biz,Nangloi Jat,TN,Enterprise,2021-09-25 08:00:00,515.56,0
+1902,"Balakrishnan, Sibal and Sandhu",,Adoni,MH,Startup,2021-09-25 16:00:00,56217.1,0
+1903,Sidhu-Sant,orindermunshi@saran-bora.info,Muzaffarpur,AP,Enterprise,2021-09-26 00:00:00,11180.09,0
+1904,Murty-Chander,balayadweta@dada.com,Hindupur,MH,SMB,2021-09-26 08:00:00,31254.98,0
+1905,Lall-Bora,lavanya72@sundaram-murthy.com,Navi Mumbai,GJ,SMB,2021-09-26 16:00:00,221382.11,0
+1906,Warrior PLC,omkaar98@mannan.org,Bardhaman,TS,Enterprise,2021-09-27 00:00:00,14991.68,0
+1907,Nadig Inc,imaranmadan@taneja.biz,Noida,MH,Individual,2021-09-27 08:00:00,287000.38,0
+1908,"Manne, Mistry and Devan",mhegde@kalla-chokshi.info,Bhiwani,AP,SMB,2021-09-27 16:00:00,19585.09,1
+1909,"Morar, Krish and Mani",bhavyabava@dewan-sarna.com,Mirzapur,TS,SMB,2021-09-28 00:00:00,115014.81,1
+1910,Modi-Divan,nilimaupadhyay@pant-nath.com,Malda,MH,SMB,2021-09-28 08:00:00,67247.83,0
+1911,Ram-Jha,bansaldominic@pandya.com,Kota,TN,SMB,2021-09-28 16:00:00,183455.55,0
+1912,"Nagi, Agate and Bandi",dyadav@sarin.com,Muzaffarnagar,DL,Enterprise,2021-09-29 00:00:00,68630.8,1
+1913,Nath-Dhaliwal,gautammanda@peri-khosla.org,Jaunpur,TS,Startup,2021-09-29 08:00:00,65005.48,0
+1914,"Rajan, Amble and Chandran",karanleela@mutti-patla.com,Jamalpur,DL,Individual,2021-09-29 16:00:00,18485.98,0
+1915,"Saraf, Sarma and Bhavsar",faris21@shankar.com,Alappuzha,RJ,SMB,2021-09-30 00:00:00,15452.74,0
+1916,Setty-Chander,ekansh54@narula-randhawa.com,Hazaribagh,TS,Startup,2021-09-30 08:00:00,211036.19,0
+1917,Khalsa-Jain,upadhriti97@loyal.com,Jhansi,TN,Startup,2021-09-30 16:00:00,,0
+1918,"Misra, Hari and Ravel",haritaguha@tara.org,Thane,DL,Individual,2021-10-01 00:00:00,39554.42,1
+1919,Bandi-Yadav,deolranbir@mane.com,Ranchi,KA,SMB,2021-10-01 08:00:00,121242.46,0
+1920,Gokhale-Deshpande,plala@vig.com,Kolhapur,AP,SMB,2021-10-01 16:00:00,35167.43,0
+1921,"Pau, Choudhry and Loyal",ksolanki@keer.com,Vasai-Virar,KA,SMB,2021-10-02 00:00:00,258217.77,1
+1922,Ghose-Madan,eiravatisamra@rattan-peri.net,Guntakal,MH,Startup,2021-10-02 08:00:00,113826.49,0
+1923,Banik-Mangal,warinder73@chahal.com,Sri Ganganagar,TN,Individual,2021-10-02 16:00:00,77340.17,0
+1924,Gala-Bala,parsasamar@konda.com,Kadapa,KA,SMB,2021-10-03 00:00:00,180858.85,0
+1925,Memon Ltd,manilogan@ratti-som.com,Gurgaon,TS,SMB,2021-10-03 08:00:00,4324.68,0
+1926,"Doshi, Anne and Bose",mitterpranit@prakash.com,Junagadh,MH,Individual,2021-10-03 16:00:00,,0
+1927,Rajagopalan Group,akhosla@bir.com,Kochi,MH,Individual,2021-10-04 00:00:00,53172.3,0
+1928,"Suresh, Mahajan and Seshadri",paninirai@ratta.net,Raebareli,KA,Individual,2021-10-04 08:00:00,21883.12,0
+1929,"Shroff, Madan and Agrawal",ktailor@johal.com,Raichur,RJ,Startup,2021-10-04 16:00:00,115787.64,0
+1930,"Chahal, Mangal and Kohli",nidra02@arya.biz,Mau,KA,SMB,2021-10-05 00:00:00,,0
+1931,"Tank, Borra and Brar",grewalkavya@loyal.biz,Navi Mumbai,RJ,Startup,2021-10-05 08:00:00,46856.13,0
+1932,Kapur Inc,anthony61@sura-sarraf.com,Kadapa,TN,Startup,2021-10-05 16:00:00,35593.91,0
+1933,Khosla-Balay,chaudrybhanumati@sule.info,Burhanpur,AP,Enterprise,2021-10-06 00:00:00,276965.33,0
+1934,Char and Sons,jagvigole@yogi.net,Sangli-Miraj & Kupwad,KA,SMB,2021-10-06 08:00:00,50024.31,0
+1935,"Andra, Bali and Gupta",gokhaletriya@bhatnagar.com,Patna,GJ,Startup,2021-10-06 16:00:00,57075.83,1
+1936,Solanki-Rajan,aarushbose@khare.com,Kottayam,RJ,SMB,2021-10-07 00:00:00,36832.57,0
+1937,"Chakrabarti, Seshadri and Kunda",prabhakarharrison@buch-boase.com,Orai,KA,Startup,2021-10-07 08:00:00,204250.0,0
+1938,Upadhyay Group,fraghavan@bobal.org,Durg,DL,Startup,2021-10-07 16:00:00,71531.23,0
+1939,"Patil, Bhatia and Raj",hariarunima@borde.net,Bijapur,TS,Individual,2021-10-08 00:00:00,122078.57,0
+1940,"Chad, Nagar and Dyal",usandhu@choudhary.com,Ozhukarai,GJ,Enterprise,2021-10-08 08:00:00,,0
+1941,Balay-Chauhan,wakeetaramanathan@bhavsar.com,Rajkot,GJ,SMB,2021-10-08 16:00:00,35557.28,1
+1942,Roy-Sankar,rajata70@warrior.com,Karawal Nagar,RJ,Startup,2021-10-09 00:00:00,48332.81,1
+1943,Mital Ltd,bakshirobert@andra.com,Naihati,DL,SMB,2021-10-09 08:00:00,160393.59,0
+1944,Nagarajan Ltd,kothariturvi@saran.biz,Thrissur,DL,Startup,2021-10-09 16:00:00,38367.86,0
+1945,Goyal-Jaggi,rajatarana@narang.com,Panchkula,MH,Startup,2021-10-10 00:00:00,134262.96,0
+1946,Din-Grover,pratyush81@madan.info,Karimnagar,RJ,Enterprise,2021-10-10 08:00:00,240557.46,0
+1947,Bandi-Padmanabhan,baljiwan64@samra-swamy.com,Raurkela Industrial Township,AP,SMB,2021-10-10 16:00:00,82965.8,0
+1948,"Oak, Sunder and Mistry",,Farrukhabad,TS,SMB,2021-10-11 00:00:00,115034.93,0
+1949,Chadha Ltd,aayushpalla@kapur-agrawal.com,Junagadh,TN,SMB,2021-10-11 08:00:00,138996.66,1
+1950,Sandhu-Lad,geraveer@kant.org,Vijayanagaram,GJ,Individual,2021-10-11 16:00:00,158489.81,0
+1951,"Khanna, Sabharwal and Ramakrishnan",vrishtiluthra@chaudry-tank.com,Naihati,TN,Individual,2021-10-12 00:00:00,42722.27,0
+1952,Mishra-Sharma,,Ambattur,KA,Startup,2021-10-12 08:00:00,4473.05,0
+1953,Bora-Mahal,oakqushi@pandya.com,Barasat,KA,Startup,2021-10-12 16:00:00,43686.4,0
+1954,Kapoor-Dalal,vyanjanavenkatesh@datta.info,Vijayanagaram,TN,SMB,2021-10-13 00:00:00,95209.39,0
+1955,"Lalla, Raj and Butala",ksoni@garg-kurian.com,Serampore,KA,Individual,2021-10-13 08:00:00,50870.31,1
+1956,Tella-Sodhi,,Karnal,AP,Startup,2021-10-13 16:00:00,117483.22,0
+1957,Edwin-Aggarwal,gulatiwishi@bandi.com,Akola,DL,Startup,2021-10-14 00:00:00,37534.57,0
+1958,"Sem, Sur and Purohit",dadaekaja@shah-agrawal.com,Kolkata,KA,Individual,2021-10-14 08:00:00,85608.36,0
+1959,Vig-Sarkar,guneetvyas@wali.net,Gandhinagar,MH,SMB,2021-10-14 16:00:00,17536.42,0
+1960,Saraf Group,rameshosha@pandit.org,Guntur,KA,Individual,2021-10-15 00:00:00,117620.9,1
+1961,"Dewan, Vig and Anne",ridhi94@sharaf-chawla.com,Ramgarh,TS,SMB,2021-10-15 08:00:00,67064.03,0
+1962,Chanda-Munshi,vohrachandresh@bhatnagar-zachariah.com,Salem,AP,SMB,2021-10-15 16:00:00,19400.14,0
+1963,Kari and Sons,gvarkey@verma-kapadia.org,Morena,TS,SMB,2021-10-16 00:00:00,29340.79,1
+1964,Wali LLC,ishani62@saini.com,Kamarhati,TS,Individual,2021-10-16 08:00:00,117363.29,0
+1965,Dutta-Modi,eta05@raj.biz,Mumbai,MH,Individual,2021-10-16 16:00:00,56010.02,0
+1966,Sanghvi LLC,ishaan94@bahri.biz,Gopalpur,AP,Startup,2021-10-17 00:00:00,20687.84,0
+1967,Badami Ltd,yluthra@mukherjee.com,Chandrapur,AP,Startup,2021-10-17 08:00:00,290657.46,1
+1968,Baria-Mall,muttianvi@mahajan-borah.org,Bidhannagar,RJ,Startup,2021-10-17 16:00:00,106734.91,0
+1969,Seth-Sibal,dnigam@ranganathan-kade.com,Amravati,AP,Individual,2021-10-18 00:00:00,267724.14,0
+1970,"Subramanian, D’Alia and Bava",qrajagopal@khanna-natt.net,Shimla,AP,SMB,2021-10-18 08:00:00,47349.5,0
+1971,Bawa-Parmer,ghoseaarav@luthra.biz,Bhubaneswar,AP,SMB,2021-10-18 16:00:00,54786.59,0
+1972,De PLC,leenasehgal@joshi.com,Madhyamgram,MH,SMB,2021-10-19 00:00:00,193999.2,0
+1973,Kanda Group,upasna38@wali-wali.com,Nadiad,KA,Startup,2021-10-19 08:00:00,63286.27,0
+1974,Varma-Manne,udarshmohan@dubey.org,Dhanbad,RJ,Startup,2021-10-19 16:00:00,104425.48,0
+1975,Hegde-Jani,bgoda@bath-ramaswamy.com,Berhampore,TS,SMB,2021-10-20 00:00:00,24699.59,0
+1976,Minhas-Brar,pcontractor@kapoor.com,Pimpri-Chinchwad,AP,Enterprise,2021-10-20 08:00:00,50311.74,0
+1977,Naidu-Shukla,indali92@tandon.org,Darbhanga,GJ,Individual,2021-10-20 16:00:00,11199.72,0
+1978,Mahajan Ltd,yashodharadugar@sen-arora.com,Bareilly,KA,Enterprise,2021-10-21 00:00:00,,1
+1979,Prabhakar-Lall,lsuri@chahal.info,Kavali,KA,Startup,2021-10-21 08:00:00,80.23,0
+1980,Modi LLC,qushi57@dhawan.org,Panvel,TS,Individual,2021-10-21 16:00:00,3404.82,0
+1981,"Bahri, Toor and Anne",wdeshmukh@khatri.com,Ranchi,MH,SMB,2021-10-22 00:00:00,321697.63,0
+1982,Dhaliwal-Samra,rmaster@chawla.biz,Fatehpur,TN,SMB,2021-10-22 08:00:00,23590.78,0
+1983,"Kale, Dasgupta and Behl",janaki69@nagar.net,Bhagalpur,TN,Startup,2021-10-22 16:00:00,92530.55,1
+1984,Dara PLC,gdani@chowdhury.com,Haldia,KA,Individual,2021-10-23 00:00:00,155292.48,1
+1985,D’Alia-Kant,banjeet26@sheth-mahajan.com,Ulhasnagar,DL,SMB,2021-10-23 08:00:00,67998.0,1
+1986,"Varkey, Krishna and Devan",jairajpandya@issac.com,Sambalpur,DL,Individual,2021-10-23 16:00:00,14129.14,0
+1987,Nigam Ltd,,Saharsa,TS,Enterprise,2021-10-24 00:00:00,110702.42,0
+1988,"Shere, Batra and Dhawan",rajatasethi@seth-sen.com,Saharsa,TN,SMB,2021-10-24 08:00:00,77938.15,0
+1989,Saha-Mani,osidhu@luthra.net,Mahbubnagar,KA,Startup,2021-10-24 16:00:00,111687.95,0
+1990,Nagy-Sem,tejasmagar@dar.com,Kadapa,MH,Individual,2021-10-25 00:00:00,124828.87,0
+1991,Batra LLC,yasti55@mallick.org,Pali,TN,SMB,2021-10-25 08:00:00,314961.58,1
+1992,"Deol, Madan and Khatri",kharezaid@joshi.net,Guwahati,KA,Individual,2021-10-25 16:00:00,72444.76,0
+1993,Mittal-Mittal,zaidmani@mukhopadhyay.biz,Phusro,KA,Startup,2021-10-26 00:00:00,35530.43,0
+1994,"Radhakrishnan, Comar and Shenoy",qanne@oommen.com,Anantapur,AP,SMB,2021-10-26 08:00:00,88862.8,0
+1995,"Bal, Goyal and Randhawa",goswamisaanvi@kapadia.com,Ambarnath,MH,Enterprise,2021-10-26 16:00:00,6026.11,1
+1996,"Chauhan, Keer and Borra",cghosh@chauhan.com,Shimla,AP,Individual,2021-10-27 00:00:00,193535.75,0
+1997,"Sundaram, Rout and Menon",sulesudiksha@basu.info,Guntur,TS,SMB,2021-10-27 08:00:00,,0
+1998,Dayal-Raja,girik34@kota.com,Gaya,AP,SMB,2021-10-27 16:00:00,33767.36,1
+1999,"Dhaliwal, Dua and Bhagat",yadavi37@pandit.info,Visakhapatnam,GJ,SMB,2021-10-28 00:00:00,143772.12,0
+2000,Mistry-Ramakrishnan,upadhriti04@zachariah-bajaj.net,Bhilwara,AP,Individual,2021-10-28 08:00:00,77315.5,0
+1272,Choudhry Ltd,kashvi87@prasad-patla.biz,Guna,DL,SMB,2021-02-27 16:00:00,262776.9,1
+671,Gill PLC,ijayakhurana@borah-bansal.biz,Berhampur,AP,SMB,2020-08-11 08:00:00,23045.6,1
+1786,Parmer-Shanker,vasatikagara@ganguly.info,Jodhpur,RJ,SMB,2021-08-18 00:00:00,40204.58,1
+1889,Shukla-Dara,rhanda@mani-varkey.com,Coimbatore,GJ,Individual,2021-09-21 08:00:00,2182.41,0
+702,Chopra PLC,vidhi11@vohra.com,Aizawl,RJ,SMB,2020-08-21 16:00:00,96454.4,0
+704,Sachdev-Ramesh,dhritivarkey@issac.com,Bathinda,RJ,SMB,2020-08-22 08:00:00,160190.46,0
+777,"Shanker, Tata and Mandal",tellaabha@mistry-kibe.com,Satara,AP,Startup,2020-09-15 16:00:00,146222.39,0
+1541,Prabhu LLC,daminizacharia@sengupta.info,Barasat,GJ,Startup,2021-05-28 08:00:00,16025.58,0
+1163,Chand and Sons,npant@kannan.biz,Katni,TS,SMB,2021-01-22 08:00:00,67660.51,0
+1059,"Bhandari, Chaudry and Kadakia",,Suryapet,DL,Startup,2020-12-18 16:00:00,187551.46,1
+283,Shroff-Uppal,hardik50@dewan.com,Cuttack,DL,Startup,2020-04-04 00:00:00,,0
+1830,Pall-Pradhan,fbaral@taneja.com,Akola,AP,Enterprise,2021-09-01 16:00:00,59488.09,0
+1414,Magar-Mutti,,Ahmednagar,RJ,Enterprise,2021-04-16 00:00:00,87271.05,0
+418,"Dubey, Bakshi and Badal",,Aurangabad,TS,Enterprise,2020-05-19 00:00:00,90295.96,0
+1400,Dada-Balakrishnan,hemal63@anand-manda.com,Alappuzha,MH,Startup,2021-04-11 08:00:00,11539.26,1
+1313,"More, Aggarwal and Sawhney",jalsasen@apte-bhakta.biz,Khammam,AP,SMB,2021-03-13 08:00:00,11286.65,0
+1623,Tak Group,bhandarilibni@bawa-kapadia.com,Kulti,DL,SMB,2021-06-24 16:00:00,13484.26,0
+1335,"Thaman, Devan and Bajaj",ggoswami@shankar-jani.org,Kochi,TN,Enterprise,2021-03-20 16:00:00,40763.64,0
+1933,Khosla-Balay,chaudrybhanumati@sule.info,Burhanpur,AP,Enterprise,2021-10-06 00:00:00,276965.33,0
+1112,"Tara, Kapoor and Kapur",ektagade@upadhyay.com,Ongole,AP,SMB,2021-01-05 08:00:00,58964.87,0
+1242,Singhal-Parsa,dashodika@kothari.com,Patna,TN,Enterprise,2021-02-17 16:00:00,42846.56,0
+1982,Dhaliwal-Samra,rmaster@chawla.biz,Fatehpur,TN,SMB,2021-10-22 08:00:00,23590.78,0
+207,Hora Inc,yoshitabasu@bath-ghose.com,Panvel,RJ,Startup,2020-03-09 16:00:00,166372.63,1
+1807,Agarwal PLC,pdatta@bose.com,Ujjain,TN,Startup,2021-08-25 00:00:00,6889.63,0
+1013,Ben-Trivedi,,Jammu,DL,Individual,2020-12-03 08:00:00,101537.84,1
+862,"Johal, Krishnan and Ghose",ubikahanda@sibal-dixit.com,Anantapuram,AP,Startup,2020-10-14 00:00:00,80436.73,0
+1206,"Peri, Aurora and Gour",waliawarjas@bhargava.info,Junagadh,DL,Individual,2021-02-05 16:00:00,,1
+947,"Narula, Shah and Issac",samalila@agrawal.com,Gurgaon,MH,SMB,2020-11-11 08:00:00,92129.58,0
+970,Dani-Mallick,,Kishanganj,KA,Enterprise,2020-11-19 00:00:00,43092.77,1
+1872,Walia-Badal,echhabra@dani-kadakia.com,Hospet,MH,Individual,2021-09-15 16:00:00,12059.22,0
+239,Ravi-Natarajan,cmand@pingle.com,Jalgaon,KA,Individual,2020-03-20 08:00:00,81421.12,0
+1387,"Vig, Subramanian and Raval",krishnavarenya@ahluwalia-majumdar.biz,Parbhani,AP,SMB,2021-04-07 00:00:00,273161.52,0
+602,"Bandi, Narain and Bawa",hvora@kala.org,Proddatur,RJ,SMB,2020-07-19 08:00:00,71911.08,0
+461,Goda-Soman,janani18@mandal.com,Kishanganj,TS,SMB,2020-06-02 08:00:00,27368.41,1
+1192,Som-Bora,nikita18@pillay.biz,Raiganj,KA,Individual,2021-02-01 00:00:00,175309.26,0
+1991,Batra LLC,yasti55@mallick.org,Pali,TN,SMB,2021-10-25 08:00:00,314961.58,1
+1535,Ramakrishnan-Arya,nikitarout@hans.info,Chandigarh,KA,Startup,2021-05-26 08:00:00,68848.44,0
+1625,Panchal-Varkey,zinalgrover@loyal.org,Narasaraopet,DL,SMB,2021-06-25 08:00:00,246573.08,1
+1,Pingle-Mukherjee,sdalal@bassi.com,Rewa,GJ,SMB,2020-01-01 00:00:00,94935.42,0
+1408,Borde Ltd,,Secunderabad,MH,SMB,2021-04-14 00:00:00,13073.0,0
+916,"Thakkar, Ganguly and Behl",cbalakrishnan@chana.org,Eluru,DL,Startup,2020-11-01 00:00:00,42736.6,0
+4,"Parsa, Tandon and Bhavsar",beraradhika@mandal.net,Vellore,GJ,Startup,2020-01-02 00:00:00,83341.95,0
+1657,Dar-Sandhu,yashodhara30@chauhan.com,Kota,TS,Individual,2021-07-06 00:00:00,153900.05,0
+1616,Swaminathan-Lall,hamsini31@deshmukh.com,Pallavaram,KA,Enterprise,2021-06-22 08:00:00,32400.0,0
+903,Sachdev and Sons,gaurisrivastava@butala.biz,Farrukhabad,DL,Startup,2020-10-27 16:00:00,209594.6,0
+433,Chand LLC,vsood@andra-sankar.com,Bally,MH,SMB,2020-05-24 00:00:00,120154.64,0
+536,"Goyal, Gole and Pathak",ganesanjoshua@nagar.com,Alwar,DL,Enterprise,2020-06-27 08:00:00,11805.92,0
+1253,"Bhavsar, Chand and Apte",mdugar@randhawa-reddy.info,Dibrugarh,RJ,Startup,2021-02-21 08:00:00,35229.39,0
+257,Prashad-Kant,bsrinivas@nayar.com,Pune,GJ,SMB,2020-03-26 08:00:00,100121.04,0
+1765,"Varty, Vora and Apte",,Rourkela,MH,Enterprise,2021-08-11 00:00:00,65708.88,0
+1702,Sharma-Pai,ojasbassi@samra-puri.info,Buxar,DL,Individual,2021-07-21 00:00:00,6476.53,0
+978,Tandon-Andra,,Tiruchirappalli,RJ,SMB,2020-11-21 16:00:00,,0
+434,Shetty Inc,chavvibhargava@viswanathan-ratti.com,Alappuzha,RJ,Startup,2020-05-24 08:00:00,49633.45,0
+1204,Kalla PLC,khuranaekiya@murthy.biz,Loni,TS,Enterprise,2021-02-05 00:00:00,281340.97,0
+89,"Bala, Prakash and Varghese",maya69@saxena.org,Pallavaram,TN,Individual,2020-01-30 08:00:00,74331.8,0
+133,Tata Group,yohannanwazir@gopal.com,Thrissur,AP,Enterprise,2020-02-14 00:00:00,229393.85,0
+1235,Dewan-Walla,madhav21@magar.com,Nangloi Jat,TS,Startup,2021-02-15 08:00:00,89914.5,0
+888,Chaudhari-Dube,rastogiaditya@jaggi.com,Solapur,DL,SMB,2020-10-22 16:00:00,85764.47,1
+94,"Sangha, Bhasin and Choudhry",,Dhule,DL,SMB,2020-02-01 00:00:00,155664.09,0
+54,"Divan, Chahal and Walia",ekalinga43@malhotra.com,Morena,TN,Startup,2020-01-18 16:00:00,28808.33,0
