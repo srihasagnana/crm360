@@ -19,7 +19,7 @@ print("interactions dataframe missing values:",interactions_df.isnull().sum())
 # handle missing values
 customers_df['email']=customers_df['email'].fillna('unknown@gmail.com')
 customers_df['annual_spend']=pd.to_numeric(customers_df['annual_spend'],errors='coerce')
-customers_df.fillna(customers_df['annual_spend'].mean(),inplace=True)
+customers_df['annual_spend'].fillna(customers_df['annual_spend'].mean(),inplace=True)
 contacts_df=contacts_df.dropna(subset=['phone'])
 orders_df=orders_df.dropna(subset=['product_id'])
 
