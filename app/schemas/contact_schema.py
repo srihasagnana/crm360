@@ -1,3 +1,4 @@
+from datetime import datetime
 from typing import Optional, Literal
 from pydantic import BaseModel, ConfigDict
 
@@ -7,10 +8,10 @@ class ContactCreate(BaseModel):
     phone:Optional[int]
     whatsapp:Optional[int]
     preferred_channel:Literal["WhatsApp","Phone","Email"]
-    last_contact:Optional[float]
+    last_contact:Optional[datetime]
 
 class ContactUpdate(BaseModel):
-    last_contact:Optional[float]
+    last_contact:Optional[datetime]
 
 class ContactOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
@@ -19,4 +20,4 @@ class ContactOut(BaseModel):
     phone: int
     whatsapp: int
     preferred_channel: Literal["WhatsApp","Phone","Email"]
-    last_contact: Optional[float]
+    last_contact: datetime

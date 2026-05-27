@@ -6,6 +6,7 @@ from app.routers.order_router import router as order_router
 from app.routers.contact_router import router as contact_router
 from app.routers.interactions_router import router as interactions_router
 from app.routers.complaint_router import router as complaint_router
+from app.routers.analytics import router as analytics_router
 
 api_router = APIRouter(prefix="/api")
 
@@ -16,3 +17,4 @@ api_router.include_router(contact_router, tags=["contact"])
 api_router.include_router(interactions_router, tags=["interaction"])
 api_router.include_router(complaint_router, tags=["complaint"])
 api_router.include_router(deal_router, tags=["deal"])
+api_router.include_router(analytics_router, tags=["analytics"])

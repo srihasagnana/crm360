@@ -1,4 +1,5 @@
 import pandas as pd
+from app.db.connection import engine
 
 customers_df=pd.read_csv('../raw_datasets/customers.csv')
 contacts_df=pd.read_csv('../raw_datasets/contacts.csv')
@@ -19,7 +20,9 @@ print("interactions dataframe missing values:",interactions_df.isnull().sum())
 # handle missing values
 customers_df['email']=customers_df['email'].fillna('unknown@gmail.com')
 customers_df['annual_spend']=pd.to_numeric(customers_df['annual_spend'],errors='coerce')
-customers_df['annual_spend'].fillna(customers_df['annual_spend'].mean(),inplace=True)
+customers_df['annual_spend'] = customers_df['annual_spend'].fillna(
+    customers_df['annual_spend'].mean()
+)
 contacts_df=contacts_df.dropna(subset=['phone'])
 orders_df=orders_df.dropna(subset=['product_id'])
 
@@ -59,12 +62,15 @@ interactions_df['outcome']=interactions_df['outcome'].str.lower()
 
 # data handling
 customers_df['doj']=pd.to_datetime(customers_df['doj'])
-contacts_df['phone']=contacts_df['phone'].astype(str)
-contacts_df['phone']=contacts_df['phone'].str.replace(r'^\+91','',regex=True)
-contacts_df['phone']=contacts_df['phone'].str.replace(r'^91','',regex=True)
-contacts_df['last_contact']=contacts_df['last_contact'].astype(str)
-contacts_df['last_contact']=contacts_df['last_contact'].str.replace(r'^\+91','',regex=True)
-contacts_df['last_contact']=contacts_df['last_contact'].str.replace(r'^91','',regex=True)
+customers_df['churn'] = customers_df['churn'].astype(str)
+contacts_df['phone'] = (
+    contacts_df['phone']
+    .astype(str)
+    .str.replace('.0', '', regex=False)
+)
+contacts_df['last_contact'] = pd.to_datetime(
+    contacts_df['last_contact']
+)
 deals_df['created_date']=pd.to_datetime(deals_df['created_date'])
 deals_df['closed_date']=pd.to_datetime(deals_df['closed_date'])
 orders_df['order_date']=pd.to_datetime(orders_df['order_date'])
@@ -76,3 +82,26 @@ deals_df.to_csv('../cleaned_data/deals_data.csv',index=False)
 orders_df.to_csv('../cleaned_data/orders_data.csv',index=False)
 interactions_df.to_csv('../cleaned_data/interactions_data.csv',index=False)
 complaints_df.to_csv('../cleaned_data/complaints_data.csv',index=False)
+
+
+# load data to mysql
+customers_df = customers_df.drop_duplicates(subset=['customer_id'])
+customers_df.to_sql('customer',con=engine,if_exists="append",index=False)
+
+contacts_df.to_sql('contact',con=engine,if_exists="append",index=False)
+deals_df = deals_df.drop_duplicates(subset=['deal_id'])
+deals_df.to_sql('deal',con=engine,if_exists="append",index=False)
+products_df = products_df.drop_duplicates(subset=['product_id'])
+products_df.to_sql('product',con=engine,if_exists="append",index=False)
+orders_df['product_id'] = orders_df['product_id'].astype(int)
+
+orders_df['amount'] = pd.to_numeric(
+    orders_df['amount'],
+    errors='coerce'
+)
+
+orders_df = orders_df.dropna(subset=['amount'])
+orders_df = orders_df.drop_duplicates(subset=['order_id'])
+orders_df.to_sql('order',con=engine,if_exists="append",index=False)
+interactions_df.to_sql('interation',con=engine,if_exists="append",index=False)
+complaints_df.to_sql('complaint',con=engine,if_exists="append",index=False)

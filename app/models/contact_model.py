@@ -1,4 +1,6 @@
-from sqlalchemy import Double
+from datetime import datetime
+
+from sqlalchemy import Double, DateTime
 from sqlalchemy import Integer, ForeignKey
 from sqlalchemy.dialects.mysql import ENUM
 from sqlalchemy.orm import Mapped,mapped_column
@@ -13,4 +15,4 @@ class Contact(Base):
     phone:Mapped[int]=mapped_column(Integer)
     whatsapp:Mapped[int]=mapped_column(Integer)
     preferred_channel:Mapped[str]=mapped_column(ENUM("WhatsApp","Phone","Email"),nullable=False)
-    last_contact:Mapped[float]=mapped_column(Double)
+    last_contact:Mapped[datetime]=mapped_column(DateTime,nullable=False)

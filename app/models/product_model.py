@@ -9,7 +9,7 @@ class Product(Base):
     __tablename__ = 'product'
     product_id:Mapped[int]=mapped_column(Integer,primary_key=True,autoincrement=True,nullable=False)
     name:Mapped[str]=mapped_column(String(30),nullable=False,default="")
-    category:Mapped[str]=mapped_column(ENUM('Software','Hardware'),nullable=False)
+    category:Mapped[str]=mapped_column(ENUM('software','hardware','service'),nullable=False)
     unit_price:Mapped[double]=mapped_column(Double,nullable=False)
     cost:Mapped[float]=mapped_column(Double,nullable=False)
     stock_qty:Mapped[int]=mapped_column(Integer,nullable=False)
