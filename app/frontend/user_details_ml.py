@@ -1,10 +1,36 @@
-import requests
+import plt
 import streamlit as st
 import pandas as pd
 import joblib
 
 def churn_model():
-    st.title("Churn Prediction")
+    st.header("RFM scoring and segment labeling")
+    df = pd.read_csv("app/model_trained/customer_orders.csv")
+    df=df.groupby('customer_id').agg({
+        'total_orders':'sum',
+        'amount':'sum',
+        'tenure_days':'first',
+        'churn':'first',
+        'days_since_last_order':'first',
+        'annual_spend':'first'
+    }).reset_index()
+
+    df['r_score']=pd.qcut(df['days_since_last_order'],5,labels=[5,4,3,2,1])
+    df['f_score']=pd.qcut(df['total_orders'],5,labels=[1,2,3,4,5],duplicates='drop')
+    df['m_score']=pd.qcut(df['amount'],5,labels=[1,2,3,4,5])
+
+
+    def seg(row):
+        if row['r_score']>4 and row['f_score']>4 and row['m_score']>4:
+            return "Champions"
+        else:
+            return "At Risk"
+
+    df['segment_name']=df.apply(seg,axis=1)
+
+    st.write(df)
+    st.bar_chart(df['segment_name'].value_counts())
+    st.header("Churn Prediction")
     with st.form("user_form"):
         customer_id=st.number_input("Customer ID")
         amount=st.number_input("Amount")
@@ -76,27 +102,21 @@ def churn_model():
         # threshold prob
         if prob[0][1]<0.35:
             st.success('low risk')
-            risk='low'
         elif prob[0][1]<0.7:
             st.warning("medium risk")
-            risk='medium'
         else:
             st.error("high risk")
-            risk='high'
 
-        response1 = requests.get("http://127.0.0.1:8000/api/order/orders")
-        response2 = requests.get("http://127.0.0.1:8000/api/customer/customers")
-        df1 = response1.json()
-        df2 = response2.json()
-        df1 = pd.DataFrame(df1)
-        df2 = pd.DataFrame(df2)
 
-        df = df1.merge(df2, on="customer_id", how="outer")
-        customer_df=[]
-        for data in df:
-            customer_df.append({
-                'customer_id':data[0],
-                'risk':model.predict_proba(df[data[0]])[0][1],
-            })
-        risk_df=pd.DataFrame(customer_df)
-        st.dataframe(risk_df)
+        importance_df=pd.read_csv('app/model_trained/churn_random_forest_importance.csv')
+        importance_df = importance_df.sort_values('importance', ascending=False)
+        top_features = importance_df.head(10)
+        st.dataframe(top_features)
+
+        fig,ax=plt.subplots(figsize=(8,5))
+        ax.barh(top_features['features'],top_features['importance'])
+        ax.set_title("Top 10 Churn Drivers")
+        ax.set_xlabel("Importance")
+        ax.set_ylabel("Features")
+        st.pyplot(fig)
+

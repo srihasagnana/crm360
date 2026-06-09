@@ -6,6 +6,8 @@ from sales_funnel import sales_funnel_func,deal_stage_velocity_func
 from seasonal_demand import seasonal_demand_index_func
 from user_details_ml import churn_model
 from forecast_ml import revenue_forecast
+from deals_ml import deals_model_func
+from customer_segmentation_ml import customer_segmentation
 
 pg=st.sidebar.selectbox(
     "select dashboards",
@@ -17,6 +19,8 @@ pg=st.sidebar.selectbox(
         "Seasonal Demand",
         "Churn Model",
         "Revenue Forecast",
+        "deals model func",
+        "customer segmentation"
     ]
 )
 if pg=="Revenue Analysis":
@@ -37,3 +41,7 @@ if pg=='Churn Model':
     churn_model()
 if pg=='Revenue Forecast':
     revenue_forecast()
+if pg=='deals model func':
+    deals_model_func()
+if pg=="customer segmentation":
+    customer_segmentation()

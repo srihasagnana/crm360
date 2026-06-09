@@ -6,9 +6,9 @@ from sklearn.linear_model import LogisticRegression, Ridge
 from sklearn.model_selection import train_test_split,cross_val_score
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score,classification_report
 import joblib
-import streamlit as st
+from imblearn.over_sampling import SMOTE
 
 response1=requests.get("http://127.0.0.1:8000/api/order/orders")
 response2=requests.get("http://127.0.0.1:8000/api/customer/customers")
@@ -57,15 +57,30 @@ rf_pipeline=Pipeline([
     ('RandomForest',RandomForestClassifier(class_weight='balanced',random_state=42)),
 ])
 
+# smote
+imputer=SimpleImputer(strategy='mean')
+X_train_imp=imputer.fit_transform(X_train)
+X_test_imp=imputer.transform(X_test)
+smote=SMOTE(random_state=42)
+X_train_smote,y_train_smote=smote.fit_resample(X_train_imp,y_train)
+rf_pipeline.fit(X_train_smote,y_train_smote)
+
+y_predict_smote=rf_pipeline.predict(X_test_imp)
+accuracy_smote=accuracy_score(y_test,y_predict_smote)
+print("smote:",accuracy_smote)
+
+
 pipeline.fit(X_train,y_train)
-y_predict=pipeline.predict(X_test)
-accuracy=accuracy_score(y_test,y_predict)
+y_predict_logistic=pipeline.predict(X_test)
+accuracy=accuracy_score(y_test,y_predict_logistic)
 print("logistic:",accuracy)
 
 rf_pipeline.fit(X_train,y_train)
-y_predict=rf_pipeline.predict(X_test)
-accuracy_rf=accuracy_score(y_test,y_predict)
+y_predict_rf=rf_pipeline.predict(X_test)
+accuracy_rf=accuracy_score(y_test,y_predict_rf)
 print("random forest:",accuracy_rf)
+print("smote classification score:",classification_report(y_test,y_predict_smote))
+print("random forest classification score:",classification_report(y_test,y_predict_rf))
 
 score=cross_val_score(rf_pipeline,X_train,y_train,cv=10,scoring='accuracy')
 print("cross value score:",score)
@@ -82,3 +97,14 @@ print("Probability:", rf_pipeline.predict_proba(X_row))
 
 row = df[df['customer_id']==3].head(1)
 print(row.T)
+
+
+rf=rf_pipeline.named_steps['RandomForest']
+importance_df=pd.DataFrame({
+    "features":X.columns,
+    "importance":rf.feature_importances_,
+})
+
+importance_df.to_csv('../model_trained/churn_random_forest_importance.csv',index=False)
+df.to_csv("../model_trained/customer_orders.csv",index=False)
+
