@@ -2,11 +2,11 @@ import pandas as pd
 import requests
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.impute import SimpleImputer
-from sklearn.linear_model import LogisticRegression, Ridge
-from sklearn.model_selection import train_test_split,cross_val_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split,cross_val_score,GridSearchCV
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.metrics import accuracy_score,classification_report
+from sklearn.metrics import accuracy_score, classification_report, recall_score, f1_score
 import joblib
 from imblearn.over_sampling import SMOTE
 
@@ -40,6 +40,7 @@ encoder=ohe.fit_transform(df[categorical_cols])
 encoder=pd.DataFrame(encoder,columns=ohe.get_feature_names_out(categorical_cols))
 df=pd.concat([df.drop(categorical_cols,axis=1),encoder],axis=1)
 
+df['churn']=df['churn'].astype(int)
 X=df.drop("churn",axis=1)
 y=df["churn"]
 X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.2,random_state=0)
@@ -69,7 +70,6 @@ y_predict_smote=rf_pipeline.predict(X_test_imp)
 accuracy_smote=accuracy_score(y_test,y_predict_smote)
 print("smote:",accuracy_smote)
 
-
 pipeline.fit(X_train,y_train)
 y_predict_logistic=pipeline.predict(X_test)
 accuracy=accuracy_score(y_test,y_predict_logistic)
@@ -81,6 +81,21 @@ accuracy_rf=accuracy_score(y_test,y_predict_rf)
 print("random forest:",accuracy_rf)
 print("smote classification score:",classification_report(y_test,y_predict_smote))
 print("random forest classification score:",classification_report(y_test,y_predict_rf))
+
+# grid_search_cv
+param_grid={
+    'RandomForest__n_estimators':[50,100,200],
+    'RandomForest__max_depth':[5,10,None],
+}
+
+grid_pipeline=GridSearchCV(
+    rf_pipeline,
+    param_grid=param_grid,
+    cv=5,
+    scoring='f1',
+)
+grid_pipeline.fit(X_train,y_train)
+print("grid pipeline:",grid_pipeline.best_params_)
 
 score=cross_val_score(rf_pipeline,X_train,y_train,cv=10,scoring='accuracy')
 print("cross value score:",score)
@@ -108,3 +123,11 @@ importance_df=pd.DataFrame({
 importance_df.to_csv('../model_trained/churn_random_forest_importance.csv',index=False)
 df.to_csv("../model_trained/customer_orders.csv",index=False)
 
+comparison_df=pd.DataFrame({
+    'model':['RandomForest','LogisticRegression','random_forest_smote'],
+    'accuracy':[accuracy_rf,accuracy,accuracy_smote],
+    'recall':[recall_score(y_test,y_predict_rf),recall_score(y_test,y_predict_logistic),recall_score(y_test,y_predict_smote)],
+    'f1_score': [f1_score(y_test, y_predict_rf), f1_score(y_test, y_predict_logistic),
+               f1_score(y_test, y_predict_smote)]
+})
+comparison_df.to_csv('../model_trained/churn_random_forest_comparison.csv',index=False)

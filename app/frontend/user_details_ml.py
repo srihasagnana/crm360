@@ -102,10 +102,29 @@ def churn_model():
         # threshold prob
         if prob[0][1]<0.35:
             st.success('low risk')
+            actions=[
+                "Send monthly newsletter",
+                "Recommend relevant products",
+                "Maintain regular engagement"
+            ]
         elif prob[0][1]<0.7:
             st.warning("medium risk")
+            actions=[
+                "Send personalized email",
+                "Offer loyalty rewards",
+                "Schedule follow-up call"
+            ]
         else:
             st.error("high risk")
+            actions=[
+                "Immediate customer outreach",
+                "Offer retention discount",
+                "Escalate to account manager"
+            ]
+
+        st.subheader("retention playbook")
+        for action in actions:
+            st.write(action)
 
 
         importance_df=pd.read_csv('app/model_trained/churn_random_forest_importance.csv')
