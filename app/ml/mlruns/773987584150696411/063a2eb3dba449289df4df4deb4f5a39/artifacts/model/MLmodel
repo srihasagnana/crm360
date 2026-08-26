@@ -1,0 +1,42 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+is_signature_from_type_hint: false
+mlflow_version: 2.22.2
+model_size_bytes: 12598782
+model_uuid: 4bd80f2c7f0941a0b41ba85a978b0fb4
+prompts: null
+run_id: 063a2eb3dba449289df4df4deb4f5a39
+signature:
+  inputs: '[{"type": "long", "name": "customer_id", "required": true}, {"type": "double",
+    "name": "qty", "required": true}, {"type": "double", "name": "amount", "required":
+    true}, {"type": "double", "name": "annual_spend", "required": true}, {"type":
+    "double", "name": "order_year", "required": true}, {"type": "double", "name":
+    "order_month", "required": true}, {"type": "double", "name": "order_day", "required":
+    true}, {"type": "integer", "name": "doj_year", "required": true}, {"type": "integer",
+    "name": "doj_month", "required": true}, {"type": "double", "name": "total_orders",
+    "required": true}, {"type": "double", "name": "avg_order_value", "required": true},
+    {"type": "double", "name": "tenure_days", "required": true}, {"type": "double",
+    "name": "days_since_last_order", "required": true}, {"type": "double", "name":
+    "status_Cancelled", "required": true}, {"type": "double", "name": "status_Delivered",
+    "required": true}, {"type": "double", "name": "status_Pending", "required": true},
+    {"type": "double", "name": "status_nan", "required": true}, {"type": "double",
+    "name": "segment_Enterprise", "required": true}, {"type": "double", "name": "segment_Individual",
+    "required": true}, {"type": "double", "name": "segment_SMB", "required": true},
+    {"type": "double", "name": "segment_Startup", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-07-05 10:37:42.179657'

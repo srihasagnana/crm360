@@ -1,0 +1,23 @@
+digest: 4529229e
+name: dataset
+profile: '{"num_rows": 601, "num_elements": 12621}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "customer_id", "required": true},
+  {"type": "double", "name": "qty", "required": false}, {"type": "double", "name":
+  "amount", "required": false}, {"type": "double", "name": "annual_spend", "required":
+  true}, {"type": "double", "name": "order_year", "required": false}, {"type": "double",
+  "name": "order_month", "required": false}, {"type": "double", "name": "order_day",
+  "required": false}, {"type": "integer", "name": "doj_year", "required": true}, {"type":
+  "integer", "name": "doj_month", "required": true}, {"type": "double", "name": "total_orders",
+  "required": true}, {"type": "double", "name": "avg_order_value", "required": false},
+  {"type": "double", "name": "tenure_days", "required": false}, {"type": "double",
+  "name": "days_since_last_order", "required": false}, {"type": "double", "name":
+  "status_Cancelled", "required": true}, {"type": "double", "name": "status_Delivered",
+  "required": true}, {"type": "double", "name": "status_Pending", "required": true},
+  {"type": "double", "name": "status_nan", "required": true}, {"type": "double", "name":
+  "segment_Enterprise", "required": true}, {"type": "double", "name": "segment_Individual",
+  "required": true}, {"type": "double", "name": "segment_SMB", "required": true},
+  {"type": "double", "name": "segment_Startup", "required": true}]}'
+source: '{"tags": {"mlflow.user": "GNANA SRIHASA", "mlflow.source.name": "C:\\Users\\GNANA
+  SRIHASA\\PycharmProjects\\crm360\\app\\ml\\churn_model.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "90cb9c033a73e90fa8817fa743cc0eb55f71421c"}}'
+source_type: code

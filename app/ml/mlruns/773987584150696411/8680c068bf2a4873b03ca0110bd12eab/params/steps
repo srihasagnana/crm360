@@ -1,0 +1,1 @@
+[('Imputer', SimpleImputer()), ('Scaler', StandardScaler(with_mean=False)), ('RandomForest', RandomForestClassifier(class_weight='balanced', random_state=42))]

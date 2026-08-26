@@ -1,0 +1,1 @@
+[('Imputer', SimpleImputer()), ('Scaler', StandardScaler(with_mean=False)), ('LogisticRegression', LogisticRegression())]
