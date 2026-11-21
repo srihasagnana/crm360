@@ -1,13 +1,27 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+requests
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic-settings
+python-dotenv
+torch
+transformers
+sentence-transformers
+chromadb
 langchain
 langchain-community
 langchain-text-splitters
 langchain-huggingface
 langchain-chroma
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-transformers
-chromadb
-sentence-transformers
 aiohappyeyeballs==2.6.2
 aiohttp==3.14.1
 aiosignal==1.4.0
