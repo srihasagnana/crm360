@@ -1,14 +1,14 @@
 import pandas as pd
 import requests
 import streamlit as st
-
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "https://crm360-3.onrender.com")
 st.set_page_config(
     layout="wide"
 )
-
 def customer_lifetime_value_function():
     st.title("Customer lifetime value")
-    responses=requests.get("http://127.0.0.1:8000/api/analytics/customer_lifetime_value")
+    responses=requests.get(f"{BACKEND_URL}/api/analytics/customer_lifetime_value")
     data=responses.json()
     data=pd.DataFrame(data)
     max_clv=data.loc[data['clv'].idxmax()]
