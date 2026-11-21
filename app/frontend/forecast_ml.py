@@ -2,14 +2,15 @@ import joblib
 import streamlit as st
 import requests
 import pandas as pd
-
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "https://crm360-3.onrender.com")
 st.set_page_config(layout="wide")
 
 def revenue_forecast():
     st.title("Next Month Revenue Forecast")
 
     if st.button("predict next month revenue"):
-        response1=requests.get("http://127.0.0.1:8000/api/order/orders")
+        response1=requests.get(f"{BACKEND_URL}/api/order/orders")
         df=response1.json()
         df=pd.DataFrame(df)
 
