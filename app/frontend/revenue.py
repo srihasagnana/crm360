@@ -3,9 +3,11 @@ import pandas as pd
 import requests
 import calendar
 import plotly.express as px
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "https://crm360-3.onrender.com")
 
 def monthly_revenue():
-    responses=requests.get("http://127.0.0.1:8000/api/analytics/monthly_revenue")
+    responses=requests.get(f"{BACKEND_URL}/api/analytics/monthly_revenue")
     data=responses.json()
     data=pd.DataFrame(data)
     data['month']=data['month'].apply(lambda x: calendar.month_name[x])
@@ -29,7 +31,7 @@ def monthly_revenue():
         st.bar_chart(x='month',y='total_orders',data=data)
 
 def aov_func():
-    responses = requests.get("http://127.0.0.1:8000/api/analytics/aov")
+    responses = requests.get(f"{BACKEND_URL}/api/analytics/aov")
     data = responses.json()
     data = pd.DataFrame(data)
     highest_aov=data.loc[data['aov'].idxmax()]
@@ -45,7 +47,7 @@ def aov_func():
 
 def region_product_func():
     st.title("Region Product Analysis Dashboard")
-    responses = requests.get("http://127.0.0.1:8000/api/analytics/region_product")
+    responses = requests.get(f"{BACKEND_URL}/api/analytics/region_product")
     data = responses.json()
     data = pd.DataFrame(data)
     st.subheader("Top Cities by Product Category")
