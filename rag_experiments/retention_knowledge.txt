@@ -1,0 +1,11 @@
+Rule 1:
+Customers who have not ordered recently
+may need a re-engagement campaign.
+
+Rule 2:
+Customers with declining order frequency
+may benefit from personalized offers.
+
+Rule 3:
+High-value customers at risk of churn
+may need priority support.

@@ -1,7 +1,9 @@
-import plt
 import streamlit as st
 import pandas as pd
 import joblib
+import matplotlib.pyplot as plt
+from app.services.llm_service import explain_churn
+
 
 def churn_model():
     st.header("RFM scoring and segment labeling")
@@ -101,6 +103,7 @@ def churn_model():
 
         # threshold prob
         if prob[0][1]<0.35:
+            risk_category="low"
             st.success('low risk')
             actions=[
                 "Send monthly newsletter",
@@ -108,6 +111,7 @@ def churn_model():
                 "Maintain regular engagement"
             ]
         elif prob[0][1]<0.7:
+            risk_category="medium"
             st.warning("medium risk")
             actions=[
                 "Send personalized email",
@@ -115,12 +119,24 @@ def churn_model():
                 "Schedule follow-up call"
             ]
         else:
+            risk_category="high"
             st.error("high risk")
             actions=[
                 "Immediate customer outreach",
                 "Offer retention discount",
                 "Escalate to account manager"
             ]
+        st.session_state["churn_customer_details"] = {
+            "customer_id": int(customer_id),
+            "churn_probability": float(prob[0][1]),
+            "risk_category": risk_category,
+            "days_since_last_order": int(days_since_last_order),
+            "total_orders": int(total_orders),
+            "tenure_days": int(tenure_days),
+            "annual_spend": float(annual_spend),
+            "amount": float(amount),
+            "avg_order_value": float(avg_order_value)
+        }
 
         st.subheader("retention playbook")
         for action in actions:
@@ -139,3 +155,26 @@ def churn_model():
         ax.set_ylabel("Features")
         st.pyplot(fig)
 
+
+#         llm and rag
+
+    st.write("Saved customer details:", st.session_state.get("churn_customer_details"))
+    # AI explanation: outside if submit
+    if "churn_customer_details" in st.session_state:
+        if st.button("Explain Churn Risk with AI"):
+            customer_details = st.session_state[
+                "churn_customer_details"
+            ]
+
+            with st.spinner("Generating AI explanation..."):
+                try:
+                    result = explain_churn(customer_details)
+
+                    st.subheader("AI Churn Explanation")
+                    st.write(result["answer"])
+
+                    with st.expander("Retrieved Retention Guidance"):
+                        st.write(result["retrieved_context"])
+
+                except Exception as e:
+                    st.error(f"AI explanation failed: {e}")
