@@ -16,18 +16,8 @@ The application integrates customer data processing, predictive modelling, and i
 - **Interactive Dashboard:** Provides visualizations and analytical results through Streamlit.
 
 ## Tech Stack
+<img width="662" height="572" alt="image" src="https://github.com/user-attachments/assets/a69db349-d0bd-4f15-adab-16b08aedfcad" />
 
-| Category | Technologies |
-| Programming | Python, SQL |
-| Data Processing | Pandas, NumPy |
-| Machine Learning | Scikit-learn |
-| Backend | FastAPI |
-| Frontend | Streamlit |
-| Database | MySQL |
-| ORM | SQLAlchemy |
-| Model Optimization | GridSearchCV, Cross-Validation |
-| Model Persistence | Joblib |
-| Visualization | Streamlit Charts, Matplotlib, Seaborn |
 
 ## Machine Learning Implementation
 
