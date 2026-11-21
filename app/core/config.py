@@ -1,3 +1,4 @@
+import ssl
 from pathlib import Path
 from pydantic_settings import BaseSettings, SettingsConfigDict
 from sqlalchemy import create_engine
@@ -17,12 +18,12 @@ class Settings(BaseSettings):
 
 settings = Settings()
 
+ssl_context = ssl.create_default_context(
+    cafile="/etc/ssl/certs/ca-certificates.crt"
+)
+
 engine = create_engine(
     settings.DATABASE_URL,
     pool_pre_ping=True,
-    connect_args={
-        "ssl": {
-            "ca": "/etc/ssl/certs/ca-certificates.crt"
-        }
-    },
+    connect_args={"ssl": ssl_context},
 )
