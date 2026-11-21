@@ -20,5 +20,9 @@ settings = Settings()
 engine = create_engine(
     settings.DATABASE_URL,
     pool_pre_ping=True,
-    connect_args={"ssl": {}},
+    connect_args={
+        "ssl": {
+            "ca": "/etc/ssl/certs/ca-certificates.crt"
+        }
+    },
 )
