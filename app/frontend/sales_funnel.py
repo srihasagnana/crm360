@@ -2,9 +2,11 @@ import requests
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "https://crm360-3.onrender.com")
 
 def sales_funnel_func():
-    responses=requests.get("http://127.0.0.1:8000/api/analytics/sales_funnel_rate")
+    responses=requests.get(f"{BACKEND_URL}/api/analytics/sales_funnel_rate")
     data=responses.json()
     data=pd.DataFrame(data)
     st.title("Sales Funnel Stage Data")
@@ -19,7 +21,7 @@ def sales_funnel_func():
         st.bar_chart(x='stage',y='deal count',data=data)
 
 def deal_stage_velocity_func():
-    responses = requests.get("http://127.0.0.1:8000/api/analytics/deal_stage_velocity")
+    responses = requests.get(f"{BACKEND_URL}/api/analytics/deal_stage_velocity")
     data = responses.json()
     data = pd.DataFrame(data)
     col1, col2 = st.columns(2)
