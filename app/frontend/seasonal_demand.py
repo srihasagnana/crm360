@@ -3,10 +3,12 @@ import pandas as pd
 import requests
 import streamlit as st
 import plotly.express as px
+import os
+BACKEND_URL = os.getenv("BACKEND_URL", "https://crm360-3.onrender.com")
 
 def seasonal_demand_index_func():
     st.title("Seasonal Demand Index")
-    responses = requests.get("http://127.0.0.1:8000/api/analytics/monthly_revenue")
+    responses = requests.get(f"{BACKEND_URL}/api/analytics/monthly_revenue")
     data = responses.json()
     data = pd.DataFrame(data)
     data['month']=data['month'].apply(lambda x:calendar.month_name[x])
